@@ -3,16 +3,17 @@
   --md-default-bg-color: #1e1e2e;          /* Base */
   --md-default-bg-color--light: #313244;   /* Surface0 */
   --md-default-bg-color--lighter: #45475a; /* Surface1 */
-  
+
   /* Text */
   --md-default-fg-color: #cdd6f4;          /* Text */
   --md-default-fg-color--light: #bac2de;   /* Subtext1 */
   --md-default-fg-color--lighter: #a6adc8; /* Subtext0 */
-  
+
   /* Accents (Mauve Primary, Blue Accent) */
   --md-primary-fg-color: #cba6f7;          /* Mauve */
+  --md-primary-bg-color: #1e1e2e;          /* Dark text on the light mauve header (Base) */
   --md-accent-fg-color: #89b4fa;           /* Blue */
-  
+
   /* Code Blocks & Tables */
   --md-code-bg-color: #11111b;             /* Crust */
   --md-typeset-table-color: #181825;       /* Mantle */
@@ -23,30 +24,37 @@
   --md-default-bg-color: #eff1f5;          /* Base */
   --md-default-bg-color--light: #ccd0da;   /* Surface0 */
   --md-default-bg-color--lighter: #bcc0cc; /* Surface1 */
-  
+
   /* Text */
   --md-default-fg-color: #4c4f69;          /* Text */
   --md-default-fg-color--light: #5c5f77;   /* Subtext1 */
   --md-default-fg-color--lighter: #6c6f85; /* Subtext0 */
-  
+
   /* Accents (Mauve Primary, Blue Accent) */
   --md-primary-fg-color: #8839ef;          /* Mauve */
   --md-accent-fg-color: #1e66f5;           /* Blue */
-  
+
   /* Code Blocks & Tables */
   --md-code-bg-color: #e6e9ef;             /* Mantle */
   --md-typeset-table-color: #dce0e8;       /* Crust */
 }
-/* Make primary buttons darker */
+
+/* Primary buttons: salmon background with dark text.
+   White text on #dc8a78 is only about 2.6:1; #1e1e2e on it is about 6:1. */
 .md-button.md-button--primary {
-  background-color: #dc8a78 !important; /* Salmon*/
+  background-color: #dc8a78 !important;    /* Rosewater/Flamingo-toned salmon */
   border-color: #dc8a78 !important;
+  color: #1e1e2e !important;
 }
 
-/* Make them even darker when the mouse hovers over them */
+/* Slightly deeper salmon on hover; dark text still passes (about 5.5:1) */
 .md-button.md-button--primary:hover {
-  background-color: #dd7878 !important; 
+  background-color: #dd7878 !important;
   border-color: #dd7878 !important;
+  color: #1e1e2e !important;
 }
 
-  .md-copyright a { text-decoration: underline; }
+/* Footer links */
+.md-copyright a {
+  text-decoration: underline;
+}

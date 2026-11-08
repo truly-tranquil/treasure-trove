@@ -21,7 +21,7 @@ Your time audit starts in Session 1 and runs all week, at about 5 minutes a day.
 | **Theme** | Tracking your time, planning a real week, starting when you don't want to, and preparing without cramming |
 | **CLOs** | 5 (Plan time and work), 7 (Prepare for assessment) |
 | **Capstone deposits** | Time audit results, working weekly plan, tool decision, chunked big task with if–then plan, exam or assignment prep plan |
-| **Works with** | Alone, with a study buddy, or live with a group |
+| **Works with** | Alone, with a study buddy, or [live with a group](../facilitator-guide.md#module-3-time-procrastination-systems) |
 
 **How every session works.** Each session follows the same steps as Weeks 1 and 2: a 5-minute warm-up from memory, the core ideas, a reading, video, or listen with a link and time estimate, the activity (with a solo version and an optional partner step), a deposit toward your capstone, and options for how to do it. A no-tech version is always available: paper, a pen, and a timer.
 
@@ -114,14 +114,5 @@ Tick these off as you go. Every handout is in the [Module 3 materials](materials
 | [Why Do We Do That? #040, "Procrastination with Dr. Tim Pychyl" (66 min)](https://whydowedothat.podbean.com/e/040-procrastination-with-dr-tim-pychyl/) | [Session 3](session-3.md) (optional) |
 | [Cornell Learning Strategies Center, "Studying and Taking Exams"](https://lsc.cornell.edu/how-to-study/studying-for-and-taking-exams) | [Session 4](session-4.md) |
 | [Cornell Learning Strategies Center, "What To Do With Practice Exams"](https://lsc.cornell.edu/how-to-study/studying-for-and-taking-exams/what-to-do-with-practice-exams) | [Session 4](session-4.md) |
-
-## Facilitator notes (if you run this live)
-
-- In Session 1, have learners write their predictions on a card and keep them sealed until the audit review in Session 4.
-- In Session 2, run the Eisenhower sort on a shared "mystery week" first, then have learners sort their own.
-- In Session 3, model your own if–then plan for something you avoid. Keep the tone warm, not preachy.
-- In Session 4, have pairs stress-test each other's backward calendars.
-- Start each session with the warm-up questions, and run the end-of-week self-check as a short quiz.
-- If you keep a grade, use completion of the four handouts plus the self-check rather than participation points.
 
 ---

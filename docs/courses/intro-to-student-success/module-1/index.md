@@ -14,6 +14,8 @@ Before technique, identity. You can't regulate learning you haven't examined, so
 
 **Time for this module:** about 4½ hours of core work: the 10-minute start-of-week check, four sessions (60 + 55 + 55 + 65 minutes), and the 20-minute end-of-week self-check. Each session also lists optional extras, which add about 2 hours across the week if you want them.
 
+**Works with:** alone, with a study buddy, or [live with a group](../facilitator-guide.md).
+
 ### Start of week · 10 min
 
 Rate your confidence from 1 (not at all) to 5 (very) on each of the five items under "What you'll be able to do" below, and write the numbers down. You'll re-rate at the end of the week. The change is your evidence of progress.
@@ -80,11 +82,30 @@ Tick these off as you go. Every handout is in the [Module 1 materials](materials
 - [ ] [Handout 1-E: Zimmerman Cycle Sheet](materials.md#handout-1e)
 - [ ] End-of-week self-check done, with your confidence re-rated
 
+---
+
 ## Next steps and a bridge to Week 2
- 
+
 - **Bridge to Week 2:** bring your learning profile with you. [Module 2](../module-2/index.md)'s study strategies (retrieval, spacing, SQ3R, active notes) will be chosen from your actual challenges, not assigned blindly. If you flagged "I cram and re-read," spacing comes first. If you flagged "I can't make sense of dense text," the reading routine comes first.
 - **Return to Handout 1-E in Week 2:** once you've met a strategy you like, swap it in for the placeholder in the Performance box of your [Zimmerman cycle sheet](materials.md#handout-1e).
 - **Habit to keep:** the 5-minute bedtime reflection and the weekly reflection prompt, both from [Handout 1-E](materials.md#handout-1e).
 - **Continuing beyond the course:** revisit your motivation statement before every major deadline. It's your reset button.
+
+## Resources for Week 1
+
+| Source | Used in |
+|--------|---------|
+| [OpenStax *College Success*, Chapter 2 introduction](https://openstax.org/books/college-success/pages/2-introduction) | [Session 1](session-1.md) |
+| [OpenStax *College Success*, section 2.1, "The Power to Learn"](https://openstax.org/books/college-success/pages/2-1-the-power-to-learn) | [Session 1](session-1.md) |
+| [OpenStax *College Success*, section 2.4, "Learning Styles" (titled "Learning Preferences" in the current edition)](https://openstax.org/books/college-success/pages/2-4-learning-styles) | [Session 1](session-1.md) (optional) |
+| [Carol Dweck, "The power of believing that you can improve" (TED, ≈10 min)](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve) | [Session 2](session-2.md) |
+| [Carol Dweck, "Carol Dweck Revisits the 'Growth Mindset'" (*Education Week*, 2015)](https://www.edweek.org/ew/articles/2015/09/23/carol-dweck-revisits-the-growth-mindset.html) | [Session 2](session-2.md) |
+| [KQED MindShift, "Carol Dweck Explains The 'False' Growth Mindset That Worries Her"](https://www.kqed.org/mindshift/47160/carol-dweck-explains-the-false-growth-mindset-that-worries-her) | [Session 2](session-2.md) (optional) |
+| [OpenStax *College Success*, section 2.3, "It's All in the Mindset"](https://openstax.org/books/college-success/pages/2-3-its-all-in-the-mindset) | [Session 2](session-2.md) (optional) |
+| [Center for Self-Determination Theory, "Theory" overview](https://selfdeterminationtheory.org/theory/) | [Session 3](session-3.md) |
+| [Ryan & Deci (2000), "Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being"](https://doi.org/10.1037/0003-066X.55.1.68) | [Session 3](session-3.md) (optional) |
+| [Scott Geller, "The psychology of self-motivation" (TEDxVirginiaTech, ≈15 min)](https://www.youtube.com/watch?v=7sxpKhIbr0E) | [Session 3](session-3.md) (optional) |
+| [Purdue Global Academic Success Center, "Teaching Students to Learn"](https://purdueglobalwriting.center/2016/08/10/teaching-students-to-learn/) | [Session 4](session-4.md) |
+| [Zimmerman (2002), "Becoming a Self-Regulated Learner: An Overview"](https://doi.org/10.1207/s15430421tip4102_2) | [Session 4](session-4.md) (optional) |
 
 ---

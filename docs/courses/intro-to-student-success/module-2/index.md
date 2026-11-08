@@ -19,7 +19,7 @@ Replace low-yield habits like re-reading and highlighting with high-yield, evide
 | **Theme** | Passive vs. active study, retrieval, spacing, interleaving, notes, and reading |
 | **CLOs** | 4 (Learn how to learn), 6 (Read and process academic text) |
 | **Capstone deposits** | Strategy Toolkit card, spaced-practice schedule, one page of active notes, reading log |
-| **Works with** | Alone, with a study buddy, or live with a group |
+| **Works with** | Alone, with a study buddy, or [live with a group](../facilitator-guide.md#module-2-learning-how-to-learn) |
 
 **How every session works.** Each session follows the same steps as Week 1: a 5-minute warm-up from memory, the core ideas, a reading or video with a link and time estimate, the activity (with a solo version and an optional partner step), a deposit toward your capstone, and options for how to do it. A no-tech version is always available: paper, a pen, and a timer.
 
@@ -115,14 +115,5 @@ Tick these off as you go. Every handout is in the [Module 2 materials](materials
 | [Cornell Learning Strategies Center, "The Cornell Note Taking System"](https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/) | [Session 3](session-3.md) |
 | [Stanford CTL, "Reading Efficacy: The SQ3R Method"](https://ctl.stanford.edu/students/reading-efficacy-sq3r-method) | [Session 4](session-4.md) |
 | [OpenStax *College Success*, section 6.2, "Studying"](https://openstax.org/books/college-success/pages/6-2-studying) (practice reading) | [Session 4](session-4.md) |
-
-## Facilitator notes (if you run this live)
-
-- Open Session 1 with a quick poll: which technique do students use most, and is it passive or active? Reveal the ratings afterward.
-- In Session 2, run the retrieval drill together with a timer, then swap pages for peer checking. Debrief on how it felt versus how it went.
-- In Session 3, demonstrate Cornell notes on a short live clip and have students add cue questions in pairs.
-- In Session 4, assign one shared short reading and run SQ3R together, then compare margin questions.
-- Start each session with the warm-up questions, and run the end-of-week self-check as a short quiz.
-- If you keep a grade, use completion of the four handouts plus the self-check rather than participation points.
 
 ---

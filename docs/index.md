@@ -41,7 +41,7 @@ We have a collection of helpful resources for all things mental health and welln
 ## Meet The Program Manager
 
 
-Hi! I'm Killian but I also go by Tranquil in online spaces. Welcome in! I am here to support you in your learning endeavors so please feel free to reach out to me with any questions. [Contact Page](https://linktr.ee/truly.tranquil))
+Hi! I'm Killian but I also go by Tranquil in online spaces. Welcome in! I am here to support you in your learning endeavors so please feel free to reach out to me with any questions. [Contact Page](https://linktr.ee/truly.tranquil)
 
 ---
 

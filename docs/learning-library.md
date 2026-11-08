@@ -109,6 +109,7 @@ Resources for courses hosted through this program.
 - [MERLOT](https://www.merlot.org/) — Peer-reviewed online learning materials.
 - [OASIS (SUNY Geneseo)](https://oasis.geneseo.edu/) — One search box across dozens of open education repositories.
 - [LiaScript](https://liascript.github.io/) — Interactive, markdown-based open course materials.
+- [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/) — Vast library of natural history books and scientific literature.
 
 ### Free books
 
@@ -240,6 +241,8 @@ Resources for courses hosted through this program.
 - [Maggie Appleton](https://maggieappleton.com/) — Visual essays on digital gardens and personal knowledge.
 - [Scott's Mixtape](https://causalinf.substack.com/) — Newsletter on causal inference and data analysis.
 - [Poetry Foundation](https://www.poetryfoundation.org/) — Free poems, essays, and poet biographies.
+- [Etymonline](https://www.etymonline.com/) — An online etymology dictionary exploring the histories of English words.
+- [Omniglot](https://www.omniglot.com/) — An online encyclopedia of writing systems and languages.
 
 ### Interactive
 
@@ -259,6 +262,7 @@ Resources for courses hosted through this program.
 - [This Old House](https://www.thisoldhouse.com/) — Home repair and renovation guides and video.
 - [Craft in America](https://www.craftinamerica.org/) — Documentary series and articles on American craft artists.
 - [Growing a Greener World](https://www.growingagreenerworld.com/) — Organic gardening and sustainable landscaping.
+- [Lettering Daily](https://www.lettering-daily.com/start-here/) — Free caligraphy and hand lettering tutorials.
 
 ---
 

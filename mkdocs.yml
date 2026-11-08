@@ -49,11 +49,14 @@ nav:
   - Meet The Team: meet-the-team.md
   - Get Help: get-help.md
   - Learning Library: learning-library.md
+  - What's Next: whats-next.md
   - "Courses":
     - Courses By Subject:  courses/index.md
     - "Intro To Student Success":
       - Start Here: courses/intro-to-student-success/index.md
       - Syllabus:  courses/intro-to-student-success/syllabus.md
+      - Capstone: courses/intro-to-student-success/capstone.md
+      - Facilitator Guide: courses/intro-to-student-success/facilitator-guide.md
       - "Module 1- Foundations & Mindset":
           - Overview:  courses/intro-to-student-success/module-1/index.md
           - Materials: courses/intro-to-student-success/module-1/materials.md
