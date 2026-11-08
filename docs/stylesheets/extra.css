@@ -39,7 +39,7 @@
 }
 /* Make primary buttons darker */
 .md-button.md-button--primary {
-  background-color: #dc8a78 !important; /* Dark rich purple */
+  background-color: #dc8a78 !important; /* Salmon*/
   border-color: #dc8a78 !important;
 }
 
@@ -48,3 +48,5 @@
   background-color: #dd7878 !important; 
   border-color: #dd7878 !important;
 }
+
+  .md-copyright a { text-decoration: underline; }

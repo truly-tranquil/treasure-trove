@@ -31,6 +31,3 @@ Aim for specific entries, with at least two in Strengths and Challenges and at l
 **Optional partner step (5 min).** Only if you want to, trade handouts with a buddy and each name one strength you didn’t expect and one workaround you’d never have labeled as such. You choose what to share; skip anything you’d rather keep private.
 
 ---
-
-[All Module 1 materials](materials.md){ .md-button }
-[Next: Session 2](session-2.md){ .md-button .md-button--primary }
