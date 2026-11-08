@@ -39,12 +39,12 @@
 }
 /* Make primary buttons darker */
 .md-button.md-button--primary {
-  background-color: #5a2c99 !important; /* Dark rich purple */
-  border-color: #5a2c99 !important;
+  background-color: #dc8a78 !important; /* Dark rich purple */
+  border-color: #dc8a78 !important;
 }
 
 /* Make them even darker when the mouse hovers over them */
 .md-button.md-button--primary:hover {
-  background-color: #3f1d6b !important; 
-  border-color: #3f1d6b !important;
+  background-color: #dd7878 !important; 
+  border-color: #dd7878 !important;
 }

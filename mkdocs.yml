@@ -4,25 +4,28 @@ site_url: https://truly-tranquil.github.io/treasure-trove/
 theme:
   name: material
   logo: assets/logo.png
-  favicon: assets/logo.png
+  favicon: assets/favicon.ico
   features:
-    - navigation.tabs
     - navigation.footer  
   palette:
+
     # Light mode settings
     - scheme: default
       primary: indigo
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
+
     # Dark mode settings
     - scheme: slate
       primary: indigo
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
+
 extra_css:
   - stylesheets/extra.css
+
 # The Navigation Map
 nav:
   - Home: index.md
