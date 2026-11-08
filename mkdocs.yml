@@ -1,0 +1,51 @@
+site_name: Treasure Trove
+
+theme:
+  name: material
+  palette:
+    # Light mode settings
+    - scheme: default
+      primary: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    # Dark mode settings
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+extra_css:
+  - stylesheets/extra.css
+# The Navigation Map
+nav:
+  - Home: index.md
+  - Meet The Team: meet-the-team.md
+  - Support Resources: support-resources.md
+  - "Courses":
+    - "Intro To Student Success":
+      - Syllabus: intro-to-student-success/index.md
+      - "Module 1- Foundations & Mindset":
+          - Overview: intro-to-student-success/module-1/index.md
+          - Session 1: intro-to-student-success/module-1/session-1.md
+          - Session 2: intro-to-student-success/module-1/session-2.md
+          - Session 3: intro-to-student-success/module-1/session-3.md
+          - Session 4: intro-to-student-success/module-1/session-4.md
+      - "Module 2- Learning How to Learn":
+          - Overview: intro-to-student-success/module-2/index.md
+          - Session 1: intro-to-student-success/module-2/session-1.md
+          - Session 2: intro-to-student-success/module-2/session-2.md
+          - Session 3: intro-to-student-success/module-2/session-3.md
+          - Session 4: intro-to-student-success/module-2/session-4.md
+      - "Module 3- Time, Procrastination, & Systems":
+          - Overview: intro-to-student-success/module-3/index.md
+          - Session 1: intro-to-student-success/module-3/session-1.md
+          - Session 2: intro-to-student-success/module-3/session-2.md
+          - Session 3: intro-to-student-success/module-3/session-3.md
+          - Session 4: intro-to-student-success/module-3/session-4.md
+      - "Module 4- Well-being, Resources & Sustainability":
+          - Overview: intro-to-student-success/module-4/index.md
+          - Session 1: intro-to-student-success/module-4/session-1.md
+          - Session 2: intro-to-student-success/module-4/session-2.md
+          - Session 3: intro-to-student-success/module-4/session-3.md
+          - Session 4: intro-to-student-success/module-4/session-4.md

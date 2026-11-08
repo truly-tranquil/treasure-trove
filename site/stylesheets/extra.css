@@ -1,0 +1,39 @@
+[data-md-color-scheme="slate"] {
+  /* Catppuccin Mocha Backgrounds */
+  --md-default-bg-color: #1e1e2e;          /* Base */
+  --md-default-bg-color--light: #313244;   /* Surface0 */
+  --md-default-bg-color--lighter: #45475a; /* Surface1 */
+  
+  /* Text */
+  --md-default-fg-color: #cdd6f4;          /* Text */
+  --md-default-fg-color--light: #bac2de;   /* Subtext1 */
+  --md-default-fg-color--lighter: #a6adc8; /* Subtext0 */
+  
+  /* Accents (Mauve Primary, Blue Accent) */
+  --md-primary-fg-color: #cba6f7;          /* Mauve */
+  --md-accent-fg-color: #89b4fa;           /* Blue */
+  
+  /* Code Blocks & Tables */
+  --md-code-bg-color: #11111b;             /* Crust */
+  --md-typeset-table-color: #181825;       /* Mantle */
+}
+
+[data-md-color-scheme="default"] {
+  /* Catppuccin Latte (Soft Light Mode) */
+  --md-default-bg-color: #eff1f5;          /* Base */
+  --md-default-bg-color--light: #ccd0da;   /* Surface0 */
+  --md-default-bg-color--lighter: #bcc0cc; /* Surface1 */
+  
+  /* Text */
+  --md-default-fg-color: #4c4f69;          /* Text */
+  --md-default-fg-color--light: #5c5f77;   /* Subtext1 */
+  --md-default-fg-color--lighter: #6c6f85; /* Subtext0 */
+  
+  /* Accents (Mauve Primary, Blue Accent) */
+  --md-primary-fg-color: #8839ef;          /* Mauve */
+  --md-accent-fg-color: #1e66f5;           /* Blue */
+  
+  /* Code Blocks & Tables */
+  --md-code-bg-color: #e6e9ef;             /* Mantle */
+  --md-typeset-table-color: #dce0e8;       /* Crust */
+}
