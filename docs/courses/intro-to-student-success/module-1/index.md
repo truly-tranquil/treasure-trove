@@ -12,6 +12,8 @@ Before technique, identity. You can't regulate learning you haven't examined, so
 
 ## Your week
 
+**Time for this module:** about 4½ hours of core work: the 10-minute start-of-week check, four sessions (60 + 55 + 55 + 65 minutes), and the 20-minute end-of-week self-check. Each session also lists optional extras, which add about 2 hours across the week if you want them.
+
 ### Start of week · 10 min
 
 Rate your confidence from 1 (not at all) to 5 (very) on each of the five items under "What you'll be able to do" below, and write the numbers down. You'll re-rate at the end of the week. The change is your evidence of progress.
@@ -22,8 +24,8 @@ Rate your confidence from 1 (not at all) to 5 (very) on each of the five items u
 |---------|-------------|
 | [1 — The Learner Inventory](session-1.md) (≈60 min) | A draft "About Me as a Learner" profile |
 | [2 — Mindset: Fixed vs. Growth](session-2.md) (≈55 min) | A reframing exercise: one fixed "I can't" statement turned into "I can't yet" |
-| [3 — Motivation That Lasts](session-3.md) (≈50 min) | A one-paragraph motivation statement ("why I'm here") |
-| [4 — Goals & Self-Regulation](session-4.md) (≈60 min) | A SMART goals sheet and a one-page Zimmerman cycle sheet |
+| [3 — Motivation That Lasts](session-3.md) (≈55 min) | A one-paragraph motivation statement ("why I'm here") |
+| [4 — Goals & Self-Regulation](session-4.md) (≈65 min) | A SMART goals sheet and a one-page Zimmerman cycle sheet |
 
 ### End-of-week self-check · 20 min
 
@@ -51,7 +53,7 @@ Then refine your Handout 1-A profile (5 min): add or change at least one entry b
 
 By the end of this module, you will be able to:
 
-1. Identify your own learning profile: strengths, challenges, context, and past workarounds. (This is not a "learning styles" quiz. The research doesn't support matching study methods to styles, so the profile is about what actually helps you and what gets in your way.)
+1. Identify your own learning profile: strengths, challenges, conditions that help or hurt, workarounds you already use, your "why," and something you're curious about in how you learn. (This is not a "learning styles" quiz. The research doesn't support matching study methods to styles, so the profile is about what actually helps you and what gets in your way.)
 2. Describe at least two ways your beliefs about ability (fixed vs. growth) shape your choices and persistence.
 3. Apply growth-mindset reframing to a real academic setback.
 4. Create at least three SMART goals for the coming weeks.
@@ -59,12 +61,23 @@ By the end of this module, you will be able to:
 
 ## What you'll have by the end
 
-- [ ] A written "About Me as a Learner" profile naming at least 2 strengths, 2 challenges, and 1 current workaround
+- [ ] A written "About Me as a Learner" profile naming at least 2 strengths, 2 challenges, 1 condition that helps or hurts, 1 current workaround, your "why" in one sentence, and one thing you're curious about
 - [ ] One reframing exercise where a fixed "I can't" statement becomes "I can't yet, and here's the path"
 - [ ] A SMART goals sheet with at least 3 goals, each with a metric, deadline, and first action step
 - [ ] A one-paragraph motivation statement ("why I'm here")
 - [ ] A one-page Zimmerman cycle sheet for one real goal: forethought (goal and plan), performance (strategy and how you'll monitor), self-reflection (what worked, what to change)
 
 These all feed into your [Personal Student Success Plan](../capstone.md).
+
+## Completion checklist
+
+Tick these off as you go. Every handout is in the [Module 1 materials](materials.md).
+
+- [ ] [Handout 1-A: About Me as a Learner](materials.md#handout-1a) (drafted in Session 1, refined at the end of the week)
+- [ ] [Handout 1-B: The Reframe Card](materials.md#handout-1b)
+- [ ] [Handout 1-C: Motivation Statement Worksheet](materials.md#handout-1c)
+- [ ] [Handout 1-D: SMART Goals & Self-Regulation Sheet](materials.md#handout-1d)
+- [ ] [Handout 1-E: Zimmerman Cycle Sheet](materials.md#handout-1e)
+- [ ] End-of-week self-check done, with your confidence re-rated
 
 ---

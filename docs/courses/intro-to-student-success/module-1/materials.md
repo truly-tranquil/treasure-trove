@@ -4,11 +4,11 @@ Handouts for Module 1. Each one has a version you can read here and a copy you c
 
 | Handout | Used in | Time |
 |---------|---------|------|
-| [1-A: About Me as a Learner](#handout-1a) | [Session 1](session-1.md) | ≈15 min to draft, 5 to refine |
-| [1-B: The Reframe Card](#handout-1b) | Session 2 | ≈12 min per card |
-| [1-C: Motivation Statement Worksheet](#handout-1c) | Session 3 | ≈35 min |
-| [1-D: SMART Goals & Self-Regulation Sheet](#handout-1d) | Session 4 | ≈20 min |
-| [1-E: Zimmerman Cycle Sheet](#handout-1e) | Session 4 | ≈10 min |
+| [1-A: About Me as a Learner](#handout-1a) | [Session 1](session-1.md), [Session 2](session-2.md) (warm-up), and the [end-of-week self-check](index.md#your-week) | ≈15 min to draft, 5 to refine |
+| [1-B: The Reframe Card](#handout-1b) | [Session 2](session-2.md), plus [Session 3](session-3.md) (warm-up) and [Session 4](session-4.md) (obstacle check) | ≈12 min per card |
+| [1-C: Motivation Statement Worksheet](#handout-1c) | [Session 3](session-3.md), plus [Session 4](session-4.md) (warm-up) | ≈35 min |
+| [1-D: SMART Goals & Self-Regulation Sheet](#handout-1d) | [Session 4](session-4.md) | ≈20 min |
+| [1-E: Zimmerman Cycle Sheet](#handout-1e) | [Session 4](session-4.md) | ≈10 min |
 
 ---
 
