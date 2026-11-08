@@ -3,6 +3,11 @@ site_url: https://truly-tranquil.github.io/treasure-trove/
 
 theme:
   name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  features:
+    - navigation.tabs
+    - navigation.footer  
   palette:
     # Light mode settings
     - scheme: default
