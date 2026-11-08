@@ -1,4 +1,5 @@
 site_name: Treasure Trove
+site_url: https://truly-tranquil.github.io/treasure-trove/
 
 theme:
   name: material
