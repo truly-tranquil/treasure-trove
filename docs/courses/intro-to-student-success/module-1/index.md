@@ -80,4 +80,11 @@ Tick these off as you go. Every handout is in the [Module 1 materials](materials
 - [ ] [Handout 1-E: Zimmerman Cycle Sheet](materials.md#handout-1e)
 - [ ] End-of-week self-check done, with your confidence re-rated
 
+## Next steps and a bridge to Week 2
+ 
+- **Bridge to Week 2:** bring your learning profile with you. [Module 2](../module-2/index.md)'s study strategies (retrieval, spacing, SQ3R, active notes) will be chosen from your actual challenges, not assigned blindly. If you flagged "I cram and re-read," spacing comes first. If you flagged "I can't make sense of dense text," the reading routine comes first.
+- **Return to Handout 1-E in Week 2:** once you've met a strategy you like, swap it in for the placeholder in the Performance box of your [Zimmerman cycle sheet](materials.md#handout-1e).
+- **Habit to keep:** the 5-minute bedtime reflection and the weekly reflection prompt, both from [Handout 1-E](materials.md#handout-1e).
+- **Continuing beyond the course:** revisit your motivation statement before every major deadline. It's your reset button.
+
 ---
