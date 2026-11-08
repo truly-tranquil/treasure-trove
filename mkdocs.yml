@@ -22,7 +22,8 @@ extra_css:
 nav:
   - Home: index.md
   - Meet The Team: meet-the-team.md
-  - Support Resources: support-resources.md
+  - Get Help: get-help.md
+  - Learning Library: learning-library.md
   - "Courses":
     - "Intro To Student Success":
       - Syllabus: intro-to-student-success/index.md
