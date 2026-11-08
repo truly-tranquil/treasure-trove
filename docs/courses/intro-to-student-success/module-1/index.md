@@ -14,9 +14,7 @@ Before technique, identity. You can't regulate learning you haven't examined, so
 
 ### Start of week · 10 min
 
-
-
-[I should probs add some info here]
+Rate your confidence from 1 (not at all) to 5 (very) on each of the five items under "What you'll be able to do" below, and write the numbers down. You'll re-rate at the end of the week. The change is your evidence of progress.
 
 ### Sessions
 
@@ -29,7 +27,23 @@ Before technique, identity. You can't regulate learning you haven't examined, so
 
 ### End-of-week self-check · 20 min
 
-[Once again info?]
+Answer from memory first (15 min), then check your notes and the answers.
+
+1. Name the three phases of Zimmerman's cycle and one thing you would do in each.
+2. What are the three needs in Self-Determination Theory?
+3. Rewrite "I'm just bad at this" using the three-move reframe.
+4. What makes a goal SMART, and what is the difference between a process goal and an outcome goal?
+5. What is a "false growth mindset"?
+
+??? note "Answers"
+
+    1. Forethought: plan and anticipate obstacles. Performance: do it and monitor. Self-reflection: compare to the goal and adjust.
+    2. Autonomy, competence, relatedness.
+    3. Add "yet," name a next step, connect to a resource.
+    4. Specific, Measurable, Achievable, Relevant, Time-bound. A process goal is the behavior you'll do, and an outcome goal is the result you want.
+    5. Using growth-mindset language without changing what you do.
+
+Then refine your Handout 1-A profile (5 min): add or change at least one entry based on what you learned this week. Finally, re-rate your confidence on the five items above and compare with the start of the week.
 
 ---
 
