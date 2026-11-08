@@ -14,7 +14,6 @@ Resources for courses hosted through this program.
 
 - [Syllabus Library](https://drive.google.com/drive/folders/1RDaGNdwB79YXX_YI-3ppFU_37wqxDZJJ?usp=sharing) — Shared folder of course syllabi.
 - [Meet the Team](meet-the-team.md) — Introductions to the people behind the program.
-- [Canvas Video Guides](https://community.instructure.com/en/kb/canvas-video-guides) — Official step-by-step videos for using Canvas.
 
 ---
 
