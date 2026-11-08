@@ -17,9 +17,9 @@ Hi! I'm Killian or Tranquil, and I created this program. I am currently the only
  
 **More details:**
  
-- 23 years old
 - He/Him
 - Loves crafting and botany
+- Has two cats and a loving partner
 ### My Goals
  
 I really hope to foster an inspiring community of learners. :)
