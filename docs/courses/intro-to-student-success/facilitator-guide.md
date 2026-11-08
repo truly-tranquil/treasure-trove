@@ -15,7 +15,6 @@ The guide opens with notes that apply to every module, then gives short notes fo
 - **Make every share optional.** Partner steps are always optional, and learners choose what to show. Offer a way to pass on any prompt without explaining why.
 - **Go first, at a low stake.** When you share your own example (a time leak, a fixed belief, a warning sign), pick something real but small. It lowers the stakes for everyone else.
 - **Know your crisis procedures before you start.** Modules 1 and 4 touch on identity, stress, and mental health. Learn your institution's or program's counseling and crisis procedures ahead of time and share them at the start of the course. The [Get Help](../../get-help.md) page lists crisis lines and ways to find a therapist, and you can point learners to it at any time.
-- **Grade on completion, if you grade at all.** Use completion of each module's handouts plus the end-of-week self-check (and the capstone in Module 4). Don't give participation points, and never grade the content of personal disclosures.
 - **Protect the solo and low-tech options.** Every module has a no-tech version: paper, a pen, and a timer. Learners who work without devices or without a partner are doing the course fully.
 - **Allow extra time live.** The session times assume one person working alone. A group that shares, debriefs, and swaps pages will usually need more.
 

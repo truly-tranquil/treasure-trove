@@ -38,7 +38,7 @@ I really hope to foster an inspiring community of learners. :)
 - Do you have a love of learning?
 - Do you care about accessibility standards?
 - Do you have 1-3 hours a week free?
-- Do you posess any of the following?:
+- Do you possess any of the following?:
     - Graphic design knowledge
     - Instructional design skills
     - Education or tutoring experience

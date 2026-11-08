@@ -21,7 +21,7 @@ Write your if–then plan for the step you're most likely to avoid, from memory.
 - **Three spaced sessions, at least one practice test.** Space the sessions across days, put retrieval inside each, and take at least one practice test under realistic conditions (timed, closed-book).
 - **Know what's being tested.** Check the syllabus, past exams, and the instructor's hints. Turn the topics into a checklist.
 - **Assignments work the same way.** Outline, draft, revise, with checkpoints and time to put the draft down for a day before revising.
-- **Post-mortem.** After the exam or submission, ask, "What did I miss, and why?" Was it knowledge, strategy, time, or stress? Use the answer to adjust your plan for next time.
+- **After-action review** After the exam or submission, ask, "What did I miss, and why?" Was it knowledge, strategy, time, or stress? Use the answer to adjust your plan for next time.
 
 ---
 
@@ -51,7 +51,7 @@ Write a prep plan for one real deadline using [Handout 3-D](materials.md#handout
 
 1. **Backward calendar (10 min).** Put the date at the bottom and work back. Place three spaced sessions and one practice test or draft review.
 2. **Fill each session (15 min).** Name the topic, the retrieval method (blank page, flashcards, practice questions), and your if–then start.
-3. **Post-mortem prompt (5 min).** Write the questions you'll answer afterward.
+3. **After-action review prompt (5 min).** Write the questions you'll answer afterward.
 4. **Schedule it (5 min).** Put every session in your weekly plan and calendar.
 
 **Optional partner step (5 min).** Trade plans and ask, "Which session is most likely to get bumped, and what's your backup time?"
