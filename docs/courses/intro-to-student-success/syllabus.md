@@ -23,7 +23,7 @@ By the end of STU-101, you will be able to:
 
 ## Course structure
 
-Each module is intended to be one week: a 10-minute start-of-week check, four sessions, and a 20-minute end-of-week self-check. That being said, please take it at your own pace. Every session lists its read, watch, and listen items with time estimates and links to free sources. The main course text is OpenStax [*College Success*](https://openstax.org/details/books/college-success).
+Each module is one week: a 10-minute start-of-week check, four sessions, and a 20-minute end-of-week self-check. Every session lists its read, watch, and listen items with time estimates and links to free sources. The course text is OpenStax [*College Success*](https://openstax.org/details/books/college-success).
 
 | Module | Theme | Core CLOs | Capstone contribution |
 |--------|-------|-----------|-----------------------|
@@ -40,7 +40,7 @@ Each module is intended to be one week: a 10-minute start-of-week check, four se
 
 *CLOs 1–3.* [Module overview](module-1/index.md)
 
-- [Session 1 — The Learner Inventory](module-1/session-1.md) (≈55 min)
+- [Session 1 — The Learner Inventory](module-1/session-1.md) (≈60 min)
 - [Session 2 — Mindset: Fixed vs. Growth](module-1/session-2.md) (≈55 min)
 - [Session 3 — Motivation That Lasts](module-1/session-3.md) (≈50 min)
 - [Session 4 — Goals & Self-Regulation](module-1/session-4.md) (≈60 min)
@@ -76,7 +76,7 @@ Each module is intended to be one week: a 10-minute start-of-week check, four se
 
 ## Capstone
 
-Across this course you build a one- to two-page [Personal Student Success Plan](capstone.md) covering your motivation, how you learn, how you study, how you run your week, how you stay well, what you'll do if things go wrong, and a 30/60/90-day view.
+Across the course you build a one- to two-page [Personal Student Success Plan](capstone.md) covering your motivation, how you learn, how you study, how you run your week, how you stay well, what you'll do if things go wrong, and a 30/60/90-day view.
 
 ---
 

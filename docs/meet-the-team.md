@@ -3,7 +3,7 @@
  
 ---
  
-# Hello! Welcome In!
+## Hello! Welcome In!
  
 This is the team page for the Treasure Trove program. All information here will be kept up to date, but make sure to reach out if you think something is wrong.
 

@@ -26,6 +26,16 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+markdown_extensions:
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      permalink: true
+
 # The Navigation Map
 nav:
   - Home: index.md
@@ -39,24 +49,28 @@ nav:
       - Syllabus:  courses/intro-to-student-success/syllabus.md
       - "Module 1- Foundations & Mindset":
           - Overview:  courses/intro-to-student-success/module-1/index.md
+          - Materials: courses/intro-to-student-success/module-1/materials.md
           - Session 1:  courses/intro-to-student-success/module-1/session-1.md
           - Session 2:  courses/intro-to-student-success/module-1/session-2.md
           - Session 3:  courses/intro-to-student-success/module-1/session-3.md
           - Session 4:  courses/intro-to-student-success/module-1/session-4.md
       - "Module 2- Learning How to Learn":
           - Overview:  courses/intro-to-student-success/module-2/index.md
+          - Materials: courses/intro-to-student-success/module-2/materials.md
           - Session 1:  courses/intro-to-student-success/module-2/session-1.md
           - Session 2:  courses/intro-to-student-success/module-2/session-2.md
           - Session 3:  courses/intro-to-student-success/module-2/session-3.md
           - Session 4:  courses/intro-to-student-success/module-2/session-4.md
       - "Module 3- Time, Procrastination, & Systems":
           - Overview:  courses/intro-to-student-success/module-3/index.md
+          - Materials: courses/intro-to-student-success/module-3/materials.md
           - Session 1:  courses/intro-to-student-success/module-3/session-1.md
           - Session 2:  courses/intro-to-student-success/module-3/session-2.md
           - Session 3:  courses/intro-to-student-success/module-3/session-3.md
           - Session 4:  courses/intro-to-student-success/module-3/session-4.md
       - "Module 4- Well-being, Resources & Sustainability":
           - Overview:  courses/intro-to-student-success/module-4/index.md
+          - Materials: courses/intro-to-student-success/module-4/materials.md
           - Session 1:  courses/intro-to-student-success/module-4/session-1.md
           - Session 2:  courses/intro-to-student-success/module-4/session-2.md
           - Session 3:  courses/intro-to-student-success/module-4/session-3.md

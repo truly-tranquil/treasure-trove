@@ -10,8 +10,8 @@ A community run program for self-paced courses and a free learning library
 
 ## What We Do
 
-1. We created this program as a way to help reconnect with myour love of learning, in a world that was making education harder to access
-2. We currently have one course with several more currently in the works. We also have a comprehensive [Learning Library](learning-library.md) that acts as the research catalogue for our instruction as well as a wonderful resource for independant studies.
+1. We created this program as a way to help reconnect with your love of learning, in a world that was making education harder to access
+2. We currently have one course with several more currently in the works. We also have a comprehensive [Learning Library](learning-library.md) that acts as the research catalogue for our instruction as well as a wonderful resource for independent studies.
 3. If you have ever wanted to learn in a more self-directed environment, but didn't have the time or energy to put towards formatting a curriculum, you have come to the right place. (Plus the community is super cool too if that's your jam)
 
 ---
@@ -41,7 +41,7 @@ We have a collection of helpful resources for all things mental health and welln
 ## Meet The Program Manager
 
 
-Hi! I'm Killian but I also go by Tranquil in online spaces. Welcome in! I am here to support you in your learning endeavors so please feel free to reach out to me with any questions. [Contact Page]((https://linktr.ee/truly.tranquil?utm_source=linktree_profile_share&ltsid=a78c596a-d276-400e-93cb-934d45b9ed75))
+Hi! I'm Killian but I also go by Tranquil in online spaces. Welcome in! I am here to support you in your learning endeavors so please feel free to reach out to me with any questions. [Contact Page](https://linktr.ee/truly.tranquil))
 
 ---
 
