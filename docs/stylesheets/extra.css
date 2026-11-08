@@ -37,3 +37,14 @@
   --md-code-bg-color: #e6e9ef;             /* Mantle */
   --md-typeset-table-color: #dce0e8;       /* Crust */
 }
+/* Make primary buttons darker */
+.md-button.md-button--primary {
+  background-color: #5a2c99 !important; /* Dark rich purple */
+  border-color: #5a2c99 !important;
+}
+
+/* Make them even darker when the mouse hovers over them */
+.md-button.md-button--primary:hover {
+  background-color: #3f1d6b !important; 
+  border-color: #3f1d6b !important;
+}
