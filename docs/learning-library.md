@@ -158,7 +158,6 @@ Resources for courses hosted through this program.
 
 - [Kanopy](https://www.kanopy.com/) — Documentaries, indie and classic films, and The Great Courses. **Library card**
 - [Hoopla](https://www.hoopladigital.com/) — Films, audiobooks, and comics streamed through your library. **Library card**
-- [Projectr](https://www.projectr.tv/) — Independent cinema and documentaries. Check whether your library offers it.
 - [Third World Newsreel](https://www.twn.org/) — Independent social-issue documentaries and film distribution.
 - [PBS](https://www.pbs.org/) — Free episodes of many series. [PBS Passport](https://www.pbs.org/passport/) adds the deeper archive through a station donation.
 - [PBS LearningMedia](https://www.pbslearningmedia.org/) — Free classroom-ready videos and lessons.
@@ -206,7 +205,7 @@ Resources for courses hosted through this program.
 
 ### Food, history, and homesteading
 
-- [Pro Home Cooks](https://www.youtube.com/@ProHomeCooks) — Practical cooking technique and kitchen workflow.
+- [LifebyMikeG](https://youtube.com/@lifebymikeg?si=sjabD8XXfnAdWjRo) — Practical cooking technique and kitchen workflow.
 - [Ethan Chlebowski](https://www.youtube.com/@EthanChlebowski) — Science-minded home cooking.
 - [Townsends](https://www.youtube.com/@townsends) — 18th-century cooking, crafts, and daily life.
 - [Roots and Refuge Farm](https://www.youtube.com/@RootsandRefuge) — Homesteading, gardening, and seed saving.

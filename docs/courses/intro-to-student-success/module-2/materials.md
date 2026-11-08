@@ -17,7 +17,7 @@ Handouts for Module 2. Each one has a version you can read here and a copy you c
 
 An autopsy looks at what already happened. List the study techniques you actually used in your last real study session (not the ones you wish you'd used), then decide whether each was passive or active and how the research rates it. This is a working document, not a test.
 
-**Get a copy:** [Google Doc](https://docs.google.com/document/d/REPLACE-WITH-DOC-ID-2A/copy) · [PDF](https://docs.google.com/document/d/REPLACE-WITH-DOC-ID-2A/export?format=pdf) · [Word](https://docs.google.com/document/d/REPLACE-WITH-DOC-ID-2A/export?format=docx)
+**Get a copy:** [Google Doc](https://docs.google.com/document/d/1jW7eMwztipODQXw6r2mUcGTRhRay8E9qaINDYEFwvvg/copy) · [PDF](https://docs.google.com/document/d/1jW7eMwztipODQXw6r2mUcGTRhRay8E9qaINDYEFwvvg/export?format=pdf) · [Word](https://docs.google.com/document/d/1jW7eMwztipODQXw6r2mUcGTRhRay8E9qaINDYEFwvvg/export?format=docx)
 
 ### What goes on it
 
@@ -53,7 +53,7 @@ Add rows if you used more techniques. A **passive** technique takes information 
 
 Take the same study time and spread it across days. Work backward from your exam or deadline date, and retrieve (don't re-read) each time.
 
-**Get a copy:** [Google Doc](https://docs.google.com/document/d/REPLACE-WITH-DOC-ID-2B/copy) · [PDF](https://docs.google.com/document/d/REPLACE-WITH-DOC-ID-2B/export?format=pdf) · [Word](https://docs.google.com/document/d/REPLACE-WITH-DOC-ID-2B/export?format=docx)
+**Get a copy:** [Google Doc](https://docs.google.com/document/d/1Jwk2-dxdLz8LBHbJwESJfc34hqD_kT4ainKezegjtZs/copy) · [PDF](https://docs.google.com/document/d/1Jwk2-dxdLz8LBHbJwESJfc34hqD_kT4ainKezegjtZs/export?format=pdf) · [Word](https://docs.google.com/document/d/1Jwk2-dxdLz8LBHbJwESJfc34hqD_kT4ainKezegjtZs/export?format=docx)
 
 ### What goes on it
 
@@ -94,7 +94,7 @@ Take the same study time and spread it across days. Work backward from your exam
 
 Use this log while you run Survey–Question–Read–Recite–Review on a real passage of 3–5 pages.
 
-**Get a copy:** [Google Doc](https://docs.google.com/document/d/REPLACE-WITH-DOC-ID-2C/copy) · [PDF](https://docs.google.com/document/d/REPLACE-WITH-DOC-ID-2C/export?format=pdf) · [Word](https://docs.google.com/document/d/REPLACE-WITH-DOC-ID-2C/export?format=docx)
+**Get a copy:** [Google Doc](https://docs.google.com/document/d/13jPY0KwGQUq0QvXuDv6ZhJ6RcO7SJPIpxRZZZ4aXPHY/copy) · [PDF](https://docs.google.com/document/d/13jPY0KwGQUq0QvXuDv6ZhJ6RcO7SJPIpxRZZZ4aXPHY/export?format=pdf) · [Word](https://docs.google.com/document/d/13jPY0KwGQUq0QvXuDv6ZhJ6RcO7SJPIpxRZZZ4aXPHY/export?format=docx)
 
 ### What goes on it
 
@@ -130,7 +130,7 @@ Use this log while you run Survey–Question–Read–Recite–Review on a real 
 
 This card is your personal toolkit for the rest of the course. Choose three strategies from this week, tie each one to a challenge you named in [Handout 1-A](../module-1/materials.md#handout-1a), and decide exactly when you'll use it. Specific beats ambitious: "after each lecture, for 10 minutes" is better than "I'll use retrieval practice."
 
-**Get a copy:** [Google Doc](https://docs.google.com/document/d/REPLACE-WITH-DOC-ID-2D/copy) · [PDF](https://docs.google.com/document/d/REPLACE-WITH-DOC-ID-2D/export?format=pdf) · [Word](https://docs.google.com/document/d/REPLACE-WITH-DOC-ID-2D/export?format=docx)
+**Get a copy:** [Google Doc](https://docs.google.com/document/d/1eTLdFc8mMPgP09uMvU7YxUFxtJ8dBqUG4KSi-UfUaqw/copy) · [PDF](https://docs.google.com/document/d/1eTLdFc8mMPgP09uMvU7YxUFxtJ8dBqUG4KSi-UfUaqw/export?format=pdf) · [Word](https://docs.google.com/document/d/1eTLdFc8mMPgP09uMvU7YxUFxtJ8dBqUG4KSi-UfUaqw/export?format=docx)
 
 ### What goes on it
 

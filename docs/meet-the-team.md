@@ -1,5 +1,5 @@
 # Meet The Team 
-*Last Updated Nov 6, 2026* 
+*Last Updated Nov 8, 2026* 
  
 ---
  
