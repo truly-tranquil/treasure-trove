@@ -17,7 +17,7 @@ Handouts for Module 3. Each one has a version you can read here and a copy you c
 
 A time audit shows the gap between where you think your time goes and where it really goes. You predict first, track honestly all week, then compare. The gap is the lesson, not a grade.
 
-**Get a copy:** [Google Doc](https://docs.google.com/document/d/REPLACE-WITH-DOC-ID-3A/copy) · [PDF](https://docs.google.com/document/d/REPLACE-WITH-DOC-ID-3A/export?format=pdf) · [Word](https://docs.google.com/document/d/REPLACE-WITH-DOC-ID-3A/export?format=docx)
+**Get a copy:** [Google Doc](https://docs.google.com/document/d/1pflotCLSeFuOlD4L7y_iNYY5M2BXESiWWr3Jo235010/copy) · [PDF](https://docs.google.com/document/d/1pflotCLSeFuOlD4L7y_iNYY5M2BXESiWWr3Jo235010/export?format=pdf) · [Word](https://docs.google.com/document/d/1pflotCLSeFuOlD4L7y_iNYY5M2BXESiWWr3Jo235010/export?format=docx)
 
 ### How to track
 
@@ -71,7 +71,7 @@ Fill in the **My prediction** column at the start of the week, before you track.
 
 This handout holds three pieces of your weekly system: a plan for one real week, a triage note for when the week gets heavy, and a one-line decision about your tools. Plan in layers: fixed commitments first, then focus blocks for your hardest work, then a buffer. Whatever is left is flexible time.
 
-**Get a copy:** [Google Doc](https://docs.google.com/document/d/REPLACE-WITH-DOC-ID-3B/copy) · [PDF](https://docs.google.com/document/d/REPLACE-WITH-DOC-ID-3B/export?format=pdf) · [Word](https://docs.google.com/document/d/REPLACE-WITH-DOC-ID-3B/export?format=docx)
+**Get a copy:** [Google Doc](https://docs.google.com/document/d/1KU0ffEyhAXT3log5m74rS6DzzyEcAuFuy9Hl1cfQASM/copy) · [PDF](https://docs.google.com/document/d/1KU0ffEyhAXT3log5m74rS6DzzyEcAuFuy9Hl1cfQASM/export?format=pdf) · [Word](https://docs.google.com/document/d/1KU0ffEyhAXT3log5m74rS6DzzyEcAuFuy9Hl1cfQASM/export?format=docx)
 
 ### What goes on it
 
@@ -128,7 +128,7 @@ This handout holds three pieces of your weekly system: a plan for one real week,
 
 Big tasks feel scary because they look like one giant step. This handout turns one real task into a sequence of small, dated steps, names the first physical action, and gives you an if–then plan for the step you're most likely to avoid. Pick a real assignment or task, not a made-up one.
 
-**Get a copy:** [Google Doc](https://docs.google.com/document/d/REPLACE-WITH-DOC-ID-3C/copy) · [PDF](https://docs.google.com/document/d/REPLACE-WITH-DOC-ID-3C/export?format=pdf) · [Word](https://docs.google.com/document/d/REPLACE-WITH-DOC-ID-3C/export?format=docx)
+**Get a copy:** [Google Doc](https://docs.google.com/document/d/144u-XsI4CIGFFSlNidPmIZTZyO-QZDMh9TrH6N_o1ps/copy) · [PDF](https://docs.google.com/document/d/144u-XsI4CIGFFSlNidPmIZTZyO-QZDMh9TrH6N_o1ps/export?format=pdf) · [Word](https://docs.google.com/document/d/144u-XsI4CIGFFSlNidPmIZTZyO-QZDMh9TrH6N_o1ps/export?format=docx)
 
 ### What goes on it
 
@@ -181,7 +181,7 @@ Add rows if the task needs more steps. Add a checkpoint date and a visible "done
 
 Work backward from the date. Put the exam or deadline at the bottom of your calendar, then place three spaced sessions and one practice test (or a draft review for an assignment) ahead of it. Each session names its topics, a retrieval method, and an if–then start.
 
-**Get a copy:** [Google Doc](https://docs.google.com/document/d/REPLACE-WITH-DOC-ID-3D/copy) · [PDF](https://docs.google.com/document/d/REPLACE-WITH-DOC-ID-3D/export?format=pdf) · [Word](https://docs.google.com/document/d/REPLACE-WITH-DOC-ID-3D/export?format=docx)
+**Get a copy:** [Google Doc](https://docs.google.com/document/d/1iUvDZTe8ODcS-NpfobmDRKBdZ_eK9EkaiB07gQGkzQg/copy) · [PDF](https://docs.google.com/document/d/1iUvDZTe8ODcS-NpfobmDRKBdZ_eK9EkaiB07gQGkzQg/export?format=pdf) · [Word](https://docs.google.com/document/d/1iUvDZTe8ODcS-NpfobmDRKBdZ_eK9EkaiB07gQGkzQg/export?format=docx)
 
 ### What goes on it
 
