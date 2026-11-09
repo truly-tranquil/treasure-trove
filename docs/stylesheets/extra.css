@@ -31,8 +31,8 @@
   --md-default-fg-color--lighter: #6c6f85; /* Subtext0 */
 
   /* Accents (Mauve Primary, Blue Accent) */
-  --md-primary-fg-color: #8839ef;          /* Mauve */
-  --md-accent-fg-color: #1e66f5;           /* Blue */
+  --md-default-fg-color--lighter: #5c5f77;
+  --md-accent-fg-color: #1250d6;
 
   /* Code Blocks & Tables */
   --md-code-bg-color: #e6e9ef;             /* Mantle */

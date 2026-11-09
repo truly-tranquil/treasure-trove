@@ -4,7 +4,7 @@
 
 **Focus:** persistence as a learned behavior, and assembling your plan. **CLOs:** 8 (integrating 1–7).
 
-**Deposit:** persistence note ([Handout 4-D](materials.md#handout-4d)) and the [Personal Student Success Plan](../capstone.md).
+**You'll Make:** persistence note ([Handout 4-D](materials.md#handout-4d)) and the [Personal Student Success Plan](../capstone.md).
 
 ---
 
@@ -14,13 +14,13 @@ Name your first three supports and one thing you'll do after a bad grade. Then c
 
 ---
 
-## Core ideas (10 min)
+## Core ideas (9 min)
 
-- **Persistence is built, not born.** People keep going when they have a reason (Week 1), a method (Week 2), a system (Week 3), enough energy (this week), and support (Session 3).
-- **Grit: one lens, not the whole picture.** Duckworth's popular idea is that passion and perseverance for long-term goals predict success. Later reviews have questioned how distinct grit is from conscientiousness and how much it adds beyond it. Use it as one lens on persistence, alongside self-compassion, support, and good conditions. Persistence also depends on circumstances: not every obstacle can be overcome by effort alone.
-- **Setbacks are information.** This is the growth-mindset habit from Week 1. A bad grade tells you something about your method, your time, or your well-being. It does not settle who you are.
-- **Self-compassion supports persistence.** People who treat themselves kindly after failure are often more willing to try again than those who criticize themselves harshly.
-- **Plans get kept when they're visible and shared.** Sharing your plan with another person makes it more likely to be used.
+- **Persistence comes from several things working together.** People keep going when they have a reason (Week 1), a method (Week 2), a system (Week 3), enough energy (this week), and support (Session 3).
+- **Grit is one way to look at it.** Duckworth's popular idea is that passion and perseverance for long-term goals predict success. Later reviews have questioned how distinct grit is from conscientiousness and how much it adds beyond it. Treat it as one view of persistence, alongside self-compassion, support, and good conditions. Persistence also depends on circumstances: not every obstacle can be overcome by effort alone.
+- **Setbacks tell you something.** This is the growth-mindset habit from Week 1. A bad grade can point to your method, your time, or your well-being. It doesn't settle who you are.
+- **Self-compassion helps you try again.** People who treat themselves kindly after failure are often more willing to try again than those who criticize themselves harshly.
+- **Share your plan with someone.** Telling another person what you're planning makes it easier to follow through, and gives you someone to check in with.
 
 ---
 
@@ -40,7 +40,7 @@ Choose one past setback. Rewrite it using your three-move reframe (add "yet," na
 
 Use the template on the [capstone page](../capstone.md). Pull from your earlier handouts rather than starting from scratch. The capstone page has a table showing which handouts feed each of the 8 sections.
 
-If you drafted sections 1–4 after earlier modules, use this time to assemble them, fill in sections 5–8, and trim. If you didn't, don't worry. Work through the sections in order, and take the sections that feel hardest first. Aim for one to two pages. A plan you'll reread beats a perfect plan you won't, and a specific plan ("in bed by 11 p.m. on school nights") beats a wish ("sleep more").
+If you drafted sections 1–4 after earlier modules, use this time to assemble them, fill in sections 5–8, and trim. If you didn't, don't worry. Work through the sections in order, and take the sections that feel hardest first. Aim for one to two pages, and be specific. The capstone page has [a worked example](../capstone.md#worked-example) if you'd like to see one first.
 
 ### 3. Choose an accountability partner (5 min)
 

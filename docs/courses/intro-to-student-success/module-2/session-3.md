@@ -2,7 +2,7 @@
 
 **Focus:** active vs. passive note-taking; the Cornell method; the blank-page recall drill. **CLOs:** 4.
 
-**Deposit:** one page of active notes.
+**You'll Make:** one page of active notes.
 
 ---
 

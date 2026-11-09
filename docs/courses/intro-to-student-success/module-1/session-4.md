@@ -4,7 +4,7 @@
 
 **Focus:** SMART goals; process vs. outcome goals; Zimmerman's self-regulation cycle; the weekly reflection prompt. **CLOs:** 3 (primary), 1 (applied).
 
-**Deposit:** SMART goals sheet (3+ goals) with Zimmerman placement, and a Zimmerman cycle sheet for one goal.
+**You'll Make:** SMART goals sheet (3+ goals) with Zimmerman placement, and a Zimmerman cycle sheet for one goal.
 
 ---
 

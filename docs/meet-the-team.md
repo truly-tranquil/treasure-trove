@@ -34,7 +34,7 @@ I really hope to foster an inspiring community of learners. :)
 - Start hosting live groups?
 - A secret third thing?
 
-## We Are Looking For Volunteers!
+## I'm Looking For Volunteers!
 - Do you have a love of learning?
 - Do you care about accessibility standards?
 - Do you have 1-3 hours a week free?

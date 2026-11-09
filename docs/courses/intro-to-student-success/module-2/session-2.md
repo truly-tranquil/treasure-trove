@@ -4,7 +4,7 @@
 
 **Focus:** how to self-test, build a spaced schedule, and mix practice. **CLOs:** 4.
 
-**Deposit:** retrieval reflection and spaced-practice schedule ([Handout 2-B](materials.md#handout-2b)).
+**You'll Make:** retrieval reflection and spaced-practice schedule ([Handout 2-B](materials.md#handout-2b)).
 
 ---
 
@@ -30,7 +30,7 @@ Name the two high-utility techniques and one low-utility technique from Session 
 
 - **Skim (15 min):** the Learning Scientists' [posters](https://www.learningscientists.org/posters) on spaced practice, retrieval practice, and interleaving. Each one is a one-page summary of the strategy and how to use it.
 - **Download (5 min):** the free [bookmarks](https://www.learningscientists.org/bookmarks) (a handy reminder of the six strategies while you study).
-- **Optional listen:** Learning Scientists Podcast, [Episode 1](https://www.learningscientists.org/learning-scientists-podcast/2017/9/5/episode-1-welcome-to-the-learning-scientists-podcast), an overview of all six strategies. Listen if you'd like the big picture, and skip it if you're short on time.
+- **Optional listen (17 min):** Learning Scientists Podcast, [Episode 1](https://www.learningscientists.org/learning-scientists-podcast/2017/9/5/episode-1-welcome-to-the-learning-scientists-podcast), an overview of all six strategies. Listen if you'd like the big picture, and skip it if you're short on time.
 - **Optional read (20 min):** Weinstein, Madan & Sumeracki, ["Teaching the science of learning,"](https://nottingham-repository.worktribe.com/output/906972/teaching-the-science-of-learning) *Cognitive Research: Principles and Implications*. An open-access overview of all six strategies, including the spacing research. Skim the sections on the strategies you want to try.
 
 ---

@@ -4,7 +4,7 @@
 
 **Focus:** passive vs. active study; what the research says about common techniques. **CLOs:** 4.
 
-**Deposit:** technique autopsy ([Handout 2-A](materials.md#handout-2a)).
+**You'll Make:** technique autopsy ([Handout 2-A](materials.md#handout-2a)).
 
 ---
 

@@ -4,7 +4,7 @@
 
 **Focus:** intrinsic vs. extrinsic motivation; Self-Determination Theory (SDT); your motivation statement.
 
-**Deposit:** SDT ratings and motivation statement (one paragraph).
+**You'll Make:** SDT ratings and motivation statement (one paragraph).
 
 ---
 

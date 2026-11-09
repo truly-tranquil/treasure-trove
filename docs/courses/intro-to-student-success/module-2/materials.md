@@ -141,7 +141,7 @@ This card is your personal toolkit for the rest of the course. Choose three stra
 | 3 |  |  |  |  |
 | **One thing I'm dropping or doing less** |  |  |  |  |
 
-This card and your [Handout 2-B](#handout-2b) schedule are your Week 2 deposits for the [capstone](../capstone.md).
+This card and your [Handout 2-B](#handout-2b) schedule are the two things you'll make as your Week 2 pieces for the [capstone](../capstone.md).
 
 **Options:** a typed table, an index card per strategy, or a voice memo for each row.
 

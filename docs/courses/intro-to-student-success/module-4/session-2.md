@@ -4,7 +4,7 @@
 
 **Focus:** evidence-based recovery strategies and self-compassion. **CLOs:** 8, 2.
 
-**Deposit:** two chosen recovery strategies and a rehearsed reframe ([Handout 4-B](materials.md#handout-4b)).
+**You'll Make:** two chosen recovery strategies and a rehearsed reframe ([Handout 4-B](materials.md#handout-4b)).
 
 ---
 

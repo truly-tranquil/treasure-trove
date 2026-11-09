@@ -1,18 +1,17 @@
-
 # Welcome to the Treasure Trove
 
-A community run program for self-paced courses and a free learning library
+A community-run program for self-paced courses and a free learning library
 
 [Learning Library](learning-library.md){ .md-button .md-button--primary }
 [Meet The Team](meet-the-team.md){ .md-button }
 
 ---
 
-## What We Do
+## What This Is
 
-1. We created this program as a way to help reconnect with your love of learning, in a world that was making education harder to access
-2. We currently have one course with several more currently in the works. We also have a comprehensive [Learning Library](learning-library.md) that acts as the research catalogue for our instruction as well as a wonderful resource for independent studies.
-3. If you have ever wanted to learn in a more self-directed environment, but didn't have the time or energy to put towards formatting a curriculum, you have come to the right place. (Plus the community is super cool too if that's your jam)
+1. I started this program to help people reconnect with their love of learning, at a time when education is getting harder to access.
+2. There's one course so far, with more on the way. There's also a large [Learning Library](learning-library.md) of free and low-cost books, courses, and media, which is useful for independent study too.
+3. If you've wanted to learn in a more self-directed way but didn't have the time or energy to put a curriculum together, you're in the right place. (Plus the community is super cool too, if that's your jam.)
 
 ---
 
@@ -20,36 +19,32 @@ A community run program for self-paced courses and a free learning library
 
 ### Pick A Course
 
+The first course is Student Success 101, a free 4-week, self-paced course. More are in the works, and you can vote on the next one on the [What's Next](whats-next.md) page.
 
-Check out our free course roster.
-[Courses](courses/intro-to-student-success/index.md)
+[Courses](courses/index.md)
 
 ### Learning Library
 
+Free and low-cost books, courses, and media. Oh my!
 
-Free books, courses, and media. Oh My!
 [Learning Library](learning-library.md)
 
 ### Struggling?
 
+Crisis lines, ways to find a therapist, and free or low-cost wellness tools.
 
-We have a collection of helpful resources for all things mental health and wellness.
 [Get Help](get-help.md)
 
 ---
 
 ## Meet The Program Manager
 
-
-Hi! I'm Killian but I also go by Tranquil in online spaces. Welcome in! I am here to support you in your learning endeavors so please feel free to reach out to me with any questions. [Contact Page](https://linktr.ee/truly.tranquil)
-
----
-
-## Help Make Us Better
-
-
-Have ideas for future improvements? Want to report an issue? Join the [Official Discord](https://discord.gg/4jtc4UrrU) and let us know what you think!
-
+Hi! I'm Killian, but I also go by Tranquil in online spaces. Welcome in! I'm here to support you in your learning, so please reach out with any questions. [Contact page](https://linktr.ee/truly.tranquil)
 
 ---
 
+## Help Make This Better
+
+Have ideas for improvements, or want to report an issue? Join the [official Discord](https://discord.gg/yEWXHNW9gX) and let me know what you think.
+
+---

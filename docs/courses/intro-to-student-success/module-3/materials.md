@@ -222,6 +222,6 @@ Work backward from the date. Put the exam or deadline at the bottom of your cale
 
     **Backup time if a session gets bumped:** Thursday the 19th, 7 p.m.
 
-    **Post-mortem prompts:** What did I miss, and why? Which prep session helped most? What will I do differently next time?
+    **After-action review prompts:** What did I miss, and why? Which prep session helped most? What will I do differently next time?
 
 ---

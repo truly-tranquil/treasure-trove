@@ -13,7 +13,7 @@ Looking for crisis lines, therapy, or wellness tools? See [Get Help](get-help.md
 Resources for courses hosted through this program.
 
 - [Syllabus Library](https://drive.google.com/drive/folders/1RDaGNdwB79YXX_YI-3ppFU_37wqxDZJJ?usp=sharing) — Shared folder of course syllabi.
-- [Meet the Team](meet-the-team.md) — Introductions to the people behind the program.
+- [Meet the Team](meet-the-team.md) — Introductions to the person behind the program.
 
 ---
 

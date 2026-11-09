@@ -4,7 +4,7 @@
 
 **Focus:** metacognitive self-assessment; identifying your learning profile.
 
-**Deposit:** “About Me as a Learner” profile (draft).
+**You'll Make:** “About Me as a Learner” profile (draft).
 
 ---
 

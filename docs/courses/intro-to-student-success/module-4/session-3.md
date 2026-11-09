@@ -4,7 +4,7 @@
 
 **Focus:** finding and using real supports. **CLOs:** 8.
 
-**Deposit:** resources map and setback plan ([Handout 4-C](materials.md#handout-4c)).
+**You'll Make:** resources map and setback plan ([Handout 4-C](materials.md#handout-4c)).
 
 ---
 

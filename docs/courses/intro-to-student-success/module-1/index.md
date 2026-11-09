@@ -4,7 +4,7 @@
 
 **Week 1 of 4** · CLOs 1–3
 
-Before technique, identity. You can't regulate learning you haven't examined, so this week is about getting to know yourself as a learner: what helps, what gets in your way, what you believe about your own ability, and what you're working toward.
+This week is about getting to know yourself as a learner: what helps, what gets in your way, what you believe about your own ability, and what you're working toward. Later weeks build on it, so the study strategies in Module 2 get picked from your actual challenges.
 
 [Start Session 1](session-1.md){ .md-button .md-button--primary }
 
@@ -12,9 +12,16 @@ Before technique, identity. You can't regulate learning you haven't examined, so
 
 ## Your week
 
-**Time for this module:** about 4½ hours of core work: the 10-minute start-of-week check, four sessions (60 + 55 + 55 + 65 minutes), and the 20-minute end-of-week self-check. Each session also lists optional extras, which add about 2 hours across the week if you want them.
+**Time for this module:** about 4½ hours of core work: the 10-minute start-of-week check, four sessions (60 + 55 + 55 + 65 minutes), and the 20-minute end-of-week self-check. Optional extras add about 2 hours across the week (readings, a skim, a talk, and the partner steps).
 
-**Works with:** alone, with a study buddy, or [live with a group](../facilitator-guide.md).
+| Item | Details |
+|------|---------|
+| **Theme** | Your learning profile, beliefs about ability, motivation, goals, and self-regulation |
+| **CLOs** | 1 (Model self), 2 (Adopt a growth mindset), 3 (Set and govern goals) |
+| **Capstone** | Feeds sections 1 and 2 of your [Personal Student Success Plan](../capstone.md) |
+| **Works with** | Alone, with a study buddy, or [live with a group](../facilitator-guide.md#module-1-foundations-mindset) |
+
+**How every session works.** Sessions 2 to 4 open with a 5-minute warm-up from memory. Then come the core ideas or a reading, video, or listen with a link and time estimate, and an activity with a solo version and an optional partner step. Every session ends with something you make for your capstone, and lists options for how to do it. A no-tech version is always available: paper, a pen, and a timer.
 
 ### Start of week · 10 min
 
@@ -22,12 +29,12 @@ Rate your confidence from 1 (not at all) to 5 (very) on each of the five items u
 
 ### Sessions
 
-| Session | You'll make |
-|---------|-------------|
-| [1 — The Learner Inventory](session-1.md) (≈60 min) | A draft "About Me as a Learner" profile |
-| [2 — Mindset: Fixed vs. Growth](session-2.md) (≈55 min) | A reframing exercise: one fixed "I can't" statement turned into "I can't yet" |
-| [3 — Motivation That Lasts](session-3.md) (≈55 min) | A one-paragraph motivation statement ("why I'm here") |
-| [4 — Goals & Self-Regulation](session-4.md) (≈65 min) | A SMART goals sheet and a one-page Zimmerman cycle sheet |
+| Session | Warm-up | Learn | Do | Total | You'll make |
+|---------|---------|-------|----|-------|-------------|
+| [1 — The Learner Inventory](session-1.md) | none | 20 min | 40 min | ≈60 min | A draft "About Me as a Learner" profile ([Handout 1-A](materials.md#handout-1a)) |
+| [2 — Mindset: Fixed vs. Growth](session-2.md) | 5 min | 15 min | 35 min | ≈55 min | A reframe card for a fixed "I can't" statement turned into "I can't yet" ([Handout 1-B](materials.md#handout-1b)) |
+| [3 — Motivation That Lasts](session-3.md) | 5 min | 15 min | 35 min | ≈55 min | A one-paragraph motivation statement ([Handout 1-C](materials.md#handout-1c)) |
+| [4 — Goals & Self-Regulation](session-4.md) | 5 min | 15 min | 45 min | ≈65 min | A SMART goals sheet and a Zimmerman cycle sheet ([Handout 1-D](materials.md#handout-1d), [1-E](materials.md#handout-1e)) |
 
 ### End-of-week self-check · 20 min
 
@@ -65,9 +72,9 @@ By the end of this module, you will be able to:
 
 - [ ] A written "About Me as a Learner" profile naming at least 2 strengths, 2 challenges, 1 condition that helps or hurts, 1 current workaround, your "why" in one sentence, and one thing you're curious about
 - [ ] One reframing exercise where a fixed "I can't" statement becomes "I can't yet, and here's the path"
-- [ ] A SMART goals sheet with at least 3 goals, each with a metric, deadline, and first action step
 - [ ] A one-paragraph motivation statement ("why I'm here")
-- [ ] A one-page Zimmerman cycle sheet for one real goal: forethought (goal and plan), performance (strategy and how you'll monitor), self-reflection (what worked, what to change)
+- [ ] A SMART goals sheet with at least 3 goals, each with a metric, deadline, and first action step
+- [ ] A one-page Zimmerman cycle sheet for one goal: forethought (goal and plan), performance (strategy and how you'll monitor), self-reflection (what worked, what to change)
 
 These all feed into your [Personal Student Success Plan](../capstone.md).
 
@@ -86,10 +93,10 @@ Tick these off as you go. Every handout is in the [Module 1 materials](materials
 
 ## Next steps and a bridge to Week 2
 
-- **Bridge to Week 2:** bring your learning profile with you. [Module 2](../module-2/index.md)'s study strategies (retrieval, spacing, SQ3R, active notes) will be chosen from your actual challenges, not assigned blindly. If you flagged "I cram and re-read," spacing comes first. If you flagged "I can't make sense of dense text," the reading routine comes first.
-- **Return to Handout 1-E in Week 2:** once you've met a strategy you like, swap it in for the placeholder in the Performance box of your [Zimmerman cycle sheet](materials.md#handout-1e).
+- **Bring your profile to Week 2.** [Module 2](../module-2/index.md) picks study strategies from your actual challenges. If you flagged "I cram and re-read," spacing comes first. If you flagged "I can't make sense of dense text," the reading routine comes first.
+- **Return to Handout 1-E in Week 2.** Once you've met a strategy you like, swap it in for the placeholder in the Performance box of your [Zimmerman cycle sheet](materials.md#handout-1e).
 - **Habit to keep:** the 5-minute bedtime reflection and the weekly reflection prompt, both from [Handout 1-E](materials.md#handout-1e).
-- **Continuing beyond the course:** revisit your motivation statement before every major deadline. It's your reset button.
+- **After the course:** reread your motivation statement before every major deadline.
 
 ## Resources for Week 1
 
@@ -107,5 +114,3 @@ Tick these off as you go. Every handout is in the [Module 1 materials](materials
 | [Scott Geller, "The psychology of self-motivation" (TEDxVirginiaTech, ≈15 min)](https://www.youtube.com/watch?v=7sxpKhIbr0E) | [Session 3](session-3.md) (optional) |
 | [Purdue Global Academic Success Center, "Teaching Students to Learn"](https://purdueglobalwriting.center/2016/08/10/teaching-students-to-learn/) | [Session 4](session-4.md) |
 | [Zimmerman (2002), "Becoming a Self-Regulated Learner: An Overview"](https://doi.org/10.1207/s15430421tip4102_2) | [Session 4](session-4.md) (optional) |
-
----

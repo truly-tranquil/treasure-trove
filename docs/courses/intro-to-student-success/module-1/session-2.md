@@ -4,7 +4,7 @@
 
 **Focus:** Dweck's mindset research; reframing fixed-ability beliefs.
 
-**Deposit:** reframe card (one real setback, rewritten).
+**You'll Make:** reframe card (one real setback, rewritten).
 
 ---
 

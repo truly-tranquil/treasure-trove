@@ -4,7 +4,7 @@
 
 **Focus:** sleep, stress, and performance; noticing your own early warning signs. **CLOs:** 8.
 
-**Deposit:** sleep and stress log, early warning signs ([Handout 4-A](materials.md#handout-4a)).
+**You'll Make:** sleep and stress log, early warning signs ([Handout 4-A](materials.md#handout-4a)).
 
 ---
 

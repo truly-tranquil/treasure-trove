@@ -4,7 +4,7 @@
 
 **Focus:** the gap between perceived and actual time use. **CLOs:** 5.
 
-**Deposit:** a time log, set up and started ([Handout 3-A](materials.md#handout-3a)). You'll finish the comparison in [Session 4](session-4.md).
+**You'll Make:** a time log, set up and started ([Handout 3-A](materials.md#handout-3a)). You'll finish the comparison in [Session 4](session-4.md).
 
 ---
 

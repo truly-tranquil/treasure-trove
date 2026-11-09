@@ -4,7 +4,7 @@
 
 **Focus:** reviewing your time audit, and a backward-planned prep routine. **CLOs:** 5 (audit review), 7 (prep routine).
 
-**Deposit:** a completed time audit ([Handout 3-A](materials.md#handout-3a)) and an exam or assignment prep plan ([Handout 3-D](materials.md#handout-3d)).
+**You'll Make:** a completed time audit ([Handout 3-A](materials.md#handout-3a)) and an exam or assignment prep plan ([Handout 3-D](materials.md#handout-3d)).
 
 ---
 
@@ -21,7 +21,7 @@ Write your if–then plan for the step you're most likely to avoid, from memory.
 - **Three spaced sessions, at least one practice test.** Space the sessions across days, put retrieval inside each, and take at least one practice test under realistic conditions (timed, closed-book).
 - **Know what's being tested.** Check the syllabus, past exams, and the instructor's hints. Turn the topics into a checklist.
 - **Assignments work the same way.** Outline, draft, revise, with checkpoints and time to put the draft down for a day before revising.
-- **After-action review** After the exam or submission, ask, "What did I miss, and why?" Was it knowledge, strategy, time, or stress? Use the answer to adjust your plan for next time.
+- **After-action review.** After the exam or submission, ask, "What did I miss, and why?" Was it knowledge, strategy, time, or stress? Use the answer to adjust your plan for next time.
 
 ---
 

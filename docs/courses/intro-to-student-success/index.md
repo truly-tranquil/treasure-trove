@@ -2,7 +2,7 @@
 
 *A 4-week, self-paced course*
 
-Before technique comes identity, and after technique comes sustainability. This course walks you through both: who you are as a learner, how to study in a way that sticks, how to run your time and workload, and how to make it all last. You finish with a personal plan you built yourself.
+Student Success 101 covers who you are as a learner, how to study in a way that sticks, how to run your time and workload, and how to keep going without burning out. You finish with a personal plan you built yourself.
 
 [Start Module 1](module-1/index.md){ .md-button .md-button--primary }
 [Read the syllabus](syllabus.md){ .md-button }
@@ -11,13 +11,13 @@ Before technique comes identity, and after technique comes sustainability. This 
 
 ## At a glance
 
-|                   |                                                                                                              |
+| Item              | Details                                                                                                      |
 |-------------------|--------------------------------------------------------------------------------------------------------------|
 | **Course code**   | STU-101                                                                                                      |
-| **Duration**      | 4 weeks · about 5 hours per week (≈20 hours total) · 16 sessions                                             |
-| **Format**        | Self-guided. Every live or partner activity has a solo version, and every module has low-tech and no-tech options. |
+| **Duration**      | 4 weeks · about 4½ to 5 hours per week (about 20 hours total) · 16 sessions                                  |
+| **Format**        | Self-guided. Every live or partner activity has a solo version, and every module has a low-tech option.      |
 | **Prerequisites** | None                                                                                                         |
-| **Free text**     | OpenStax [*College Success*](https://openstax.org/details/books/college-success) (free web view and PDF)    |
+Running this with a group? See the [facilitator guide](facilitator-guide.md).
 
 ---
 
@@ -25,35 +25,35 @@ Before technique comes identity, and after technique comes sustainability. This 
 
 Each module is one week:
 
-1. **Start-of-week check (10 min).** A quick confidence check before you begin.
-2. **Four sessions (about an hour each).** Every session has read, watch, and listen items with time estimates and links to free sources, plus an activity you do yourself.
-3. **End-of-week self-check (20 min).** A retrieval check so you can see what stuck.
+1. **Start-of-week check (10 min).** A quick confidence rating before you begin.
+2. **Four sessions (about 40 to 90 minutes each).** Every session has read, watch, and listen items with time estimates and links to free sources, plus an activity you do yourself.
+3. **End-of-week self-check (15 to 30 min).** A short quiz from memory, so you can see what stuck.
 
-Because there's no instructor feedback loop, the self-checks are how you find out whether it's working. Questions or concerns? [Get in touch](mailto:tranquil.tyrant@gmail.com).
+No one is grading your work, so the self-checks are how you'll know whether it's working. The [syllabus](syllabus.md) has the objectives and session list, and each module's overview has the exact times. Questions or concerns? [Get in touch](mailto:tranquil.tyrant@gmail.com).
 
 ---
 
 ## The four modules
 
 ### [Module 1 — Foundations & Mindset](module-1/index.md)
-*"Who Am I as a Learner?"* Before technique, identity. You can't regulate learning you haven't examined.
+*"Who Am I as a Learner?"* Get to know how you learn, what you believe about your own ability, and why you're here.
 
 ### [Module 2 — Learning How to Learn](module-2/index.md)
-*"Study in a Way That Sticks."* Replace low-yield habits like re-reading and highlighting with evidence-based ones.
+*"Study in a Way That Sticks."* Swap low-yield habits like re-reading and highlighting for methods the research supports.
 
 ### [Module 3 — Time, Procrastination & Systems](module-3/index.md)
-*"Make the Workload Manageable."* Turn intent into a repeatable weekly system, and handle the moments when you don't follow it.
+*"Make the Workload Manageable."* Turn good intentions into a weekly system, and plan for the days you don't follow it.
 
 ### [Module 4 — Well-being, Resources & Sustainability](module-4/index.md)
-*"Make It Last."* Success that burns you out isn't success. Build well-being, resources, and persistence into a plan you'll keep.
+*"Make It Last."* Build sleep, support, and persistence into a plan you'll keep.
 
 ---
 
 ## What you'll build
 
-Each module adds a piece to your [Personal Student Success Plan](capstone.md), a one- to two-page document you finish in Module 4.
+Each module adds pieces to your [Personal Student Success Plan](capstone.md), a one- to two-page document you finish in Module 4.
 
-- **Module 1:** an "About Me as a Learner" profile, SMART goals, and a self-regulation cycle sheet
-- **Module 2:** a Strategy Toolkit card and a spaced-practice schedule
-- **Module 3:** a working weekly plan, a chunked big task, and an exam or assignment prep plan
-- **Module 4:** the finished plan, with a 30/60/90-day view
+- **Module 1:** an "About Me as a Learner" profile, a reframe card, a motivation statement, SMART goals, and a self-regulation cycle sheet
+- **Module 2:** a technique autopsy, a spaced-practice schedule, a page of Cornell-style notes, a reading log, and a Strategy Toolkit card
+- **Module 3:** a time audit, a working weekly plan, a chunked big task, and an exam or assignment prep plan
+- **Module 4:** a well-being check-in, a resources map and setback plan, a persistence note, and the finished plan with a 30/60/90-day view

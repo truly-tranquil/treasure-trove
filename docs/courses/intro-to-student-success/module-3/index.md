@@ -4,7 +4,7 @@
 
 **Week 3 of 4** · CLOs 5 and 7
 
-The machinery. Turn intent into a repeatable weekly operating system, and handle the moments when you don't follow it. Last week's toolkit told you *how* to study. This week decides *when*, *how much*, and *what to do when you don't feel like starting*. Plan for the week you actually have, not the one you wish you had.
+This week you track where your time goes, build a weekly plan around it, and work out what to do on the days you don't feel like starting. Last week's toolkit covered how to study. This week covers when, and how much. Plan for the week you actually have, not the one you wish you had.
 
 [Start Session 1](session-1.md){ .md-button .md-button--primary }
 
@@ -14,16 +14,16 @@ The machinery. Turn intent into a repeatable weekly operating system, and handle
 
 **Time for this module:** about 5 hours of core work: the 10-minute start-of-week check, four sessions (40 + 70 + 70 + 85 minutes), and the 15-minute end-of-week self-check. The time audit also needs about 5 minutes a day of tracking. Optional extras add about 20 minutes across the week (the partner steps), plus two optional podcast episodes in Session 3.
 
-Your time audit starts in Session 1 and runs all week, at about 5 minutes a day. You'll compare your log with your prediction in Session 4, once you have close to a full week of data. Session 2's weekly plan is built from your prediction and the days you've logged so far.
+Session 2's weekly plan is built from your prediction and the days you've logged so far, so plan to do it at least two or three days after Session 1.
 
-| | |
-|---|---|
-| **Theme** | Tracking your time, planning a real week, starting when you don't want to, and preparing without cramming |
+| Item | Details |
+|------|---------|
+| **Theme** | Tracking your time, planning a week, starting when you don't want to, and preparing without cramming |
 | **CLOs** | 5 (Plan time and work), 7 (Prepare for assessment) |
-| **Capstone deposits** | Time audit results, working weekly plan, tool decision, chunked big task with if–then plan, exam or assignment prep plan |
+| **Capstone** | Feeds section 4 of your [Personal Student Success Plan](../capstone.md): your weekly plan (with your tool decision), chunked big task with if–then plan, and prep plan |
 | **Works with** | Alone, with a study buddy, or [live with a group](../facilitator-guide.md#module-3-time-procrastination-systems) |
 
-**How every session works.** Each session follows the same steps as Weeks 1 and 2: a 5-minute warm-up from memory, the core ideas, a reading, video, or listen with a link and time estimate, the activity (with a solo version and an optional partner step), a deposit toward your capstone, and options for how to do it. A no-tech version is always available: paper, a pen, and a timer.
+**How every session works.** Each session follows the same steps as Weeks 1 and 2: a 5-minute warm-up from memory, the core ideas, a reading, video, or listen with a link and time estimate, the activity (with a solo version and an optional partner step), something you make for your capstone, and options for how to do it. A no-tech version is always available: paper, a pen, and a timer.
 
 ### Start of week · 10 min
 
@@ -67,10 +67,10 @@ Then re-rate your confidence on the five items and compare with the start of the
 By the end of this module, you will be able to:
 
 1. Analyze where your time actually goes (a one-week time audit).
-2. Apply a weekly planning routine that front-loads commitments and protects focus time.
+2. Apply a weekly planning routine that starts with fixed commitments and protects focus time.
 3. Explain procrastination as largely an emotion-regulation problem and apply at least two strategies for getting started.
 4. Break large tasks into sequenced, manageable steps with checkpoints, and prepare for an exam or assignment by working backward from the date.
-5. Evaluate common productivity tools and choose one stack that fits your system (not the hype).
+5. Compare common planning and note-taking tools and choose one planner and one note system that fit how you work.
 
 ## What you'll have by the end
 
@@ -98,9 +98,9 @@ Tick these off as you go. Every handout is in the [Module 3 materials](materials
 
 ## Next steps and a bridge to Week 4
 
-- **Bridge to Week 4:** a system only lasts if it's sustainable. [Module 4](../module-4/index.md) is about the energy, health, and resources that keep this week's machine running.
+- **Bridge to Week 4:** a weekly system only works if you have the energy to run it. [Module 4](../module-4/index.md) covers sleep, stress, and finding support.
 - **Habit to start now:** the Sunday 15-minute reset. Lay out next week before the week starts.
-- **Continuing beyond the course:** audit again one month after the course ends. Systems drift, and a quarterly re-audit catches drift before it becomes overwhelm.
+- **After the course:** repeat the time audit about 90 days after you finish, as in the capstone's day-90 step. Weekly systems drift, and a re-audit catches it early.
 
 ## Resources for Week 3
 

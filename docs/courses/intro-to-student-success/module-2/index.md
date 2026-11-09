@@ -4,7 +4,7 @@
 
 **Week 2 of 4** · CLOs 4 and 6
 
-Replace low-yield habits like re-reading and highlighting with high-yield, evidence-based ones. Every strategy you meet this week is something you'll try on real material and then judge by how it worked. Expect it to feel harder than re-reading. That difficulty is part of why it works.
+This week you swap low-yield habits like re-reading and highlighting for methods the research supports. You'll try each one on material you're actually studying and judge it by how it went. Expect it to feel harder than re-reading, and that extra effort is part of why it works.
 
 [Start Session 1](session-1.md){ .md-button .md-button--primary }
 
@@ -14,14 +14,14 @@ Replace low-yield habits like re-reading and highlighting with high-yield, evide
 
 **Time for this module:** about 5 hours of core work: the 10-minute start-of-week check, four sessions (70 + 65 + 65 + 60 minutes), and the 30-minute end-of-week wrap-up. Optional extras add about 35 minutes across the week, plus an optional podcast episode.
 
-| | |
-|---|---|
+| Item | Details |
+|------|---------|
 | **Theme** | Passive vs. active study, retrieval, spacing, interleaving, notes, and reading |
 | **CLOs** | 4 (Learn how to learn), 6 (Read and process academic text) |
-| **Capstone deposits** | Strategy Toolkit card, spaced-practice schedule, one page of active notes, reading log |
+| **Capstone** | Feeds section 3 of your [Personal Student Success Plan](../capstone.md): the Strategy Toolkit card and spaced-practice schedule. The notes page and reading log are practice. |
 | **Works with** | Alone, with a study buddy, or [live with a group](../facilitator-guide.md#module-2-learning-how-to-learn) |
 
-**How every session works.** Each session follows the same steps as Week 1: a 5-minute warm-up from memory, the core ideas, a reading or video with a link and time estimate, the activity (with a solo version and an optional partner step), a deposit toward your capstone, and options for how to do it. A no-tech version is always available: paper, a pen, and a timer.
+**How every session works.** Sessions follow the same pattern as Week 1: a 5-minute warm-up from memory, the core ideas, a reading or video with a link and time estimate, and an activity with a solo version and, in most sessions, an optional partner step. A no-tech version is always available: paper, a pen, and a timer.
 
 ### Start of week · 10 min
 
@@ -98,7 +98,7 @@ Tick these off as you go. Every handout is in the [Module 2 materials](materials
 
 ## Next steps and a bridge to Week 3
 
-- **Bridge to Week 3:** your toolkit tells you *how* you'll study. Week 3 decides *when* and *how much* of it fits your real week, and what to do when you don't feel like starting.
+- **Bridge to Week 3:** your toolkit tells you *how* you'll study. Week 3 decides *when* and *how much* of it fits your actual week, and what to do when you don't feel like starting.
 - **Habit to start now:** end every study session with a 2-minute "close the book and list what I just learned" retrieval burst.
 - **Continuing beyond the course:** if you adopt only one habit from this module, make it spacing. Re-run your schedule before every exam block.
 

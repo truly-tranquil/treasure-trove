@@ -4,7 +4,7 @@
 
 **Focus:** building a weekly plan, triaging a heavy week, and choosing tools. **CLOs:** 5.
 
-**Deposit:** weekly plan, triage note, and one-line tool decision ([Handout 3-B](materials.md#handout-3b)).
+**You'll Make:** weekly plan, triage note, and one-line tool decision ([Handout 3-B](materials.md#handout-3b)).
 
 ---
 

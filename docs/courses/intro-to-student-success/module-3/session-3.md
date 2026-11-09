@@ -4,7 +4,7 @@
 
 **Focus:** why we avoid, and how to start anyway. **CLOs:** 5.
 
-**Deposit:** chunked big task and if–then plan ([Handout 3-C](materials.md#handout-3c)).
+**You'll Make:** chunked big task and if–then plan ([Handout 3-C](materials.md#handout-3c)).
 
 ---
 

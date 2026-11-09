@@ -4,7 +4,7 @@
 
 **Focus:** structured reading with SQ3R; margin questions; the "say it in your own words" check. **CLOs:** 6.
 
-**Deposit:** reading log ([Handout 2-C](materials.md#handout-2c)).
+**You'll Make:** reading log ([Handout 2-C](materials.md#handout-2c)).
 
 ---
 
