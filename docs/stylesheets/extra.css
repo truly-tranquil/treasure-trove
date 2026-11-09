@@ -117,12 +117,6 @@ textarea:focus-visible {
   text-decoration: underline;
 }
 
-:focus-visible {
-  outline: 3px solid var(--md-accent-fg-color) !important;
-  outline-offset: 3px !important;
-  border-radius: 2px;
-}
-
 .md-typeset .headerlink {
   opacity: 1;
   color: var(--md-default-fg-color--light);
@@ -135,4 +129,26 @@ textarea:focus-visible {
 
 .md-footer__direction {
   opacity: 1;
+}
+
+.md-header__button:focus-visible,
+.md-header label:focus-visible,
+.md-search__input:focus-visible {
+  outline: 2px solid var(--md-primary-bg-color);
+  outline-offset: 2px;
+}
+
+.md-content a:focus-visible,
+.md-nav a:focus-visible,
+.md-footer a:focus-visible,
+.md-button:focus-visible,
+summary:focus-visible {
+  outline: 2px solid var(--md-accent-fg-color);
+  outline-offset: 2px;
+}
+
+:focus-visible {
+  outline: 3px solid var(--md-accent-fg-color) !important;
+  outline-offset: 3px !important;
+  border-radius: 2px;
 }
