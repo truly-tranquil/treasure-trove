@@ -158,3 +158,13 @@ summary:focus-visible {
   outline-offset: 3px !important;
   border-radius: 2px;
 }
+
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+  border-left: 0.05rem solid var(--md-typeset-table-color);
+}
+
+.md-typeset table:not([class]) th:first-child,
+.md-typeset table:not([class]) td:first-child {
+  border-left: 0;
+}

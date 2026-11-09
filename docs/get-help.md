@@ -41,7 +41,7 @@ As someone who lives in the US, many of these resources are aimed at the US spec
 
 - [Mental Health Coalition Resources](https://www.thementalhealthcoalition.org/resources/) — Curated mental health education and support links.
 - [Psychology Today Therapy Finder](https://www.psychologytoday.com/us/therapists) — Search therapists by location, specialty, insurance, and cost.
-- [Open Path Collective](https://openpathcollective.org/) — Lower-cost therapy sessions for people without insurance or with limited income.
+- [Open Path Collective](https://openpathcollective.org/) — Lower-cost therapy sessions for people without insurance or with limited income. Currently the fee is a one-time $65 payment, and then $30-80 per session.
 - [FindTreatment.gov](https://findtreatment.gov/) — SAMHSA's locator for mental health and substance use treatment facilities.
 - [NAMI (National Alliance on Mental Illness)](https://www.nami.org/) — Education, local support groups, and a helpline for people and families affected by mental illness.
 - [Mental Health America](https://www.mhanational.org/) — Free screening tools, articles, and a guide to finding help.
@@ -52,7 +52,7 @@ As someone who lives in the US, many of these resources are aimed at the US spec
 
 ## 3. Self-Care & Wellness Tools
 
-- [Headspace](https://www.headspace.com/) — Guided meditation, sleep, and stress tools (subscription).
+- [Headspace](https://www.headspace.com/) — Guided meditation, sleep, and stress tools. Paid subscription, but some libraries, universities, and businesses offer free subscriptions.
 - [Insight Timer](https://insighttimer.com/) — Large library of free guided meditations and talks.
 - [Smiling Mind](https://www.smilingmind.com.au/) — Free mindfulness programs for different ages.
 - [MindShift CBT](https://www.anxietycanada.com/resources/mindshift-cbt/) — Free app from Anxiety Canada teaching cognitive behavioral skills for anxiety.
