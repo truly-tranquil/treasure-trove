@@ -13,7 +13,7 @@ I hope you enjoy!
 
 ### About Me
 
-Hi! I'm Killian, also known as Tranquil or Truly Tranquil online, and I created this program. I am currently the only team member. 0.o
+Hi! I'm Killian, also known as Truly Tranquil online, and I created this program. I am currently the only team member. 0.o
 
 **Contact info:**
 [This is my linktree!](https://linktr.ee/truly.tranquil)
