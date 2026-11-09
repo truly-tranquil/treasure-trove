@@ -9,7 +9,7 @@ A community-run program for self-paced courses and a free learning library
 
 ## What This Is
 
-1. I started this program to help people reconnect with their love of learning, at a time when education is getting harder to access.
+1. I started this program to help people reconnect with their love of learning, at a time when education is often getting less accessible.
 2. There's one course so far, with more on the way. There's also a large [Learning Library](learning-library.md) of free and low-cost books, courses, and media, which is useful for independent study too.
 3. If you've wanted to learn in a more self-directed way but didn't have the time or energy to put a curriculum together, you're in the right place. (Plus the community is super cool too, if that's your jam.)
 

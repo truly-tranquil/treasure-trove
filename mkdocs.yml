@@ -26,17 +26,9 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-  font:
-    text: Roboto
-    code: Roboto Mono
-  include_in_navigation: true
-  homepage: index.md
 
 extra_css:
   - stylesheets/extra.css
-
-extra_javascript:
-  - assets/javascripts/accessibility.js
 
 markdown_extensions:
   - attr_list
