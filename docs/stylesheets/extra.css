@@ -123,20 +123,16 @@ textarea:focus-visible {
   border-radius: 2px;
 }
 
-a[role="doc-contents"] .md-contents-link,
-a[title="Permalink"],
-.md-versions__select a[title="Permalink"],
-body .md-typeset a[title="Permalink"] {
-  position: relative; 
-  z-index: 10;
+.md-typeset .headerlink {
+  opacity: 1;
+  color: var(--md-default-fg-color--light);
 }
 
-a[title="Permalink"] {
-  opacity: 0.5;
-  transition: opacity 0.3s;
+.md-typeset .headerlink:hover,
+.md-typeset .headerlink:focus {
+  color: var(--md-accent-fg-color);
 }
 
-a[title="Permalink"]:hover,
-a[title="Permalink"]:focus {
+.md-footer__direction {
   opacity: 1;
 }
