@@ -8,11 +8,13 @@ theme:
   features:
     - navigation.footer
     - navigation.top
+    - search.suggest
+    - search.highlight
   palette:
-
     # Light mode settings
     - scheme: default
       primary: indigo
+      accent: teal
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
@@ -20,9 +22,15 @@ theme:
     # Dark mode settings
     - scheme: slate
       primary: indigo
+      accent: teal
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  include_in_navigation: true
+  homepage: index.md
 
 extra_css:
   - stylesheets/extra.css

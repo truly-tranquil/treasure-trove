@@ -2,9 +2,41 @@
 
 ## Vote On The Next Course
 
-<div class="strawpoll-embed" id="strawpoll_YVyPvQAR4gN" style="height: 772px; max-width: 640px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_YVyPvQAR4gN" src="https://strawpoll.com/embed/YVyPvQAR4gN" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>
+Help us decide what to teach next! This poll is powered by Google Forms, which is designed to be accessible and screen reader friendly.
 
-Poll not loading? You can [vote on StrawPoll directly](https://strawpoll.com/YVyPvQAR4gN).
+<div aria-labelledby="poll-heading" style="width: 100%; margin: 0 auto; overflow: hidden;">
+  <iframe 
+    src="https://docs.google.com/forms/d/e/1FAIpQLSeGPOr2Tgx97gB8tES5eMD1Oxx_e2i87b-kOiK5tecAaTP43w/viewform?embedded=true" 
+    id="course-poll-iframe"
+    title="Treasure Trove Course Selection Poll - Vote on the next course topic"
+    width="640" 
+    height="1200" 
+    loading="lazy"
+    frameborder="0" 
+    marginheight="0" 
+    marginwidth="0">
+    This poll requires a browser that supports iframes. 
+    <a href="https://forms.gle/vDoLti8VwuN3U7a97" 
+       rel="noopener noreferrer" 
+       target="_blank">
+      Click here to open the voting form in a new window.
+    </a>
+  </iframe>
+</div>
+
+<div style="text-align: center; margin-top: 16px;">
+  <p style="margin: 0;">
+    <small>
+      If the poll isn't loading, you can <a href="https://forms.gle/vDoLti8VwuN3U7a97" 
+         rel="noopener noreferrer" 
+         target="_blank">vote directly here</a>.
+    </small>
+  </p>
+</div>
+
+<p>
+  Thank you for participating! Your vote helps shape what we teach next.
+</p>
 
 ## Take A Look At What's In The Works
 
