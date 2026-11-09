@@ -1,111 +1,251 @@
-# Module 3 — Time, Procrastination & Systems
+# Module 3 Materials
 
-*"Make the Workload Manageable"*
+Handouts for Module 3. Each one has a version you can read here and a copy you can fill in: download a PDF or Word file, or print it. You can also copy the prompts into a notebook, or answer them out loud as a voice memo. Every handout lists its own options.
 
-**Week 3 of 4** · CLOs 5 and 7 (course learning objectives, listed in the [syllabus](../syllabus.md))
-
-This week you track where your time goes, build a weekly plan around it, and work out what to do on the days you don't feel like starting. Module 2 covered how to study. This week covers when, and how much. Build the plan around your actual week, including the parts you can't change.
-
-[Start Session 1](session-1.md){ .md-button .md-button--primary }
-
----
-
-## What you'll be able to do
-
-By the end of this module, you will be able to:
-
-1. Find out where your time actually goes with a one-week time audit.
-2. Build a weekly plan that starts with fixed commitments and protects focus time.
-3. Explain procrastination as largely an emotion-regulation problem, and use at least two strategies for getting started.
-4. Break a large task into sequenced steps with checkpoints, and prepare for an exam or assignment by working backward from the date.
-5. Choose one planner or calendar and one note system that fit how you work.
+| Handout | Used in | Time |
+|---------|---------|------|
+| [3-A: Time Audit Summary](#handout-3a) | [Session 1](session-1.md), [Session 2](session-2.md) (warm-up), and [Session 4](session-4.md) | ≈10 min to set up, ≈5 min a day, ≈20 min to finish |
+| [3-B: My Weekly System](#handout-3b) | [Session 2](session-2.md), plus [Session 3](session-3.md) (warm-up) | ≈45 min |
+| [3-C: Break This Down](#handout-3c) | [Session 3](session-3.md), plus [Session 4](session-4.md) (warm-up) | ≈25 min |
+| [3-D: Prep Plan](#handout-3d) | [Session 4](session-4.md) | ≈35 min |
 
 ---
 
-## Your week
+## Handout 3-A: Time Audit Summary { #handout-3a }
 
-About 5 hours of core work: a 10-minute start-of-week check, four sessions (40 + 70 + 70 + 85 minutes), and a 15-minute end-of-week self-check. The time audit also needs about 5 minutes a day of tracking. Optional partner steps add about 20 minutes across the week, plus two optional podcast episodes in Session 3.
+*Sessions 1 and 4 · about 10 minutes to set up, about 5 minutes a day to log, about 20 minutes to finish*
 
-**Spacing matters this week.** The audit runs all week, and the sessions build on it:
+This is where your prediction and your real week meet. You fill in the prediction column before you log anything, track a week, then fill in the rest in Session 4. The gap between the two columns is the useful part.
 
-- Do Session 1 at the start of the week.
-- Do Session 2 at least two or three days later, because your weekly plan is built from your prediction and the days you've logged so far.
-- Do Session 4 once you have close to a full week logged, because that's when you compare your log with your prediction.
+**Get a copy:** [PDF](../../../assets/intro%20to%20student%20success/handout-3a-time-audit-summary.pdf) · [Word](../../../assets/intro%20to%20student%20success/handout-3a-time-audit-summary.docx)
 
-| Item | Details |
-|------|---------|
-| **Theme** | Tracking your time, planning a week, starting when you don't want to, and preparing without cramming |
-| **CLOs** | 5 (Plan time and work), 7 (Prepare for assessment) |
-| **Capstone** | Feeds section 4 of your [Personal Student Success Plan](../capstone.md): your weekly plan (with your tool decision), chunked big task with if–then plan, and prep plan |
-| **Works with** | Alone, with a study buddy, or [live with a group](../facilitator-guide.md#module-3-time-procrastination-systems) |
+### What goes on it
 
-Each session opens with a 5-minute warm-up from memory. Then come core ideas and a reading, video, or listen with a link and time estimate, and an activity you can do alone or with an optional partner step. Everything also works with paper, a pen, and a timer.
+| Category | My prediction (hours) | My log (hours) | Gap (log minus prediction) |
+|----------|-----------------------|----------------|----------------------------|
+| Classes |  |  |  |
+| Study |  |  |  |
+| Sleep |  |  |  |
+| Work or caregiving |  |  |  |
+| Screens (non-academic) |  |  |  |
+| Other (meals, commuting, errands, downtime) |  |  |  |
+| **Total** | **168** | **168** | **0** |
 
-### Start of week · 10 min
+- **Time leaks (at least three):** …
+- **One thing that took longer than I expected:** …
+- **One block that went better than I expected (I'll protect it):** …
+- **One change to my weekly plan (optional):** …
 
-- Rate your confidence from 1 (not at all) to 5 (very) on each of the five items above, and write the numbers down. You'll re-rate at the end of the week.
-- **Predict** how many hours in a typical week go to classes, study, sleep, work or caregiving, and screens (non-academic). Put whatever is left (meals, commuting, errands, downtime) under "Other," so the week adds up to 168 hours. Write the numbers in the "My prediction" column of [Handout 3-A](materials.md#handout-3a). Do this before you start logging, so the prediction stays honest.
-- Open your Module 2 [Strategy Toolkit card (Handout 2-D)](../module-2/materials.md#handout-2d). Its strategies are the study blocks you'll be scheduling.
+### Notes
 
-### Sessions
+- **Predict first.** Fill in the prediction column before you start logging, and don't change it afterward. Put whatever is left under "Other" so the week adds up to 168 hours.
+- **Rough is enough.** Log in blocks of about 30 minutes, once a day in the evening. A rough real log is more useful than a neat guess.
+- **Constraints aren't leaks.** Work, caregiving, and commuting are fixed parts of your week. Don't mark them as leaks. Your plan is built around them.
+- **Your log lives somewhere else.** Use the Iowa State worksheet from Session 1, a paper grid, a spreadsheet, or a notes app. This handout holds the totals.
 
-| Session | Warm-up | Core ideas + learn | Do | Total | You'll make |
-|---------|---------|--------------------|----|-------|-------------|
-| [1 — The Time Audit](session-1.md) | 5 min | 25 min | 10 min, plus daily tracking | ≈40 min | A time log, set up and started ([Handout 3-A](materials.md#handout-3a)) |
-| [2 — The Weekly Operating System, Triage & Tools](session-2.md) | 5 min | 20 min | 45 min | ≈70 min | A weekly plan, triage note, and one-line tool decision ([Handout 3-B](materials.md#handout-3b)) |
-| [3 — Procrastination, Big Tasks & Small Steps](session-3.md) | 5 min | 40 min | 25 min | ≈70 min | A chunked big task with an if–then plan ([Handout 3-C](materials.md#handout-3c)) |
-| [4 — Exams & Assignments Without Cramming](session-4.md) | 5 min | 25 min | 55 min | ≈85 min | A completed time audit ([Handout 3-A](materials.md#handout-3a)) and a prep plan for one deadline ([Handout 3-D](materials.md#handout-3d)) |
+**Options:** a table on paper, a spreadsheet, or a voice memo that walks through your totals. For the log itself, a sheet of paper with a line for each day and a few words per block is enough.
 
-### End-of-week self-check · 15 min
+??? example "Worked example"
 
-Answer from memory first, then check your notes and the answers.
+    | Category | My prediction | My log | Gap |
+    |----------|---------------|--------|-----|
+    | Classes | 4 | 4 | 0 |
+    | Study | 6 | 3 | −3 |
+    | Sleep | 49 | 44 | −5 |
+    | Work or caregiving | 45 | 48 | +3 |
+    | Screens (non-academic) | 14 | 24 | +10 |
+    | Other | 50 | 45 | −5 |
+    | **Total** | **168** | **168** | **0** |
 
-1. What are three common time leaks you found in your audit?
-2. Name the four quadrants of the Eisenhower Matrix and what to do with each.
-3. Why is procrastination often described as a mood problem rather than a time problem?
-4. What is a "next physical action"?
-5. What are the parts of an if–then plan?
+    **Time leaks:** 1. Checking my phone after dinner, about an hour a night. 2. Switching between email and the study guide every few minutes. 3. A "quick" errand on Tuesday that took most of the evening.
 
-??? note "Answers"
+    **Took longer than I expected:** Tuesday's errand, which I'd guessed at an hour and was closer to two and a half.
 
-    1. Your own. Common examples are phone checks, task switching, and underestimated tasks.
-    2. Do now (urgent and important), schedule (important, not urgent), delegate or shorten (urgent, not important), drop or defer (neither).
-    3. People often put off a task to get relief from the feelings it triggers, so dealing with the feeling and shrinking the first step can matter more than finding more time.
-    4. The smallest visible action that starts a task.
-    5. A time or place cue ("if…") and a specific action ("then…").
+    **Better than I expected (protect it):** Saturday morning. I studied for two hours with my phone in another room.
 
-Then re-rate your confidence on the five items and compare with the start of the week.
-
----
-
-## Checklist
-
-Copy this into your notes or planner and check items off as you go. All handouts are in the [Module 3 materials](materials.md).
-
-- [ ] [Handout 3-A: Time Audit Summary](materials.md#handout-3a): prediction made before tracking, a week logged, and at least three time leaks marked
-- [ ] [Handout 3-B: My Weekly System](materials.md#handout-3b): a plan for one upcoming week (fixed commitments, focus blocks, buffer), a triage note, and a one-line tool decision
-- [ ] Sunday 15-minute reset scheduled
-- [ ] [Handout 3-C: Break This Down](materials.md#handout-3c): one large task in at least 5 sequenced steps with checkpoints, plus an if–then plan for the step you're most likely to avoid
-- [ ] [Handout 3-D: Prep Plan](materials.md#handout-3d): one upcoming deadline, worked backward from the date, with three spaced sessions, one practice test, and after-action review prompts
-- [ ] End-of-week self-check done, with your confidence re-rated
+    **One change to my weekly plan:** Move a study block from Thursday night to Saturday morning.
 
 ---
 
-## Next steps
+## Handout 3-B: My Weekly System { #handout-3b }
 
-- **Bring your system to Module 4.** A weekly system only works if you have the energy to run it. [Module 4](../module-4/index.md) covers sleep, stress, and finding support.
-- **Habit to start now:** the Sunday 15-minute reset. Lay out next week before the week starts.
-- **After the course:** repeat the time audit about 90 days after you finish, as in the capstone's day-90 step. Weekly systems drift, and a re-audit catches it early.
+*Session 2 · about 45 minutes*
 
-## Resources for Week 3
+One real upcoming week, planned in layers: fixed commitments first, then focus blocks for your hardest work, then a buffer. This handout also holds your triage note, your tool decision, and the time of your Sunday reset.
 
-| Source | Used in |
-|--------|---------|
-| [Iowa State University Academic Success Center, "Time Audit" worksheet (Word file)](https://asc.dso.iastate.edu/files/documents/2026-02/Time%20Audit.docx) | [Session 1](session-1.md) |
-| [LSU Health Sciences Center, "Time Management"](https://www.lsuhsc.edu/administration/academic/studentsuccess/time-management.aspx) | [Session 2](session-2.md) |
-| [University of Central Florida, Eisenhower Matrix (fillable PDF)](https://academicsuccess.ucf.edu/sarc/wp-content/uploads/sites/31/2020/12/Eisenhower-Matrix-Fillable.pdf) | [Session 2](session-2.md) |
-| [Sirois & Pychyl (2013), "Procrastination and the Priority of Short-Term Mood Regulation"](https://eprints.whiterose.ac.uk/91793/) | [Session 3](session-3.md) |
-| [Plain English with Derek Thompson, "The Science of Procrastination" with Tim Pychyl (≈55 min)](https://www.theringer.com/2023/06/20/uncategorized/science-procrastination-how-to-really-get-stuff-done) | [Session 3](session-3.md) (optional) |
-| [Why Do We Do That? #040, "Procrastination with Dr. Tim Pychyl" (66 min)](https://whydowedothat.podbean.com/e/040-procrastination-with-dr-tim-pychyl/) | [Session 3](session-3.md) (optional) |
-| [Cornell Learning Strategies Center, "Studying and Taking Exams"](https://lsc.cornell.edu/how-to-study/studying-for-and-taking-exams) | [Session 4](session-4.md) |
-| [Cornell Learning Strategies Center, "What To Do With Practice Exams"](https://lsc.cornell.edu/how-to-study/studying-for-and-taking-exams/what-to-do-with-practice-exams) | [Session 4](session-4.md) |
+**Get a copy:** [PDF](../../../assets/intro%20to%20student%20success/handout-3b-my-weekly-system.pdf) · [Word](../../../assets/intro%20to%20student%20success/handout-3b-my-weekly-system.docx)
+
+### What goes on it
+
+**1. My weekly plan.** Add your fixed commitments first. Then add 3 to 5 focus blocks. Give each one a named task and a strategy from your [Strategy Toolkit card](../module-2/materials.md#handout-2d). Then add at least two buffer blocks, and leave at least one block unscheduled.
+
+| Day | Fixed commitments | Focus blocks (task and strategy) | Buffer or open |
+|-----|-------------------|----------------------------------|----------------|
+| Mon |  |  |  |
+| Tue |  |  |  |
+| Wed |  |  |  |
+| Thu |  |  |  |
+| Fri |  |  |  |
+| Sat |  |  |  |
+| Sun |  |  |  |
+
+**2. My triage note.** Write every task for the week in one of the four boxes. Circle the "important, not urgent" items, and make sure at least one is in a focus block above.
+
+|  | Urgent | Not urgent |
+|---|--------|------------|
+| **Important** | Do now: | Schedule: |
+| **Not important** | Delegate or shorten: | Drop or defer: |
+
+**3. My tool decision (one line).** "I'll use ___ for my calendar and ___ for my notes, because ___."
+
+**4. My Sunday reset.** Day and time: … For 15 minutes I'll look at the week ahead, move or cancel what won't fit, and name my top three tasks.
+
+### Notes
+
+- **Use a real week.** Plan the week you're about to have, including the parts you can't change.
+- **Be specific.** "Study" is not a focus block. "Retrieval drill on chapter 1" is.
+- **The buffer stays.** Late buses and slow tasks are normal. A plan with no slack breaks on the first surprise.
+- **One planner, one note system.** Switching apps often is its own way of putting things off.
+
+**Options:** a digital calendar, a paper planner, a wall calendar, or sticky notes on a single sheet of paper. The [fillable Eisenhower Matrix (PDF)](https://academicsuccess.ucf.edu/sarc/wp-content/uploads/sites/31/2020/12/Eisenhower-Matrix-Fillable.pdf) from Session 2 works for the triage box, and so does a 2×2 grid you draw yourself.
+
+??? example "Worked example"
+
+    | Day | Fixed commitments | Focus blocks | Buffer or open |
+    |-----|-------------------|--------------|----------------|
+    | Mon | Work 8–4:30 |  | Evening open |
+    | Tue | Work 8–4:30 | 7–7:45 p.m.: chapter 1 blank-page retrieval drill | After 8:30 |
+    | Wed | Work 8–4:30 |  | Whole evening kept free |
+    | Thu | Work 8–4:30 | 7–7:45 p.m.: chapter 1 practice questions (Day 3) | After 8:30 |
+    | Fri | Work 8–4:30 |  | Unscheduled |
+    | Sat | Errands 10–12 | 8–9:30 a.m.: chapter 2 with SQ3R, then a blank page | Afternoon |
+    | Sun | Family dinner at 5 | Sunday reset at 7 p.m. | Rest of the evening |
+
+    **Triage:**
+
+    |  | Urgent | Not urgent |
+    |---|--------|------------|
+    | **Important** | Do now: send in the shift-swap form (due tomorrow) | Schedule: chapter 2 of the study guide (Saturday block) |
+    | **Not important** | Delegate or shorten: ask my sister to return the library books | Drop or defer: reorganizing my notes app again |
+
+    **Tool decision:** "I'll use a paper planner for my calendar and my phone notes for everything else, because I already carry both."
+
+    **Sunday reset:** Sundays at 7 p.m.
+
+---
+
+## Handout 3-C: Break This Down { #handout-3c }
+
+*Session 3 · about 25 minutes*
+
+Pick one real task you're putting off. Break it into steps, put dates on them, and decide in advance how you'll start the step you're most likely to avoid.
+
+**Get a copy:** [PDF](../../../assets/intro%20to%20student%20success/handout-3c-break-this-down.pdf) · [Word](../../../assets/intro%20to%20student%20success/handout-3c-break-this-down.docx)
+
+### What goes on it
+
+**The task:** … **Deadline:** …
+
+Work backward from the deadline. Write at least 5 steps in order. Give at least two of them a checkpoint: a date and a visible sign that it's done.
+
+| # | Step | Date | Checkpoint (how I'll know it's done) |
+|---|------|------|--------------------------------------|
+| 1 |  |  |  |
+| 2 |  |  |  |
+| 3 |  |  |  |
+| 4 |  |  |  |
+| 5 |  |  |  |
+
+- **My next physical action** (the smallest visible thing I can do to begin): …
+- **The step I'm most likely to avoid:** …
+- **My if–then plan:** "If ___ (a time or place), then I will ___ (one specific action)."
+- **The feeling I expect when I start:** …
+- **One thing I'll say to myself:** …
+- **In my calendar?** Yes / not yet
+
+### Notes
+
+- **If you can't picture doing it, it's still too big.** Split the step again.
+- **Name the feeling.** Putting off a task is often a way to get relief from boredom, anxiety, or self-doubt. Writing down the feeling in advance makes it easier to start anyway.
+- **If you start late, restart.** The next moment is a new chance to use the plan.
+
+**Options:** written, a spreadsheet, or one index card per step in a row so you can reorder them.
+
+??? example "Worked example"
+
+    **The task:** Write the 4-page report for my training course. **Deadline:** Friday, three weeks from today.
+
+    | # | Step | Date | Checkpoint |
+    |---|------|------|------------|
+    | 1 | Reread the assignment and list what it asks for | Mon, week 1 | A one-page list |
+    | 2 | Pick a topic and find three sources | Wed, week 1 | Three links saved in one note |
+    | 3 | Make an outline | Sat, week 1 | An outline with headings |
+    | 4 | Write a rough draft of the body | Wed, week 2 | About two pages of rough text |
+    | 5 | Write the introduction and conclusion | Sat, week 2 | A full rough draft |
+    | 6 | Put it down for a day, then revise | Mon and Tue, week 3 | A marked-up copy |
+    | 7 | Proofread and submit | Thu, week 3 | Submitted, a day early |
+
+    **Next physical action:** Open the assignment page and copy the instructions into a blank document.
+
+    **The step I'm most likely to avoid:** Step 4, the rough draft.
+
+    **If–then plan:** "If it's 7 p.m. on Wednesday of week 2, then I'll open the outline and write one sentence under the first heading."
+
+    **The feeling I expect:** Anxious that it'll be bad.
+
+    **What I'll say to myself:** "It's a rough draft. I only need one sentence."
+
+---
+
+## Handout 3-D: Prep Plan { #handout-3d }
+
+*Session 4 · about 35 minutes*
+
+A plan for one real deadline: an exam, a certification test, or an assignment. You work backward from the date, so your study sessions are on the calendar before busy days can take them.
+
+**Get a copy:** [PDF](../../../assets/intro%20to%20student%20success/handout-3d-prep-plan.pdf) · [Word](../../../assets/intro%20to%20student%20success/handout-3d-prep-plan.docx)
+
+### What goes on it
+
+**What I'm preparing for:** … **Date:** …
+
+**What's being tested or required** (a checklist from the syllabus, past exams, or the instructor's hints): …
+
+Put the deadline at the bottom and work back. Include three spaced sessions and at least one practice test (timed and closed-book) or, for an assignment, a draft review.
+
+| Date | What | Topic | Retrieval method (blank page, flashcards, practice questions) | My if–then start |
+|------|------|-------|---------------------------------------------------------------|------------------|
+| Session 1 |  |  |  |  |
+| Session 2 |  |  |  |  |
+| Session 3 |  |  |  |  |
+| Practice test or draft review |  |  |  |  |
+| **Deadline** |  |  |  |  |
+
+**After-action review.** After the exam or submission, I'll answer: What did I miss? Was it knowledge, strategy, time, or stress? What will I change next time?
+
+- **Review date (when I'll answer those questions):** …
+- **Every session is in my weekly plan and calendar:** Yes / not yet
+
+### Notes
+
+- **Reuse your Module 2 schedule.** Your [spaced-practice schedule (Handout 2-B)](../module-2/materials.md#handout-2b) and your retrieval drill are the pieces to build on.
+- **No exam coming up?** Use an assignment, a certification test, or a goal from your [SMART goals sheet](../module-1/materials.md#handout-1d).
+- **Deadline weeks away?** Start with the Day 1 / 3 / 7 pattern, then lengthen the gaps.
+
+**Options:** a paper calendar, a spreadsheet, or one index card for each session.
+
+??? example "Worked example"
+
+    **What I'm preparing for:** My certification exam. **Date:** Saturday the 20th, 9 a.m.
+
+    **What's being tested:** The five chapters of the study guide (checklist copied from the exam outline).
+
+    | Date | What | Topic | Retrieval method | If–then start |
+    |------|------|-------|------------------|---------------|
+    | Tue 9th | Session 1 | Chapters 1 and 2 | Blank page, then check | If it's 7 p.m. Tuesday, then I'll put my phone in the other room and set a 25-minute timer. |
+    | Thu 11th | Session 2 | Chapters 1 and 2, then chapter 3 | Practice questions | If dinner is done Thursday, then I'll open the question set to question 1. |
+    | Mon 16th | Session 3 | Chapters 3, 4, and 5 | Flashcards, then a blank page | If it's Monday after work, then I'll make a cup of tea and start the flashcards. |
+    | Wed 18th | Practice test | All five chapters | Timed, closed-book practice exam | If it's 7 p.m. Wednesday, then I'll set the timer before I open the test. |
+    | Sat 20th | **Exam** |  |  |  |
+
+    **After-action review:** The Sunday after the exam, I'll write down what I missed and sort each miss into knowledge, strategy, time, or stress.
