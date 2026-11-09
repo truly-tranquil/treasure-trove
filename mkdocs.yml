@@ -35,6 +35,9 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - assets/javascripts/accessibility.js
+
 markdown_extensions:
   - attr_list
   - admonition
