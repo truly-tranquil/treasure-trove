@@ -1,6 +1,6 @@
 # Module 4 Materials
 
-Handouts for Module 4. Each one has a version you can read here and a copy you can fill in: make your own Google Doc, download a PDF or Word file, or print it. You can also copy the prompts into a notebook, or answer them out loud as a voice memo. Every handout lists its own options.
+Handouts for Module 4. Each one has a version you can read here and a PDF you can download and print. You can also copy the prompts into a notebook, or answer them out loud as a voice memo. Every handout lists its own options.
 
 This module touches on sleep, stress, and mental health. It is educational, not medical or clinical advice. Share only what you want to share, and skip any prompt that doesn't feel right. If you are struggling, the [Get Help](../../../get-help.md) page lists crisis lines and ways to find support.
 
@@ -19,7 +19,7 @@ This module touches on sleep, stress, and mental health. It is educational, not 
 
 You can't notice a change unless you know what "normal" looks like for you. This handout holds your baseline, a 7-day sleep and stress log, your early warning signs, and a sleep target. It is a working document, not a test.
 
-**Get a copy:** [Google Doc](https://docs.google.com/document/d/1GV8KPz5H9rLrQ8QNrLw-O6VBY5z80Wyuhy_qzdZFRKw/copy) · [PDF](https://docs.google.com/document/d/1GV8KPz5H9rLrQ8QNrLw-O6VBY5z80Wyuhy_qzdZFRKw/export?format=pdf) · [Word](https://docs.google.com/document/d/1GV8KPz5H9rLrQ8QNrLw-O6VBY5z80Wyuhy_qzdZFRKw/export?format=docx)
+**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-4-a-well-being-check-in.pdf)
 
 ### What goes on it
 
@@ -69,7 +69,7 @@ You can't notice a change unless you know what "normal" looks like for you. This
 
 Recovery is part of the system. This handout pairs two strategies (ideally one for the body and one for the mind) with the moment you'll use each, and gives you a stress reframe you've already rehearsed. Try each strategy once, notice what it does, and keep what helps.
 
-**Get a copy:** [Google Doc](https://docs.google.com/document/d/1tgwWNOxcGRPJJiJRKc_iLQ0AxnAvriYJTg6NHA7RWpI/copy) · [PDF](https://docs.google.com/document/d/1tgwWNOxcGRPJJiJRKc_iLQ0AxnAvriYJTg6NHA7RWpI/export?format=pdf) · [Word](https://docs.google.com/document/d/1tgwWNOxcGRPJJiJRKc_iLQ0AxnAvriYJTg6NHA7RWpI/export?format=docx)
+**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-4-b-my-recovery-plan.pdf)
 
 ### What goes on it
 
@@ -108,7 +108,7 @@ Recovery is part of the system. This handout pairs two strategies (ideally one f
 
 Using resources is a skill, and strong students use support early. This handout holds your top three real supports and a setback plan: the first three moves you'll make if a bad grade, a crisis, or a low week hits. Deciding in advance is easier than deciding in the middle of it.
 
-**Get a copy:** [Google Doc](https://docs.google.com/document/d/1R6AApDsBSvUzoB3A2eaOVlgEEVB7u1D7uWPtOYiJMPE/copy) · [PDF](https://docs.google.com/document/d/1R6AApDsBSvUzoB3A2eaOVlgEEVB7u1D7uWPtOYiJMPE/export?format=pdf) · [Word](https://docs.google.com/document/d/1R6AApDsBSvUzoB3A2eaOVlgEEVB7u1D7uWPtOYiJMPE/export?format=docx)
+**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-4-c-resources-map-setback-plan.pdf)
 
 ### What goes on it
 
@@ -164,7 +164,7 @@ Find at least three real supports, with at least one from a different category t
 
 Persistence is built, not born. This handout turns one past setback into information using your three-move reframe, and gives you a one-sentence self-compassion script for next time. Pick a real setback, not a made-up one. Choose one you're comfortable thinking about.
 
-**Get a copy:** [Google Doc](https://docs.google.com/document/d/1NxZLu9zP63ILnjqV-e6IF3GH6xiQ2o_XBh4v6svr-94/copy) · [PDF](https://docs.google.com/document/d/1NxZLu9zP63ILnjqV-e6IF3GH6xiQ2o_XBh4v6svr-94/export?format=pdf) · [Word](https://docs.google.com/document/d/1NxZLu9zP63ILnjqV-e6IF3GH6xiQ2o_XBh4v6svr-94/export?format=docx)
+**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-4-d-persistence-note.pdf)
 
 ### What goes on it
 

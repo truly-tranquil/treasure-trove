@@ -17,7 +17,7 @@ It starts with notes that apply to every module, then gives short notes for each
 - **Know your crisis procedures before you start.** Modules 1, 3, and 4 touch on identity, stress, and mental health. Find out your institution's or program's counseling and crisis procedures ahead of time and share them at the start of the course. The [Get Help](../../get-help.md) page lists crisis lines and ways to find a therapist, and you can point people to it at any time.
 - **Treat the solo and low-tech options as full participation.** Every module has a version that needs only paper, a pen, and a timer. Someone working without a device or a partner is doing the course in full.
 - **Allow extra time.** Session times assume one person working alone. A group that shares, debriefs, and swaps pages will usually need more.
-- **Space the sessions out.** Each module is built as one week. Meeting once to, if you can swing it four, times a week works better than four sessions back to back, because the habits (logs, reflections, spaced practice) need days between sessions to happen.
+- **Space the sessions out.** Each module is built as one week. Meeting two to four times a week, spread across the week, works better than four sessions back to back, because the habits (logs, reflections, spaced practice) need days between sessions to happen.
 
 ---
 

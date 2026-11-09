@@ -4,7 +4,7 @@
 
 A one- to two-page plan that pulls the whole course together: why you're here, how you learn, how you study, how you run your week, how you stay well, and what you'll do when things go wrong. You build it across all four modules and finish it in [Module 4, Session 4](module-4/session-4.md).
 
-**Get a copy:** [Google Doc](https://docs.google.com/document/d/1eTv7bOaoy0D5SJbr6hWKWR0hfZLjXuq6zPgZsd02DaA/copy) · [PDF](https://docs.google.com/document/d/1eTv7bOaoy0D5SJbr6hWKWR0hfZLjXuq6zPgZsd02DaA/export?format=pdf) · [Word](https://docs.google.com/document/d/1eTv7bOaoy0D5SJbr6hWKWR0hfZLjXuq6zPgZsd02DaA/export?format=docx)
+**Download:** [PDF](../../assets/intro%20to%20student%20success/capstone-personal-student-success-plan.pdf)
 
 ---
 
