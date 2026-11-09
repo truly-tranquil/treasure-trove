@@ -18,7 +18,7 @@ Look at the days you've logged so far. Without checking [Handout 3-A](materials.
 
 - **Plan in layers.** Fixed commitments first (classes, work, sleep, meals, caregiving). Then focus blocks for your hardest work. Then a buffer. Whatever remains is flexible time. Don't start with the flexible time.
 - **Protect focus time.** Choose blocks when you tend to focus best (the conditions on your [Handout 1-A](../module-1/materials.md#handout-1a) help here), and give each block a specific task rather than "study."
-- **Use Week 2.** Put your toolkit strategies in the blocks: "Tues 4–5 p.m.: retrieval drill for Biology, Day 3." Your [Strategy Toolkit card](../module-2/materials.md#handout-2d) is the source.
+- **Use Week 2.** Put your toolkit strategies in the blocks: "Wed 4–5 p.m.: retrieval drill for Biology, Day 3." Your [Strategy Toolkit card](../module-2/materials.md#handout-2d) is the source.
 - **The buffer is not wasted time.** Real weeks include late buses, slow tasks, and low-energy days. A plan with no slack breaks on the first surprise.
 - **Triage with the Eisenhower Matrix.** Sort tasks by urgent and important. *Urgent and important:* do now. *Important, not urgent:* schedule it (this is where most of your learning lives). *Urgent, not important:* delegate, shorten, or batch. *Neither:* drop or defer.
 - **Tools serve the system, not the reverse.** One planner or calendar and one note system is enough. Switching apps often is its own form of procrastination.
