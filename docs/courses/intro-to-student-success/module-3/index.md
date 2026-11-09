@@ -28,7 +28,7 @@ Session 2's weekly plan is built from your prediction and the days you've logged
 ### Start of week · 10 min
 
 - Rate your confidence from 1 (not at all) to 5 (very) on each of the five items under "What you'll be able to do" below, and write the numbers down. You'll re-rate at the end of the week.
-- **Predict** how many hours in a typical week go to classes, study, sleep, work or caregiving, and screens (non-academic). Write the numbers in the "My prediction" column of [Handout 3-A](materials.md#handout-3a). Do this before you start logging, so the prediction stays honest.
+- **Predict** how many hours in a typical week go to classes, study, sleep, work or caregiving, and screens (non-academic). Put whatever is left (meals, commuting, errands, downtime) under "Other," so the week adds up to 168 hours. Write the numbers in the "My prediction" column of [Handout 3-A](materials.md#handout-3a). Do this before you start logging, so the prediction stays honest.
 - Open your Module 2 [Strategy Toolkit card (Handout 2-D)](../module-2/materials.md#handout-2d). Its strategies are the study blocks you'll be scheduling.
 
 ### Sessions
@@ -70,7 +70,7 @@ By the end of this module, you will be able to:
 2. Apply a weekly planning routine that starts with fixed commitments and protects focus time.
 3. Explain procrastination as largely an emotion-regulation problem and apply at least two strategies for getting started.
 4. Break large tasks into sequenced, manageable steps with checkpoints, and prepare for an exam or assignment by working backward from the date.
-5. Compare common planning and note-taking tools and choose one planner and one note system that fit how you work.
+5. Choose one planner or calendar and one note system that fit how you work.
 
 ## What you'll have by the end
 
@@ -78,14 +78,14 @@ By the end of this module, you will be able to:
 - [ ] A working weekly plan (one real week, not a fantasy week) with fixed commitments, blocked focus time, and a buffer
 - [ ] A short priority-triage note for a busy week (urgent vs. important vs. delegable or droppable)
 - [ ] One large task broken into at least 5 sequenced steps with interim checkpoints, plus one "if–then" start plan for the step you're most likely to avoid
-- [ ] An exam or assignment prep plan for one real upcoming deadline: worked backward from the date, with three spaced sessions, one practice test, and a post-exam or post-assignment review prompt
+- [ ] An exam or assignment prep plan for one real upcoming deadline: worked backward from the date, with three spaced sessions, one practice test, and after-action review prompts
 - [ ] A one-line tool decision (one planner or calendar plus one note system) with the reason it fits you
 
 The weekly plan, if–then plan, and prep plan feed into your [Personal Student Success Plan](../capstone.md).
 
 ## Completion checklist
 
-Tick these off as you go. Every handout is in the [Module 3 materials](materials.md).
+Copy this list into your notes or planner and check items off as you go. Every handout is in the [Module 3 materials](materials.md).
 
 - [ ] [Handout 3-A: Time Audit Summary](materials.md#handout-3a), with three leaks marked
 - [ ] [Handout 3-B: My Weekly System](materials.md#handout-3b): weekly plan, triage note, and one-line tool decision
@@ -114,5 +114,3 @@ Tick these off as you go. Every handout is in the [Module 3 materials](materials
 | [Why Do We Do That? #040, "Procrastination with Dr. Tim Pychyl" (66 min)](https://whydowedothat.podbean.com/e/040-procrastination-with-dr-tim-pychyl/) | [Session 3](session-3.md) (optional) |
 | [Cornell Learning Strategies Center, "Studying and Taking Exams"](https://lsc.cornell.edu/how-to-study/studying-for-and-taking-exams) | [Session 4](session-4.md) |
 | [Cornell Learning Strategies Center, "What To Do With Practice Exams"](https://lsc.cornell.edu/how-to-study/studying-for-and-taking-exams/what-to-do-with-practice-exams) | [Session 4](session-4.md) |
-
----

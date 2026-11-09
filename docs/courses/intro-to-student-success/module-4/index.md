@@ -85,7 +85,7 @@ By the end of this module, you will be able to:
 
 ## Completion checklist
 
-Tick these off as you go. Every handout is in the [Module 4 materials](materials.md).
+Copy this list into your notes or planner and check items off as you go. Every handout is in the [Module N materials](materials.md).
 
 - [ ] [Handout 4-A: Well-being Check-in](materials.md#handout-4a): sleep and stress log, baseline, and early warning signs
 - [ ] [Handout 4-B: My Recovery Plan](materials.md#handout-4b): two recovery strategies practiced, plus a stress reframe

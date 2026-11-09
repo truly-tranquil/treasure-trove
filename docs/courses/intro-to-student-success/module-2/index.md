@@ -84,7 +84,7 @@ The Strategy Toolkit card and spaced schedule feed into your [Personal Student S
 
 ## Completion checklist
 
-Tick these off as you go. Every handout is in the [Module 2 materials](materials.md).
+Copy this list into your notes or planner and check items off as you go. Every handout is in the [Module N materials](materials.md).
 
 - [ ] [Handout 2-A: Technique Autopsy](materials.md#handout-2a)
 - [ ] Retrieval drill done, with a 2-sentence reflection

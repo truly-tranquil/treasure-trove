@@ -17,7 +17,10 @@ Student Success 101 covers who you are as a learner, how to study in a way that 
 | **Duration**      | 4 weeks · about 4½ to 5 hours per week (about 20 hours total) · 16 sessions                                  |
 | **Format**        | Self-guided. Every live or partner activity has a solo version, and every module has a low-tech option.      |
 | **Prerequisites** | None                                                                                                         |
+
 Running this with a group? See the [facilitator guide](facilitator-guide.md).
+
+**Who this is for.** This course works whether you're in school, in job training, or learning on your own. When a prompt says "course," read it as any class, training, certification, or project where you were learning something. You don't need to be enrolled anywhere to take it.
 
 ---
 
@@ -35,16 +38,20 @@ No one is grading your work, so the self-checks are how you'll know whether it's
 
 ## The four modules
 
-### [Module 1 — Foundations & Mindset](module-1/index.md)
+### [Module 1: Foundations & Mindset](module-1/index.md)
+
 *"Who Am I as a Learner?"* Get to know how you learn, what you believe about your own ability, and why you're here.
 
-### [Module 2 — Learning How to Learn](module-2/index.md)
+### [Module 2: Learning How to Learn](module-2/index.md)
+
 *"Study in a Way That Sticks."* Swap low-yield habits like re-reading and highlighting for methods the research supports.
 
-### [Module 3 — Time, Procrastination & Systems](module-3/index.md)
+### [Module 3: Time, Procrastination & Systems](module-3/index.md)
+
 *"Make the Workload Manageable."* Turn good intentions into a weekly system, and plan for the days you don't follow it.
 
-### [Module 4 — Well-being, Resources & Sustainability](module-4/index.md)
+### [Module 4: Well-being, Resources & Sustainability](module-4/index.md)
+
 *"Make It Last."* Build sleep, support, and persistence into a plan you'll keep.
 
 ---

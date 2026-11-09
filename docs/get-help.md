@@ -5,7 +5,7 @@ If you're struggling, you don't have to figure it out alone. This page collects 
 Looking for courses, textbooks, tutoring, and other learning resources? See the [Learning Library](learning-library.md).
 
 !!! warning "In immediate danger?"
-    If you or someone near you is in immediate danger, call your local emergency number (911 in the US).
+    If you or someone near you is in immediate danger, call your local emergency number (911 in the US and Canada, 999 in the UK, 000 in Australia).
 
 As someone who lives in the US, many of these resources are aimed at the US specifically, and international options are listed where I know of them. If you know of a resource I should add, in any country, please email me at [tranquil.tyrant@gmail.com](mailto:tranquil.tyrant@gmail.com).
 
@@ -13,19 +13,24 @@ As someone who lives in the US, many of these resources are aimed at the US spec
 
 ## 1. Crisis Support
 
-- [988 Suicide & Crisis Lifeline (US)](https://988lifeline.org/) — Call or text 988, or chat at 988lifeline.org, any time. Free and confidential, in English and Spanish.
+*Phone numbers last checked November 8, 2026. Numbers can change, so if one doesn't connect, use the website.*
+
+- [988 Suicide & Crisis Lifeline (US)](https://988lifeline.org/) — Call or text [988](tel:988), or chat at 988lifeline.org, any time. Free and confidential, in English and Spanish.
 - [Crisis Text Line](https://www.crisistextline.org/) — Text HOME to 741741 (US) to reach a trained crisis counselor by text.
-- [The Trevor Project](https://www.thetrevorproject.org/) — Crisis support for LGBTQ+ young people by phone, text, and chat.
-- [Trans Lifeline](https://translifeline.org/) — Peer support run by and for trans people.
-- [Veterans Crisis Line](https://www.veteranscrisisline.net/) — Support for veterans, service members, and their families. Dial 988, then press 1.
-- [National Domestic Violence Hotline](https://www.thehotline.org/) — Support and safety planning for people experiencing abuse, by phone, text, and chat.
-- [RAINN](https://www.rainn.org/) — The largest US anti-sexual-violence organization, with a confidential support hotline and online chat.
-- [National Alliance for Eating Disorders Helpline](https://www.allianceforeatingdisorders.com/) — Support and referrals for eating disorders. (This replaces the former NEDA helpline, which has been disconnected.)
-- [SAMHSA National Helpline](https://www.samhsa.gov/find-help/national-helpline) — Free referral service for mental health and substance use treatment.
-- [211](https://www.211.org/) — Connects you to local help with housing, food, utilities, and counseling.
+- [The Trevor Project](https://www.thetrevorproject.org/) — Crisis support for LGBTQ+ young people, 24/7. Call [1-866-488-7386](tel:+18664887386), text START to 678-678, or chat online.
+- [Trans Lifeline](https://translifeline.org/) — Peer support run by and for trans people. Call [1-877-565-8860](tel:+18775658860) (US) or [1-877-330-6366](tel:+18773306366) (Canada).
+- [Veterans Crisis Line](https://www.veteranscrisisline.net/) — Support for veterans, service members, and their families. Dial [988](tel:988), then press 1, or text 838255.
+- [National Domestic Violence Hotline](https://www.thehotline.org/) — Support and safety planning for people experiencing abuse. Call [1-800-799-7233](tel:+18007997233), text START to 88788, or chat online.
+- [RAINN](https://www.rainn.org/) — The largest US anti-sexual-violence organization, with a confidential support hotline and online chat. Call [1-800-656-4673](tel:+18006564673) or text HOPE to 64673.
+- [National Alliance for Eating Disorders Helpline](https://www.allianceforeatingdisorders.com/) — Support and referrals for eating disorders. Call [1-866-662-1235](tel:+18666621235), Monday to Friday, 9 am to 7 pm Eastern. Outside those hours, 988 and the Crisis Text Line are open.
+- [SAMHSA National Helpline](https://www.samhsa.gov/find-help/national-helpline) — Free referral service for mental health and substance use treatment, 24/7. Call [1-800-662-4357](tel:+18006624357). It connects you to treatment and support, but it isn't a counseling line.
+- [211](https://www.211.org/) — Dial [211](tel:211) to be connected to local help with housing, food, utilities, and counseling.
 
 ### International
 
+- [988 Suicide Crisis Helpline (Canada)](https://988.ca/) — Call or text [988](tel:988), 24/7, in English and French.
+- [Samaritans (UK and Ireland)](https://www.samaritans.org/) — Call [116 123](tel:116123), free from any phone, any time.
+- [Lifeline (Australia)](https://www.lifeline.org.au/) — Call [13 11 14](tel:131114), 24/7.
 - [International Suicide Hotlines (Open Counseling)](https://blog.opencounseling.com/suicide-hotlines/) — Country-by-country list of crisis lines.
 - [Find a Helpline](https://findahelpline.com/) — Searchable directory of free, trusted helplines in many countries.
 - [Befrienders Worldwide](https://www.befrienders.org/) — Network of emotional support centers around the world.

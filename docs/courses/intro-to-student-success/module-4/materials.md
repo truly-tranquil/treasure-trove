@@ -52,8 +52,8 @@ You can't notice a change unless you know what "normal" looks like for you. This
 
     | | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
     |---|-----|-----|-----|-----|-----|-----|-----|
-    | Bedtime / wake time | 12:30 / 7:00 | 12:00 / 7:00 | 1:00 / 7:30 | 11:30 / 7:00 | 12:30 / 8:00 | 1:30 / 9:30 | 11:00 / 7:00 |
-    | Sleep quality (1–5) | 2 | 3 | 2 | 3 | 3 | 4 | 4 |
+    | Bedtime / wake time | 12:30 / 6:30 | 1:00 / 6:30 | 1:30 / 7:00 | 12:00 / 6:30 | 12:30 / 7:00 | 1:00 / 8:30 | 12:00 / 6:30 |
+    | Sleep quality (1–5) | 3 | 2 | 2 | 3 | 3 | 4 | 3 |
     | Stress (1–5) | 4 | 4 | 5 | 3 | 3 | 2 | 3 |
     | Main driver of stress | Stats problem set | Work shift ran late | Two deadlines on one day | Group chat drama | Paper outline | Nothing in particular | Planning the week |
 
@@ -191,6 +191,4 @@ Persistence is built, not born. This handout turns one past setback into informa
 
     **One idea from the Duckworth talk I'd keep:** Sticking with something over a long time matters as much as how quickly I pick it up. **One I'd question:** It doesn't say much about how circumstances, like work hours or money, make persistence harder.
 
-    **My self-compassion script:** "This is hard right now, other students hit this too, and I'll take one next step."
-
----
+    **My self-compassion script:** "That one stung, and plenty of people fail a first stats exam. I'll go to tutoring on Thursday."

@@ -27,6 +27,8 @@ Each evening, fill in what you actually did, in blocks of about 30 minutes. Roug
 
 Fill in the **My prediction** column at the start of the week, before you track. Fill in the rest in Session 4. The gap is your log minus your prediction.
 
+A week has 168 hours. Make "Other" whatever is left over (meals, commuting, errands, downtime), so each column adds up to 168.
+
 | Category | My prediction (hrs) | My log (hrs) | Gap | Surprise? |
 |----------|---------------------|--------------|-----|-----------|
 | Classes / scheduled learning |  |  |  |  |
@@ -34,7 +36,8 @@ Fill in the **My prediction** column at the start of the week, before you track.
 | Sleep |  |  |  |  |
 | Work / caregiving / commitments |  |  |  |  |
 | Screens (non-academic) |  |  |  |  |
-| Other |  |  |  |  |
+| Other (meals, commuting, errands, downtime) |  |  |  |  |
+| **Total** | 168 | 168 | 0 |  |
 
 - **My three biggest time leaks:** 1. … 2. … 3. …
 - **One thing that took longer than I expected:** …
@@ -55,7 +58,8 @@ Fill in the **My prediction** column at the start of the week, before you track.
     | Sleep | 56 | 49 | −7 | Yes. I sleep about 7 hours, not 8. |
     | Work / caregiving / commitments | 20 | 24 | +4 | A little. Shifts ran over. |
     | Screens (non-academic) | 7 | 16 | +9 | Yes. Most of it is between tasks. |
-    | Other | 15 | 15 | 0 | No |
+    | Other (meals, commuting, errands, downtime) | 63 | 61 | −2 | No |
+    | **Total** | 168 | 168 | 0 |  |
 
     **My three biggest time leaks:** 1. Checking my phone between study blocks. 2. Starting study sessions 30 minutes late. 3. Scrolling in bed.
 
@@ -106,17 +110,17 @@ This handout holds three pieces of your weekly system: a plan for one real week,
 
     | | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
     |---|-----|-----|-----|-----|-----|-----|-----|
-    | Fixed commitments | Class 9–12, work 5–9 | Work 8–4 | Class 9–12, work 5–9 | Work 8–4 | Class 9–12 | Family day | Free |
+    | Fixed commitments | Class 9–12, work 5–9 | Work 8–4 | Class 9–12, work 5–9 | Work 8–4 | Class 9–12 | Family day (from noon) | Free |
     | Focus block (task + strategy) | 12:30–1:30: Biology, blank-page retrieval | 4:30–5:30: Stats problem set, practice questions | 12:30–1:30: Biology, Day 3 retrieval | 4:30–5:30: Stats, interleave with Biology | 1–2: Psychology reading, SQ3R | | |
-    | Focus block (task + strategy) | | | 7–8 (after work): Flashcards, 20 minutes | | | 9–10: Paper outline | |
-    | Buffer | Evening | Evening | Evening | Evening | Afternoon | Afternoon | 2–4 |
+    | Focus block (task + strategy) | | | 4–4:30 (before work): Flashcards, 20 minutes | | | 9–10: Paper outline | |
+    | Buffer | 2–4 p.m. | Evening | 2–3:30 p.m. | Evening | 2–5 p.m. | Evening | 2–4 p.m. |
     | Sunday reset (15 min) | | | | | | | 7 p.m. |
 
     **Triage note:**
 
     | Do now | Schedule | Delegate or shorten | Drop or defer |
     |--------|----------|---------------------|---------------|
-    | Stats problem set (due Thursday) | Paper outline; Day 3 Biology retrieval | Group chat logistics (ask someone to summarize) | Reorganizing my notes app |
+    | Stats problem set (due Friday) | Paper outline; Day 3 Biology retrieval | Group chat logistics (ask someone to summarize) | Reorganizing my notes app |
 
     **Tool decision:** "I'll use a paper planner for my calendar and my phone's notes app for notes because I look at the planner every morning and I always have my phone."
 
@@ -196,7 +200,7 @@ Work backward from the date. Put the exam or deadline at the bottom of your cale
 
 **Backup time if a session gets bumped:** …
 
-**Post-mortem prompts (after the exam or submission):**
+**After-action review prompts (after the exam or submission):**
 
 - What did I miss, and why?
 - Which prep session helped most?
@@ -223,5 +227,3 @@ Work backward from the date. Put the exam or deadline at the bottom of your cale
     **Backup time if a session gets bumped:** Thursday the 19th, 7 p.m.
 
     **After-action review prompts:** What did I miss, and why? Which prep session helped most? What will I do differently next time?
-
----

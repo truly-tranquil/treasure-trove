@@ -80,7 +80,7 @@ These all feed into your [Personal Student Success Plan](../capstone.md).
 
 ## Completion checklist
 
-Tick these off as you go. Every handout is in the [Module 1 materials](materials.md).
+Copy this list into your notes or planner and check items off as you go. Every handout is in the [Module N materials](materials.md).
 
 - [ ] [Handout 1-A: About Me as a Learner](materials.md#handout-1a) (drafted in Session 1, refined at the end of the week)
 - [ ] [Handout 1-B: The Reframe Card](materials.md#handout-1b)

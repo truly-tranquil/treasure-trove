@@ -1,6 +1,6 @@
 # Learning Library
 
-I aspire for this to become the most comprehensive educational resource list focused on free or low-cost resources. As someone who lives in the US, a handful of these resources are aimed at US residents specifically. If you have resources I should add, from any country, please email me at [tranquil.tyrant@gmail.com](mailto:tranquil.tyrant@gmail.com).
+I'd like this to grow into a thorough list of free and low-cost educational resources. As someone who lives in the US, a handful of these resources are aimed at US residents specifically. If you have resources I should add, from any country, please email me at [tranquil.tyrant@gmail.com](mailto:tranquil.tyrant@gmail.com).
 
 Looking for crisis lines, therapy, or wellness tools? See [Get Help](get-help.md).
 
@@ -12,8 +12,8 @@ Looking for crisis lines, therapy, or wellness tools? See [Get Help](get-help.md
 
 Resources for courses hosted through this program.
 
+- [Student Success 101](courses/intro-to-student-success/index.md) — The free, 4-week, self-paced course. Start here if you're new.
 - [Syllabus Library](https://drive.google.com/drive/folders/1RDaGNdwB79YXX_YI-3ppFU_37wqxDZJJ?usp=sharing) — Shared folder of course syllabi.
-- [Meet the Team](meet-the-team.md) — Introductions to the person behind the program.
 
 ---
 
@@ -23,7 +23,7 @@ Resources for courses hosted through this program.
 - [Khan Academy](https://www.khanacademy.org/) — Free lessons and practice in math, science, humanities, and test prep.
 - [LearnFree Courses](https://www.learnfree.org/#topic-explorer) — Free beginner-friendly lessons.
 - [GCFGlobal](https://edu.gcfglobal.org/en/) — Free tutorials on computers, job skills, reading, and everyday life skills.
-- [LINCS Learner Center](https://lincs.ed.gov/learner) — US Department of Education site for adult learners: GED prep, English, and basic skills. (Not exclusive to this program, but it is a government site.)
+- [LINCS Learner Center](https://lincs.ed.gov/learner) — US Department of Education site for adult learners: GED prep, English, and basic skills.
 - [ReadWorks](https://www.readworks.org/) — Free reading passages and comprehension tools.
 - [USA Learns](https://www.usalearns.org/) — Free English and reading courses for adults.
 - [EnGen](https://getengen.com/pathways) — Career-aligned English language pathways. Access is usually through an organization or program.
@@ -38,7 +38,6 @@ Resources for courses hosted through this program.
 - [Anki](https://apps.ankiweb.net/) — Free flashcard software using spaced repetition.
 - [Bookshare](https://www.bookshare.org/) — Accessible ebooks for people with print disabilities.
 - [Learning Ally](https://learningally.org/) — Human-narrated audiobooks for dyslexia and other reading barriers.
-- [Libby](https://www.libbyapp.com/) — Borrow ebooks and audiobooks from your public library. **Library card**
 
 ---
 
@@ -52,7 +51,7 @@ Resources for courses hosted through this program.
 - [OpenLearn (Open University, UK)](https://www.open.edu/openlearn/) — Free short courses across arts, science, and society. International.
 - [Gresham College](https://www.gresham.ac.uk/) — Free public lectures by leading academics. International.
 - [Oxford Podcasts and Lectures](https://podcasts.ox.ac.uk/) — Free lectures and talks from the University of Oxford. International.
-- [Oxford Department for Continuing Education](https://www.conted.ox.ac.uk/) — Public lectures and adult-learning content from Oxford.
+- [Oxford Department for Continuing Education](https://www.conted.ox.ac.uk/) — Public lectures and adult-learning content from Oxford. International.
 - [ASU Universal Learner Courses](https://ulc.asu.edu/) — Low-cost college courses from Arizona State University that can lead to credit.
 - [Study Hall](https://www.youtube.com/@studyhall) — YouTube partnership with CrashCourse on college-foundation courses.
 - [Modern States](https://modernstates.org/) — Free courses that prepare you to earn college credit through CLEP exams.
@@ -113,6 +112,7 @@ Resources for courses hosted through this program.
 
 ### Free books
 
+- [Libby](https://www.libbyapp.com/) — Borrow ebooks and audiobooks from your public library. **Library card**
 - [Project Gutenberg](https://www.gutenberg.org/) — 70,000+ free public-domain ebooks.
 - [Standard Ebooks](https://standardebooks.org/) — Carefully formatted, free public-domain ebooks.
 - [Internet Archive](https://archive.org/) — Free borrowable books, historic media, and archived websites.
@@ -160,7 +160,6 @@ Resources for courses hosted through this program.
 - [Hoopla](https://www.hoopladigital.com/) — Films, audiobooks, and comics streamed through your library. **Library card**
 - [Third World Newsreel](https://www.twn.org/) — Independent social-issue documentaries and film distribution.
 - [PBS](https://www.pbs.org/) — Free episodes of many series. [PBS Passport](https://www.pbs.org/passport/) adds the deeper archive through a station donation.
-- [PBS LearningMedia](https://www.pbslearningmedia.org/) — Free classroom-ready videos and lessons.
 
 ### Subscription services
 
@@ -174,8 +173,8 @@ Resources for courses hosted through this program.
 - **Nature and planet:** *Planet Earth* (I, II, III), *Blue Planet*, *Frozen Planet*, *The Green Planet*, *Life in Color*, *Our Planet I and II*.
 - **PBS science and history:** [NOVA](https://www.pbs.org/wgbh/nova/), [Nature](https://www.pbs.org/wnet/nature/), [American Experience](https://www.pbs.org/wgbh/americanexperience/), and [FRONTLINE](https://www.pbs.org/wgbh/frontline/).
 - **Design and the mind:** *Abstract: The Art of Design*, *The Mind, Explained*.
-- **Craft and home:** [This Old House](https://www.thisoldhouse.com/), [Craft in America](https://www.craftinamerica.org/), [Growing a Greener World](https://www.growingagreenerworld.com/).
-- **Cooking science:** [America's Test Kitchen](https://www.americastestkitchen.com/), [Cook's Country](https://www.cookscountry.com/).
+
+For home, craft, and cooking shows, see [Hobbies, Crafts & Home](#12-hobbies-crafts-home).
 
 ---
 
@@ -205,7 +204,7 @@ Resources for courses hosted through this program.
 
 ### Food, history, and homesteading
 
-- [LifebyMikeG](https://youtube.com/@lifebymikeg?si=sjabD8XXfnAdWjRo) — Practical cooking technique and kitchen workflow.
+- [LifebyMikeG](https://www.youtube.com/@lifebymikeg) — Practical cooking technique and kitchen workflow.
 - [Ethan Chlebowski](https://www.youtube.com/@EthanChlebowski) — Science-minded home cooking.
 - [Townsends](https://www.youtube.com/@townsends) — 18th-century cooking, crafts, and daily life.
 - [Roots and Refuge Farm](https://www.youtube.com/@RootsandRefuge) — Homesteading, gardening, and seed saving.
@@ -222,7 +221,7 @@ Resources for courses hosted through this program.
 - [Stuff You Should Know](https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/) — Friendly deep dives into how things work.
 - [Philosophize This!](https://www.philosophizethis.org/) — A chronological tour of philosophy.
 - [Dan Carlin's Hardcore History](https://www.dancarlin.com/hardcore-history-series/) — Long-form narrative history.
-- [Huberman Lab](https://www.hubermanlab.com/) — Long-form episodes on neuroscience and health. Treat health advice as general information and check with a clinician.
+- [Huberman Lab](https://www.hubermanlab.com/) — Long-form episodes on neuroscience and health. Treat health claims as general information, and check with a clinician before acting on them.
 - [C-SPAN Lectures in History](https://www.c-span.org/series/?lecturesInHistory) — Recorded college history lectures from across the US.
 - [Internet Archive Audio](https://archive.org/details/audio) — Free audiobooks, old radio, and recorded talks.
 
@@ -257,11 +256,11 @@ Resources for courses hosted through this program.
 - [A Slob Comes Clean](https://www.aslobcomesclean.com/) — Realistic decluttering and home management advice.
 - [Clean Mama](https://cleanmama.com/) — Cleaning routines and household systems.
 - [Fruity Knitting](https://www.fruityknitting.com/) — Knitting podcast and video show with designers and technique talk.
-- [America's Test Kitchen](https://www.americastestkitchen.com/) — Tested recipes and kitchen science.
+- [America's Test Kitchen](https://www.americastestkitchen.com/) — Tested recipes and kitchen science. Its sister site is [Cook's Country](https://www.cookscountry.com/).
 - [This Old House](https://www.thisoldhouse.com/) — Home repair and renovation guides and video.
 - [Craft in America](https://www.craftinamerica.org/) — Documentary series and articles on American craft artists.
 - [Growing a Greener World](https://www.growingagreenerworld.com/) — Organic gardening and sustainable landscaping.
-- [Lettering Daily](https://www.lettering-daily.com/start-here/) — Free caligraphy and hand lettering tutorials.
+- [Lettering Daily](https://www.lettering-daily.com/start-here/) — Free calligraphy and hand lettering tutorials.
 
 ---
 
@@ -284,7 +283,7 @@ Resources for courses hosted through this program.
 - [LINCS](https://lincs.ed.gov/) — US Department of Education hub for adult educators.
 - [COABE](https://coabe.org/) — Professional organization for adult education and literacy.
 - [Edutopia](https://www.edutopia.org/) — Practical classroom strategies and research summaries.
-- [PBS LearningMedia](https://www.pbslearningmedia.org/) — Standards-aligned videos and lessons.
+- [PBS LearningMedia](https://www.pbslearningmedia.org/) — Free classroom-ready videos and lessons, aligned to standards. Learners can use them too.
 - [Learning for Justice](https://www.learningforjustice.org/) — Free anti-bias teaching resources.
 - [TeachRock](https://curriculum.teachrock.org/) — Music-based lessons across subjects.
 
