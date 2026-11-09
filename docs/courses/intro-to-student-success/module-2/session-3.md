@@ -31,7 +31,7 @@ Write out a Day 1 / 3 / 7 schedule for one subject from memory, then check [Hand
 
 **Take one page of Cornell-style notes (15 min).** Use a 10-minute piece of real material: a lecture video, a podcast segment, or a few pages of a reading. Write notes, then add cue questions and a summary.
 
-**Blank-page drill (5 min).** Close the page and write what you remember, then check. Save the page as your capstone deposit.
+**Blank-page drill (5 min).** Close the page and write what you remember, then check. Save the page as your contribution to your capstone project.
 
 ---
 
