@@ -96,7 +96,7 @@ A weekly system works in layers: fixed commitments first, then focus blocks for 
 
 **Triage.** Write every task for the week on the grid, then circle the "important, not urgent" items. Make sure at least one is in a focus block.
 
-| | Urgent | Not urgent |
+| Priority | Urgent | Not urgent |
 |---|--------|------------|
 | **Important** | **Do now:** … | **Schedule:** … |
 | **Not important** | **Delegate or shorten:** … | **Drop or defer:** … |

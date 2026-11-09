@@ -132,10 +132,16 @@ textarea:focus-visible {
 }
 
 .md-header__button:focus-visible,
-.md-header label:focus-visible,
-.md-search__input:focus-visible {
+.md-header label:focus-visible {
+  outline: 2px solid #89b4fa;
+  outline-offset: 2px;
+  box-shadow: 0 0 0 5px #1e1e2e;
+}
+
+.md-header .md-option:focus-visible + .md-header__button {
   outline: 2px solid var(--md-primary-bg-color);
   outline-offset: 2px;
+  border-radius: 50%;
 }
 
 .md-content a:focus-visible,

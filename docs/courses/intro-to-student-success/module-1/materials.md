@@ -172,7 +172,7 @@ Most goals you set this week will be in forethought, and that’s fine.
 
 ??? example "Worked example (Goal 1)"
 
-    | | Example |
+    | Question | Example |
     |---|---------|
     | S · What exactly? | Work through my certification study guide, one chapter at a time. |
     | M · How will I measure it? | Three 30-minute study sessions a week, ticked off on a wall calendar. |

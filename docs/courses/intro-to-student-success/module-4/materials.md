@@ -27,7 +27,7 @@ You can't notice a change unless you know what "normal" looks like for you. This
 
 **7-day log.** Each morning, fill in your bedtime, wake time, and sleep quality. Each evening, fill in your stress rating and what drove it.
 
-| | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+| Log | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |---|-----|-----|-----|-----|-----|-----|-----|
 | Bedtime / wake time |  |  |  |  |  |  |  |
 | Sleep quality (1–5) |  |  |  |  |  |  |  |
@@ -73,7 +73,7 @@ Recovery is part of the system. This handout pairs two strategies (ideally one f
 
 ### What goes on it
 
-|  | Strategy 1 | Strategy 2 |
+| Step | Strategy 1 | Strategy 2 |
 |---|------------|------------|
 | What I'll do |  |  |
 | Trigger (if I notice…) |  |  |
@@ -122,7 +122,7 @@ Find at least three real supports, with at least one from a different category t
 
 **Setback plan: my first three moves if…**
 
-|  | Move 1 | Move 2 | Move 3 |
+| If... | Move 1 | Move 2 | Move 3 |
 |---|--------|--------|--------|
 | I get a bad grade |  |  |  |
 | A crisis hits (health, money, family, housing) |  |  |  |
