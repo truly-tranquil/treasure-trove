@@ -44,8 +44,10 @@ markdown_extensions:
       permalink: true
 
 copyright: |
-  <p>Struggling? <a href="https://truly-tranquil.github.io/treasure-trove/get-help/">We have resources.</a></p>
-  <a href="https://truly-tranquil.github.io/treasure-trove/">Treasure Trove</a> © 2026 by <a href="https://truly-tranquil.github.io/treasure-trove/meet-the-team/">Truly Tranquil</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+  <p>Need Support? <a href="https://truly-tranquil.github.io/treasure-trove/get-help/">We have resources.</a></p> <p><b>Treasure Trove is an independent adult learning space (18+). This is not a children's site nor an educational institution's site.</b></p> 
+  <p>Treasure Trove © 2026 by <a href="https://truly-tranquil.github.io/treasure-trove/meet-the-team/">Truly Tranquil</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></p> 
+  <p><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width:1em;max-height:1em;margin-left:.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width:1em;max-height:1em;margin-left:.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width:1em;max-height:1em;margin-left:.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width:1em;max-height:1em;margin-left:.2em;"></p>
+
 
 extra:
   generator: false

@@ -25,11 +25,11 @@ The first course is Student Success 101, a free 4-week, self-paced course. More 
 
 ### Learning Library
 
-Free and low-cost books, courses, and media. Oh my!
+Free and low-cost books, courses, and media.
 
 [Learning Library](learning-library.md)
 
-### Struggling?
+### Need Support?
 
 Crisis lines, ways to find a therapist, and free or low-cost wellness tools.
 
