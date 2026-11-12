@@ -11,8 +11,6 @@ Thanks for wanting to help! Treasure Trove is run by one person (Killian / Truly
 - **Link maintenance** — the Learning Library and Get Help pages have many external links that need periodic checking.
 - **General enthusiasm** — a can-do attitude and 1–3 hours a week go a long way.
 
-See the [meet-the-team](https://truly-tranquil.github.io/treasure-trove/meet-the-team/#im-looking-for-volunteers) page for the full volunteer wishlist.
-
 ## How to contribute
 
 1. Fork the repo and create a branch from `main`.
