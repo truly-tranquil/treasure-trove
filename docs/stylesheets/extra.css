@@ -1,37 +1,184 @@
-[data-md-color-scheme="default"] {
-  --md-default-fg-color: #414868;          
-  --md-default-fg-color--lighter: #5e6081; 
-  --md-default-bg-color: #f5f5f5;          
+/* =========================================
+   Treasure Trove extra.css
+   Unified with Digital Garden visual style
+   ========================================= */
 
-  --md-primary-fg-color: #3f51b5;         
-  --md-primary-fg-color--dark: #283591;    
-  --md-primary-bg-color: #ffffff;
-
-  --md-accent-fg-color: #1e66e5;          
-  --md-accent-bg-color: #e3f2fd;        
+/* -----------------------------------------
+   1. Newsreader font
+   ----------------------------------------- */
+@font-face {
+  font-family: 'Newsreader';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../assets/fonts/newsreader-variable.woff2') format('woff2');
 }
 
+@font-face {
+  font-family: 'Newsreader';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../assets/fonts/newsreader-italic-variable.woff2') format('woff2');
+}
 
+/* -----------------------------------------
+   2. Shared color palette — Digital Garden warm palette
+   ----------------------------------------- */
+:root {
+  --dg-bg: #EEE6DD;
+  --dg-surface: #E6DCD1;
+  --dg-text: #575279;
+  --dg-border: #D0CFCE;
+  --dg-ui-border: #80798A;
+  --dg-accent: #A39A8E;
+  --dg-accent-text: #4A443E;
+  --dg-on-accent: #FFFFFF;
+}
+
+[data-md-color-scheme="default"] {
+  --md-default-fg-color: var(--dg-text);
+  --md-default-fg-color--lighter: #6b6580;
+  --md-default-bg-color: var(--dg-bg);
+  --md-primary-fg-color: var(--dg-accent-text);
+  --md-primary-fg-color--dark: #7a3e6a;
+  --md-primary-bg-color: #ffffff;
+  --md-accent-fg-color: var(--dg-accent);
+  --md-accent-bg-color: #E8E4E0;
+}
 
 [data-md-color-scheme="slate"] {
-  --md-default-fg-color: #a5adcb;          
-  --md-default-fg-color--lighter: #c5c5e4; 
-  --md-default-bg-color: #1e1e2e;          
-
-  --md-primary-fg-color: #cba6f7;          
-  --md-primary-fg-color--dark: #b4befe;   
-  --md-primary-bg-color: #242432;         
-
-  --md-accent-fg-color: #89b4fa;          
-  --md-accent-bg-color: #313244;           
+  --dg-bg: #211F1D;
+  --dg-surface: #2C2824;
+  --dg-text: #F1E8DE;
+  --dg-border: #50463E;
+  --dg-ui-border: #9A8069;
+  --dg-accent: #D7AE85;
+  --dg-accent-text: #302319;
+  --dg-on-accent: #2B2118;
+  --md-default-fg-color: var(--dg-text);
+  --md-default-fg-color--light: #E1D4C7;
+  --md-default-fg-color--lighter: #CBBBAA;
+  --md-default-fg-color--lightest: #A89584;
+  --md-default-bg-color: var(--dg-bg);
+  --md-default-bg-color--light: #292420;
+  --md-default-bg-color--lighter: #312A25;
+  --md-default-bg-color--lightest: #3D342D;
+  --md-primary-fg-color: #3A302A;
+  --md-primary-fg-color--light: #493A31;
+  --md-primary-fg-color--dark: #2C2420;
+  --md-primary-bg-color: #F2E9DE;
+  --md-primary-bg-color--light: #DCCBBC;
+  --md-accent-fg-color: #D7AE85;
+  --md-accent-bg-color: #46372B;
+  --md-typeset-a-color: #E3B990;
+  --md-code-bg-color: #2D2823;
+  --md-code-fg-color: #F1E8DE;
+  --md-footer-bg-color: #28231F;
+  --md-footer-fg-color: #F1E8DE;
+  --md-footer-bg-color--dark: #1B1816;
 }
 
+[data-md-color-scheme="slate"][data-md-color-primary] {
+  --md-typeset-a-color: #E3B990;
+}
 
+.md-typeset {
+  color: var(--md-default-fg-color);
+  background: var(--md-default-bg-color);
+}
 
-:focus-visible {
-  outline: 3px solid var(--md-accent-fg-color) !important;
-  outline-offset: 3px !important;
-  border-radius: 2px;
+/* -----------------------------------------
+   3. Shared typography — Newsreader
+   ----------------------------------------- */
+body, .md-typeset, .md-nav__title, .md-title, .md-header__title {
+  font-family: 'Newsreader', Georgia, serif;
+}
+
+.md-typeset h1, .md-typeset h2, .md-typeset h3,
+.md-typeset h4, .md-typeset h5, .md-typeset h6 {
+  color: #2D2B36;
+  font-family: 'Newsreader', Georgia, serif;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+/* -----------------------------------------
+   4. Shared button style
+   ----------------------------------------- */
+.md-button, .md-button--primary {
+  border: 3px solid var(--dg-ui-border) !important;
+  border-radius: 16px !important;
+  background: var(--dg-bg) !important;
+  color: var(--dg-text) !important;
+  font-weight: 600 !important;
+  font-family: 'Newsreader', Georgia, serif !important;
+  text-transform: none !important;
+}
+
+.md-button:hover, .md-button--primary:hover {
+  background: var(--dg-accent) !important;
+  border-color: var(--dg-accent) !important;
+  color: var(--dg-on-accent) !important;
+}
+
+[data-md-color-scheme="slate"] .md-button,
+[data-md-color-scheme="slate"] .md-button--primary {
+  border-color: var(--dg-ui-border) !important;
+  background: var(--dg-surface) !important;
+  color: var(--dg-text) !important;
+}
+
+[data-md-color-scheme="slate"] .md-button:hover,
+[data-md-color-scheme="slate"] .md-button--primary:hover {
+  border-color: var(--dg-accent) !important;
+  background: #4B3C31 !important;
+  color: #F7EFE6 !important;
+}
+
+[data-md-color-scheme="slate"] .md-typeset a:not(.md-button) {
+  color: var(--md-typeset-a-color);
+}
+
+[data-md-color-scheme="slate"] .md-typeset a:not(.md-button):hover {
+  color: #F7EFE6;
+}
+
+[data-md-color-scheme="slate"] .md-typeset h1,
+[data-md-color-scheme="slate"] .md-typeset h2,
+[data-md-color-scheme="slate"] .md-typeset h3,
+[data-md-color-scheme="slate"] .md-typeset h4,
+[data-md-color-scheme="slate"] .md-typeset h5,
+[data-md-color-scheme="slate"] .md-typeset h6 {
+  color: #F5ECE2;
+}
+
+/* -----------------------------------------
+   5. Shared focus states & skip link
+   ----------------------------------------- */
+.skip-link {
+  position: absolute;
+  left: 1rem;
+  top: -5rem;
+  z-index: 300;
+  padding: 0.6rem 1.2rem;
+  background: var(--dg-accent);
+  color: var(--dg-on-accent);
+  border: 3px solid var(--dg-accent);
+  border-radius: 16px;
+  font-weight: 700;
+  text-decoration: none;
+  font-family: 'Newsreader', Georgia, serif;
+}
+
+.skip-link:focus {
+  top: 1rem;
+}
+
+*:focus-visible {
+  outline: 3px solid var(--dg-accent) !important;
+  outline-offset: 2px !important;
+  border-radius: 4px !important;
 }
 
 .md-typeset a:focus-visible,
@@ -40,48 +187,23 @@ button:focus-visible,
 input:focus-visible,
 select:focus-visible,
 textarea:focus-visible {
-  outline: 3px solid var(--md-accent-fg-color) !important;
+  outline: 3px solid var(--dg-accent) !important;
   outline-offset: 2px !important;
+  border-radius: 2px;
 }
 
-.skip-link {
-  position: absolute;
-  top: -40px;
-  left: 0;
-  background: var(--md-accent-fg-color);
-  color: #ffffff;
-  padding: 8px 16px;
-  z-index: 100;
-  transition: top 0.2s ease;
+/* -----------------------------------------
+   6. Footer — constrained to center content width
+   ----------------------------------------- */
+.md-footer {
+  max-width: 70rem;
+  margin: 0 auto;
+  text-align: center;
 }
 
-.skip-link:focus {
-  top: 0;
-}
-
-@media screen and (max-width: 768px) {
-  .md-button,
-  .md-nav__link,
-  button,
-  [role="button"],
-  input[type="submit"],
-  input[type="button"] {
-    min-height: 48px;
-    min-width: 48px;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-  }
-
-  body, html {
-    overflow-x: hidden;
-  }
-}
-
-.md-typeset img {
-  height: auto;
-  max-width: 100%;
-}
+/* -----------------------------------------
+   7. Treasure Trove original customizations (preserved)
+   ----------------------------------------- */
 
 .poll-container,
 .poll-container iframe {
@@ -133,9 +255,9 @@ textarea:focus-visible {
 
 .md-header__button:focus-visible,
 .md-header label:focus-visible {
-  outline: 2px solid #89b4fa;
+  outline: 2px solid var(--dg-accent);
   outline-offset: 2px;
-  box-shadow: 0 0 0 5px #1e1e2e;
+  box-shadow: 0 0 0 5px var(--md-primary-bg-color);
 }
 
 .md-header .md-option:focus-visible + .md-header__button {
@@ -149,14 +271,8 @@ textarea:focus-visible {
 .md-footer a:focus-visible,
 .md-button:focus-visible,
 summary:focus-visible {
-  outline: 2px solid var(--md-accent-fg-color);
+  outline: 2px solid var(--dg-accent);
   outline-offset: 2px;
-}
-
-:focus-visible {
-  outline: 3px solid var(--md-accent-fg-color) !important;
-  outline-offset: 3px !important;
-  border-radius: 2px;
 }
 
 .md-typeset table:not([class]) th,
@@ -167,4 +283,29 @@ summary:focus-visible {
 .md-typeset table:not([class]) th:first-child,
 .md-typeset table:not([class]) td:first-child {
   border-left: 0;
+}
+
+/* Touch targets for mobile */
+@media screen and (max-width: 768px) {
+  .md-button,
+  .md-nav__link,
+  button,
+  [role="button"],
+  input[type="submit"],
+  input[type="button"] {
+    min-height: 48px;
+    min-width: 48px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  body, html {
+    overflow-x: hidden;
+  }
+}
+
+.md-typeset img {
+  height: auto;
+  max-width: 100%;
 }
