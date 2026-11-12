@@ -1,0 +1,11 @@
+﻿{#-
+  Override of Material's partials/logo.html.
+  The decorative image gets a descriptive alt; the surrounding header link is
+  labelled by the theme with the site name.
+-#}
+{% if config.theme.logo %}
+  <img src="{{ config.theme.logo | url }}" alt="Treasure Trove home">
+{% else %}
+  {% set icon = config.theme.icon.logo or "material/library" %}
+  {% include ".icons/" ~ icon ~ ".svg" %}
+{% endif %}

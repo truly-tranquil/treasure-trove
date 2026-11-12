@@ -4,6 +4,7 @@ dev_addr: 127.0.0.1:8001
 
 theme:
   name: material
+  custom_dir: overrides
   logo: assets/logo.png
   favicon: assets/favicon.ico
   features:
@@ -99,6 +100,9 @@ copyright: |
 
 extra:
   generator: false
+  # Used by the theme for the header logo link. An absolute URL keeps the link
+  # pointing at the home page from every depth (including the 404 page).
+  homepage: https://truly-tranquil.github.io/treasure-trove/
 
 nav:
   - Home: index.md
