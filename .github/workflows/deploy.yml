@@ -33,10 +33,14 @@ jobs:
         run: |
           mkdir -p "$RUNNER_TEMP/lychee-root"
           ln -s "$GITHUB_WORKSPACE/site" "$RUNNER_TEMP/lychee-root/treasure-trove"
-      - name: Check links
+      # Only check links between our own pages here. External sites routinely
+      # answer automated checkers with 403/429, which made deploys fail for
+      # reasons unrelated to the content. External links are audited weekly by
+      # .github/workflows/link-audit.yml instead.
+      - name: Check internal links
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --verbose --no-progress --root-dir ${{ runner.temp }}/lychee-root site
+          args: --offline --verbose --no-progress --root-dir ${{ runner.temp }}/lychee-root site
       - name: Audit accessibility
         uses: treosh/lighthouse-ci-action@v12
         with:

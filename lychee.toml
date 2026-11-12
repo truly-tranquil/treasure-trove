@@ -1,0 +1,20 @@
+# Link-check settings for the weekly external-link audit
+# (.github/workflows/link-audit.yml). The deploy workflow checks internal
+# links only (`--offline`), so none of the network settings here apply there.
+
+# Many legitimate sites reject automated checkers with 403 (bot protection)
+# or 429 (rate limiting) even though the link works fine in a browser.
+accept = ["200..=299", "403", "429"]
+
+# Some linked sites are slow; retry transient failures before giving up.
+timeout = 30
+max_retries = 3
+retry_wait_time = 2
+
+# Be polite to hosts: the Learning Library links to many sites at once.
+host_concurrency = 2
+host_request_interval = "200ms"
+
+# ged.com serves a certificate chain that lychee's TLS stack rejects, but the
+# site loads normally in browsers.
+exclude = ["^https://(www\\.)?ged\\.com/"]
