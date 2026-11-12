@@ -74,3 +74,67 @@ document.addEventListener("keydown", function (e) {
     addTocToggle();
   }
 })();
+
+(function () {
+  function addNavToggle() {
+    var sidebar = document.querySelector('.md-sidebar--primary[data-md-type="navigation"]');
+    if (!sidebar) return;
+
+    var wide = window.matchMedia("(min-width: 76.25em)");
+    var isCollapsed = false;
+    var storageKey = "treasure-trove-nav";
+    try {
+      isCollapsed = window.localStorage.getItem(storageKey) === "closed";
+    } catch (error) {
+      console.warn("Could not read the site-navigation preference.", error);
+    }
+
+    var button = document.createElement("button");
+    var icon = document.createElement("span");
+    button.className = "tt-nav-toggle";
+    button.type = "button";
+    button.hidden = true;
+    if (!sidebar.id) sidebar.id = "tt-nav-sidebar";
+    button.setAttribute("aria-controls", sidebar.id);
+    icon.setAttribute("aria-hidden", "true");
+    icon.textContent = "\u2630";
+    button.appendChild(icon);
+
+    function update() {
+      sidebar.hidden = wide.matches && isCollapsed;
+      button.hidden = !wide.matches;
+      button.setAttribute("aria-expanded", String(!isCollapsed));
+      button.setAttribute(
+        "aria-label",
+        isCollapsed ? "Show the site navigation" : "Hide the site navigation"
+      );
+      if (wide.matches && !isCollapsed) {
+        button.style.left = sidebar.getBoundingClientRect().right + "px";
+      } else {
+        button.style.left = "0";
+      }
+    }
+
+    button.addEventListener("click", function () {
+      isCollapsed = !isCollapsed;
+      update();
+      try {
+        window.localStorage.setItem(storageKey, isCollapsed ? "closed" : "open");
+      } catch (error) {
+        console.warn("Could not save the site-navigation preference.", error);
+      }
+    });
+
+    document.body.appendChild(button);
+    window.addEventListener("resize", update);
+    if (wide.addEventListener) wide.addEventListener("change", update);
+    else wide.addListener(update);
+    update();
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", addNavToggle);
+  } else {
+    addNavToggle();
+  }
+})();

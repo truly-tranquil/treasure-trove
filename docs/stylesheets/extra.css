@@ -34,6 +34,8 @@
   --dg-accent: #A39A8E;
   --dg-accent-text: #4A443E;
   --dg-on-accent: #FFFFFF;
+  --dg-sidebar-bg: #E1D5C7;
+  --dg-header-bg: #4A443E;
 }
 
 [data-md-color-scheme="default"] {
@@ -45,11 +47,11 @@
   --md-primary-bg-color: #ffffff;
   --md-accent-fg-color: var(--dg-accent);
   --md-accent-bg-color: #E8E4E0;
-  --md-footer-bg-color: var(--dg-surface);
+  --md-footer-bg-color: var(--dg-sidebar-bg);
   --md-footer-fg-color: var(--dg-text);
   --md-footer-fg-color--light: var(--dg-text);
   --md-footer-fg-color--lighter: var(--dg-text);
-  --md-footer-bg-color--dark: var(--dg-bg);
+  --md-footer-bg-color--dark: var(--dg-sidebar-bg);
 }
 
 [data-md-color-scheme="slate"] {
@@ -61,6 +63,8 @@
   --dg-accent: #D7AE85;
   --dg-accent-text: #302319;
   --dg-on-accent: #2B2118;
+  --dg-sidebar-bg: #1A1816;
+  --dg-header-bg: #3A302A;
   --md-default-fg-color: var(--dg-text);
   --md-default-fg-color--light: #E1D4C7;
   --md-default-fg-color--lighter: #CBBBAA;
@@ -79,9 +83,9 @@
   --md-typeset-a-color: #E3B990;
   --md-code-bg-color: #2D2823;
   --md-code-fg-color: #F1E8DE;
-  --md-footer-bg-color: #28231F;
+  --md-footer-bg-color: var(--dg-sidebar-bg);
   --md-footer-fg-color: #F1E8DE;
-  --md-footer-bg-color--dark: #1B1816;
+  --md-footer-bg-color--dark: var(--dg-sidebar-bg);
 }
 
 [data-md-color-scheme="slate"][data-md-color-primary] {
@@ -278,6 +282,60 @@ textarea:focus-visible {
   text-align: center;
 }
 
+/* The meta strip also carries .md-typeset, whose background rule would
+   otherwise repaint it with the page color. */
+.md-footer-meta.md-typeset {
+  background-color: var(--md-footer-bg-color--dark);
+}
+
+/* -----------------------------------------
+   6b. Sidebars — darker panels with a header-colored edge
+   ----------------------------------------- */
+/* Desktop only: below 76.25em Material turns the left sidebar into a
+   slide-in drawer, where the default surface reads better. */
+@media screen and (min-width: 76.25em) {
+  .md-sidebar--primary,
+  .md-sidebar--secondary {
+    background-color: var(--dg-sidebar-bg);
+  }
+
+  .md-sidebar--primary {
+    border-right: 1px solid var(--dg-header-bg);
+  }
+
+  .md-sidebar--secondary {
+    border-left: 1px solid var(--dg-header-bg);
+  }
+
+  /* Material collapses the sidebar to zero height on desktop and lets the
+     inner scroll area overflow it. Give the panel a real height so its
+     background and border span the full column. */
+  .md-sidebar {
+    height: calc(100vh - 2.4rem);
+  }
+
+  /* The nav elements paint the page background by default; continue the
+     panel color instead so the whole column reads as one surface. */
+  .md-nav--primary,
+  .md-nav--secondary,
+  .md-nav--primary .md-nav__title,
+  .md-nav--secondary .md-nav__title {
+    background-color: var(--dg-sidebar-bg);
+  }
+
+  .md-nav--secondary .md-nav__title {
+    box-shadow: 0 0 0.4rem 0.4rem var(--dg-sidebar-bg);
+  }
+
+  /* The drawer title strip keeps the header color. Material only colors its
+     text inside the drawer media query, so set it explicitly. */
+  .md-nav--primary .md-nav__title[for="__drawer"] {
+    color: var(--md-primary-bg-color);
+    background-color: var(--md-primary-fg-color);
+    box-shadow: none;
+  }
+}
+
 /* -----------------------------------------
    7. Treasure Trove original customizations (preserved)
    ----------------------------------------- */
@@ -347,7 +405,8 @@ textarea:focus-visible {
   border-radius: 50%;
 }
 
-.tt-toc-toggle {
+.tt-toc-toggle,
+.tt-nav-toggle {
   position: fixed;
   top: 50%;
   z-index: 20;
@@ -358,10 +417,8 @@ textarea:focus-visible {
   justify-content: center;
   transform: translateY(-50%);
   padding: 0;
-  border: 2px solid var(--dg-ui-border);
-  border-right: 0;
-  border-radius: 0.6rem 0 0 0.6rem;
-  background: var(--dg-bg);
+  border: 2px solid var(--dg-header-bg);
+  background: var(--dg-sidebar-bg);
   color: var(--dg-text);
   font: inherit;
   font-size: 1.4rem;
@@ -371,13 +428,25 @@ textarea:focus-visible {
   transition: background 0.15s, border-color 0.15s;
 }
 
-.tt-toc-toggle:hover {
+.tt-toc-toggle {
+  border-right: 0;
+  border-radius: 0.6rem 0 0 0.6rem;
+}
+
+.tt-nav-toggle {
+  border-left: 0;
+  border-radius: 0 0.6rem 0.6rem 0;
+}
+
+.tt-toc-toggle:hover,
+.tt-nav-toggle:hover {
   border-color: var(--dg-accent);
   background: var(--dg-accent);
   color: var(--dg-on-accent);
 }
 
-.tt-toc-toggle[hidden] {
+.tt-toc-toggle[hidden],
+.tt-nav-toggle[hidden] {
   display: none;
 }
 

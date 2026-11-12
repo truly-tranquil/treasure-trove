@@ -9,8 +9,6 @@ theme:
   features:
     - navigation.footer
     - navigation.top
-    - navigation.sections
-    - navigation.expand
     - navigation.tracking
     - toc.follow
     - search.suggest

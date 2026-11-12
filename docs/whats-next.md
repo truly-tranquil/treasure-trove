@@ -5,7 +5,7 @@
 Help us decide what to teach next! This poll is powered by Google Forms, which is designed to be accessible and screen reader friendly.
 
 !!! info "About your response"
-    Your vote helps us choose which course to develop next. You can participate without sharing contact details; providing them is optional.
+    Your vote helps us choose which course to develop next. You can participate with or without sharing contact details; providing them is completely optional.
 
 ## Vote On The Next Course { #poll-heading }
 
