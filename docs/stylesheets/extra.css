@@ -309,15 +309,23 @@ textarea:focus-visible {
 
   /* Material collapses the sidebar to zero height on desktop and lets the
      inner scroll area overflow it. Give the panel a real height so its
-     background and border span the full column, and anchor it just below the
-     header with no top/bottom gaps. */
+     background and border span the full column, anchored just below the
+     header with no top/bottom gaps. Sticky keeps it in flow; the explicit
+     top/height keep it flush with the header and the bottom of the viewport. */
   .md-sidebar,
   .md-sidebar.md-sidebar--primary,
   .md-sidebar.md-sidebar--secondary {
     position: sticky;
-    top: 38.4px;
+    top: 58px;
     bottom: auto;
-    height: calc(100vh - 38.4px);
+    height: calc(100vh - 58px);
+  }
+
+  /* Material gives the main inner container a top margin that pushes the
+     sidebar (and content) below the header; zero it so the sidebar panel can
+     sit flush beneath the header. */
+  .md-main__inner {
+    margin-top: 0;
   }
 
   /* The nav elements paint the page background by default; continue the
