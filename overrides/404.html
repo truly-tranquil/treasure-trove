@@ -1,0 +1,20 @@
+﻿{#-
+  Themed 404 page. Material builds this template to site/404.html, which
+  GitHub Pages serves for unknown URLs. Links are absolute because the 404 is
+  shown at whatever path was requested.
+-#}
+{% extends "main.html" %}
+{% block content %}
+  <h1>Page not found</h1>
+
+  <p>
+    We couldn't find that page. It may have moved, or the link may have a typo.
+    Try one of these instead:
+  </p>
+
+  <p>
+    <a href="{{ config.site_url }}" class="md-button md-button--primary">Home</a>
+    <a href="{{ config.site_url }}courses/" class="md-button">Courses</a>
+    <a href="{{ config.site_url }}get-help/" class="md-button">Get Help</a>
+  </p>
+{% endblock %}

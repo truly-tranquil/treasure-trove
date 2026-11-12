@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://truly-tranquil.github.io/treasure-trove/sitemap.xml
