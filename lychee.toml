@@ -17,4 +17,10 @@ host_request_interval = "200ms"
 
 # ged.com serves a certificate chain that lychee's TLS stack rejects, but the
 # site loads normally in browsers.
-exclude = ["^https://(www\\.)?ged\\.com/"]
+# Reddit and LinkedIn block automated checkers (login walls / 403s), so their
+# links are excluded from the audit instead of failing it every week.
+exclude = [
+  "^https://(www\\.)?ged\\.com/",
+  "^https://([a-z0-9-]+\\.)?reddit\\.com/",
+  "^https://([a-z0-9-]+\\.)?linkedin\\.com/",
+]
