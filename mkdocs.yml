@@ -50,9 +50,12 @@ plugins:
   - minify:
       htmlmin_opts:
         remove_comments: true
+  # The footer date is the file's last git commit date, never the build date.
+  # Deploys check out full history (fetch-depth: 0) so this always resolves.
   - git-revision-date-localized:
       type: date
       timezone: America/New_York
+      fallback_to_build_date: false
   - awesome-pages:
       filename: .pages
   - glightbox
