@@ -32,7 +32,7 @@ Each module is one week:
 2. **Four sessions (about 40 to 90 minutes each).** Every session has read, watch, and listen items with time estimates and links to free sources, plus an activity you do yourself.
 3. **End-of-week self-check (15 to 30 min).** A short quiz from memory, so you can see what stuck.
 
-No one is grading your work, so the self-checks are how you'll know whether it's working. The [syllabus](syllabus.md) has the objectives and session list, and each module's overview has the exact times. Questions or concerns? [Get in touch](mailto:tranquil.tyrant@gmail.com).
+No one is grading your work, so the self-checks are how you'll know whether it's working. The [syllabus](syllabus.md) has the objectives and session list, and each module's overview has the exact times. Questions or concerns? [Get in touch]({{ config.extra.contact_url }}).
 
 ---
 

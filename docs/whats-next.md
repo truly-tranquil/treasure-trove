@@ -15,7 +15,7 @@ Help us decide what to teach next! This poll is powered by Google Forms, which i
 
 !!! note "Privacy"
 
-    This form collects whatever it asks for ([TODO: Killian to confirm which fields are collected]). Responses are visible to the site owner only.
+    This form collects only what you respond with. Your email is not sent to the site owner and your responses are visible to the site owner only.
 
 ## Take A Look At What's In The Works
 

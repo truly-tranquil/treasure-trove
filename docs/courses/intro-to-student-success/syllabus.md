@@ -84,4 +84,4 @@ Across the course you build a one- to two-page [Personal Student Success Plan](c
 
 ## Support
 
-The course is self-guided, so no one is grading your work or giving feedback. The self-checks at the end of each week are how you find out what stuck. If you have questions or concerns, [get in touch](mailto:tranquil.tyrant@gmail.com).
+The course is self-guided, so no one is grading your work or giving feedback. The self-checks at the end of each week are how you find out what stuck. If you have questions or concerns, [get in touch]({{ config.extra.contact_url }}).

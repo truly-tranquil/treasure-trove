@@ -11,7 +11,7 @@ Looking for courses, textbooks, tutoring, and other learning resources? See the 
 !!! warning "In immediate danger?"
     If you or someone near you is in immediate danger, call your local emergency number (911 in the US and Canada, 999 in the UK, 000 in Australia).
 
-As someone who lives in the US, many of these resources are aimed at the US specifically, and international options are listed where I know of them. If you know of a resource I should add, in any country, please email me at [tranquil.tyrant@gmail.com](mailto:tranquil.tyrant@gmail.com).
+As someone who lives in the US, many of these resources are aimed at the US specifically, and international options are listed where I know of them. If you know of a resource I should add, in any country, please get in touch via [my Linktree](https://linktr.ee/truly.tranquil).
 
 ---
 
