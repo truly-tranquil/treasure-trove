@@ -103,10 +103,13 @@ copyright: |
   <p><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width:1em;max-height:1em;margin-left:.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width:1em;max-height:1em;margin-left:.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width:1em;max-height:1em;margin-left:.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width:1em;max-height:1em;margin-left:.2em;"></p>
 
 extra:
-  generator: false
-  # Used by the theme for the header logo link. An absolute URL keeps the link
-  # pointing at the home page from every depth (including the 404 page).
+  # The header logo link. An absolute URL keeps the link pointing at the home
+  # page from every depth (including the 404 page).
   homepage: https://truly-tranquil.github.io/treasure-trove/
+  # Contact address lives here so every page references one value. TODO:
+  # Replace CONTACT_EMAIL_TODO with the real address once Killian decides how
+  # contact should be handled.
+  contact_email: CONTACT_EMAIL_TODO
 
 nav:
   - Home: index.md
