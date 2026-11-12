@@ -31,10 +31,14 @@ jobs:
       - run: python -m unittest discover -s tests -v
       - name: Include GitHub Pages marker
         run: python -c "from pathlib import Path; Path('site/.nojekyll').touch()"
+      - name: Prepare lychee root for GitHub Pages base path
+        run: |
+          mkdir -p "$RUNNER_TEMP/lychee-root"
+          ln -s "$GITHUB_WORKSPACE/site" "$RUNNER_TEMP/lychee-root/treasure-trove"
       - name: Check links
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --verbose --no-progress --offline site
+          args: --verbose --no-progress --offline --root-dir ${{ runner.temp }}/lychee-root site
       - name: Audit accessibility
         uses: treosh/lighthouse-ci-action@v12
         with:
