@@ -27,8 +27,36 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
-      - run: mkdocs build --strict
+      - name: Build site from a clean directory
+        run: |
+          rm -rf site
+          mkdocs build --strict
       - run: python -m unittest discover -s tests -v
+
+      # Guard against accidentally publishing output from a second generator
+      # (for example a leftover Zensical build) or an incomplete theme.
+      - name: Verify one generator produced the site
+        run: |
+          status=0
+          while IFS= read -r page; do
+            if ! grep -q 'name="generator" content="mkdocs-' "$page"; then
+              echo "::error file=$page::Page is missing the MkDocs generator tag"
+              status=1
+            fi
+            if ! grep -q 'class="md-header' "$page"; then
+              echo "::error file=$page::Page is missing the shared header"
+              status=1
+            fi
+            if ! grep -q 'class="md-footer"' "$page"; then
+              echo "::error file=$page::Page is missing the shared footer"
+              status=1
+            fi
+          done < <(find site -name index.html)
+          if grep -rl 'zensical' --include='*.html' site; then
+            echo "::error::Zensical output found in the build"
+            status=1
+          fi
+          exit "$status"
       - name: Prepare lychee root for GitHub Pages base path
         run: |
           mkdir -p "$RUNNER_TEMP/lychee-root"
