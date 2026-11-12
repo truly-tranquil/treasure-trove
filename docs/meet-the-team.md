@@ -43,10 +43,6 @@ I hope you enjoy!
 
 ## I'm Looking For Volunteers { #im-looking-for-volunteers }
 
-!!! warning "TODO: Killian to write this section"
-    The draft below is kept from the old team card. Rewrite, trim, or replace it
-    with the wording you want, then delete this note.
-
 Do you love learning, care about accessibility, and have 1–3 hours a week to contribute? We welcome volunteers with interests or experience in:
 
 - Graphic design
