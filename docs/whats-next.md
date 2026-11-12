@@ -1,3 +1,7 @@
+---
+description: Vote on the next Treasure Trove course and see what is currently in the works.
+---
+
 # What's Next For Treasure Trove?
 
 ## Vote On The Next Course { #poll-heading }

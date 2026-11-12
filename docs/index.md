@@ -1,3 +1,7 @@
+---
+description: Treasure Trove is a community-run adult learning space with free, self-paced courses and a library of free and low-cost learning resources.
+---
+
 # Welcome to the Treasure Trove
 
 A community-run program for self-paced courses and a free learning library

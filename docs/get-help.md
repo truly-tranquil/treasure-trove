@@ -1,3 +1,7 @@
+---
+description: Crisis lines, therapy directories, and free or low-cost wellness tools, with US and international options.
+---
+
 # Get Help
 
 If you're struggling, you don't have to figure it out alone. This page collects crisis lines, ways to find a therapist, and free or low-cost wellness tools.

@@ -1,3 +1,7 @@
+---
+description: A curated library of free and low-cost courses, textbooks, tutoring, archives, podcasts, and other learning resources.
+---
+
 # Learning Library
 
 I'd like this to grow into a thorough list of free and low-cost educational resources. As someone who lives in the US, a handful of these resources are aimed at US residents specifically. If you have resources I should add, from any country, please email me at [tranquil.tyrant@gmail.com](mailto:tranquil.tyrant@gmail.com).

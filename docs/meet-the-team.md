@@ -1,3 +1,7 @@
+---
+description: Meet the program manager behind Treasure Trove and find out how to volunteer.
+---
+
 # Meet The Team
 *Last updated Nov 8, 2026*
 

@@ -1,5 +1,6 @@
 site_name: Treasure Trove
 site_url: https://truly-tranquil.github.io/treasure-trove/
+site_description: Treasure Trove is a community-run adult learning space with free, self-paced courses and a library of free and low-cost learning resources.
 dev_addr: 127.0.0.1:8001
 
 theme:

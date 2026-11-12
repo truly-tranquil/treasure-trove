@@ -1,3 +1,7 @@
+---
+description: Browse free, self-paced courses from Treasure Trove, starting with Student Success 101.
+---
+
 # Courses By Subject
 
 <div class="grid cards" markdown>
