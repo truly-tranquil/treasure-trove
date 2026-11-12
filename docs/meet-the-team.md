@@ -33,15 +33,21 @@ I hope you enjoy!
     - Start hosting live groups?
     - A secret third thing?
 
--   ### Volunteer with us { #im-looking-for-volunteers }
-
-    Do you love learning, care about accessibility, and have 1–3 hours a week to contribute? We welcome volunteers with interests or experience in:
-
-    - Graphic design
-    - Instructional design
-    - Education or tutoring
-    - Trying new things and helping a small program grow
-
-    If that sounds like you, [get in touch](https://linktr.ee/truly.tranquil).
-
 </div>
+
+---
+
+## I'm Looking For Volunteers { #im-looking-for-volunteers }
+
+!!! warning "TODO: Killian to write this section"
+    The draft below is kept from the old team card. Rewrite, trim, or replace it
+    with the wording you want, then delete this note.
+
+Do you love learning, care about accessibility, and have 1–3 hours a week to contribute? We welcome volunteers with interests or experience in:
+
+- Graphic design
+- Instructional design
+- Education or tutoring
+- Trying new things and helping a small program grow
+
+If that sounds like you, [get in touch](https://linktr.ee/truly.tranquil).
