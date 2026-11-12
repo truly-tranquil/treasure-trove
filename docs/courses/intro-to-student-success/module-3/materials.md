@@ -17,7 +17,7 @@ Handouts for Module 3. Each one has a version you can read here and a PDF you ca
 
 You can't manage what you haven't measured. This handout holds your prediction, your real log, and the gap between them. It is a working document, not a test. Make your prediction before you log anything, so it stays honest.
 
-**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-3-a-time-audit-summary.pdf)
+**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-3-a-time-audit-summary.pdf){ .md-button }
 
 ### What goes on it
 
@@ -78,7 +78,7 @@ Write your prediction in hours for a typical week, then fill in "My log" in Sess
 
 A weekly system works in layers: fixed commitments first, then focus blocks for your hardest work, then a buffer. This handout holds one real upcoming week, a priority triage for it, and a one-line tool decision. Plan the week you actually have, not the one you wish you had.
 
-**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-3-b-my-weekly-system.pdf)
+**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-3-b-my-weekly-system.pdf){ .md-button }
 
 ### What goes on it
 
@@ -142,7 +142,7 @@ A weekly system works in layers: fixed commitments first, then focus blocks for 
 
 A big task feels less scary once it is steps with dates. This handout takes one real, scary task, breaks it into sequenced steps, and gives you an if–then plan for the step you're most likely to avoid. Pick something you are actually putting off, not a made-up task.
 
-**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-3-c-break-this-down.pdf)
+**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-3-c-break-this-down.pdf){ .md-button }
 
 ### What goes on it
 
@@ -203,7 +203,7 @@ A big task feels less scary once it is steps with dates. This handout takes one 
 
 Cramming feels productive and leaves little behind. This handout works backward from a real deadline: three spaced sessions, at least one practice test, and an after-action review so the next plan is better. Use an exam, an assignment, a certification test, or a skill goal.
 
-**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-3-d-prep-plan.pdf)
+**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-3-d-prep-plan.pdf){ .md-button }
 
 ### What goes on it
 

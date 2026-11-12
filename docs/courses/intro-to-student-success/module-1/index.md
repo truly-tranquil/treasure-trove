@@ -29,12 +29,33 @@ Rate your confidence from 1 (not at all) to 5 (very) on each of the five items u
 
 ### Sessions
 
-| Session | Warm-up | Learn | Do | Total | You'll make |
-|---------|---------|-------|----|-------|-------------|
-| [1 — The Learner Inventory](session-1.md) | none | 20 min | 40 min | ≈60 min | A draft "About Me as a Learner" profile ([Handout 1-A](materials.md#handout-1a)) |
-| [2 — Mindset: Fixed vs. Growth](session-2.md) | 5 min | 15 min | 35 min | ≈55 min | A reframe card for a fixed "I can't" statement turned into "I can't yet" ([Handout 1-B](materials.md#handout-1b)) |
-| [3 — Motivation That Lasts](session-3.md) | 5 min | 15 min | 35 min | ≈55 min | A one-paragraph motivation statement ([Handout 1-C](materials.md#handout-1c)) |
-| [4 — Goals & Self-Regulation](session-4.md) | 5 min | 15 min | 45 min | ≈65 min | A SMART goals sheet and a Zimmerman cycle sheet ([Handout 1-D](materials.md#handout-1d), [1-E](materials.md#handout-1e)) |
+<div class="grid cards" markdown>
+
+-   ### [Session 1 — The Learner Inventory](session-1.md)
+
+    **Time:** ≈60 min · **Learn:** 20 min · **Do:** 40 min
+
+    Draft an “About Me as a Learner” profile ([Handout 1-A](materials.md#handout-1a)).
+
+-   ### [Session 2 — Mindset: Fixed vs. Growth](session-2.md)
+
+    **Time:** ≈55 min · **Warm-up:** 5 min · **Learn:** 15 min · **Do:** 35 min
+
+    Reframe a fixed “I can’t” statement into “I can’t yet” ([Handout 1-B](materials.md#handout-1b)).
+
+-   ### [Session 3 — Motivation That Lasts](session-3.md)
+
+    **Time:** ≈55 min · **Warm-up:** 5 min · **Learn:** 15 min · **Do:** 35 min
+
+    Write a one-paragraph motivation statement ([Handout 1-C](materials.md#handout-1c)).
+
+-   ### [Session 4 — Goals & Self-Regulation](session-4.md)
+
+    **Time:** ≈65 min · **Warm-up:** 5 min · **Learn:** 15 min · **Do:** 45 min
+
+    Make a SMART goals sheet and a Zimmerman cycle sheet ([Handouts 1-D](materials.md#handout-1d) and [1-E](materials.md#handout-1e)).
+
+</div>
 
 ### End-of-week self-check · 20 min
 
@@ -100,17 +121,19 @@ Copy this list into your notes or planner and check items off as you go. Every h
 
 ## Resources for Week 1
 
-| Source | Used in |
-|--------|---------|
-| [OpenStax *College Success*, Chapter 2 introduction](https://openstax.org/books/college-success/pages/2-introduction) | [Session 1](session-1.md) |
-| [OpenStax *College Success*, section 2.1, "The Power to Learn"](https://openstax.org/books/college-success/pages/2-1-the-power-to-learn) | [Session 1](session-1.md) |
-| [OpenStax *College Success*, section 2.4, "Learning Styles" (titled "Learning Preferences" in the current edition)](https://openstax.org/books/college-success/pages/2-4-learning-styles) | [Session 1](session-1.md) (optional) |
-| [Carol Dweck, "The power of believing that you can improve" (TED, ≈10 min)](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve) | [Session 2](session-2.md) |
-| [Carol Dweck, "Carol Dweck Revisits the 'Growth Mindset'" (*Education Week*, 2015)](https://www.edweek.org/ew/articles/2015/09/23/carol-dweck-revisits-the-growth-mindset.html) | [Session 2](session-2.md) |
-| [KQED MindShift, "Carol Dweck Explains The 'False' Growth Mindset That Worries Her"](https://www.kqed.org/mindshift/47160/carol-dweck-explains-the-false-growth-mindset-that-worries-her) | [Session 2](session-2.md) (optional) |
-| [OpenStax *College Success*, section 2.3, "It's All in the Mindset"](https://openstax.org/books/college-success/pages/2-3-its-all-in-the-mindset) | [Session 2](session-2.md) (optional) |
-| [Center for Self-Determination Theory, "Theory" overview](https://selfdeterminationtheory.org/theory/) | [Session 3](session-3.md) |
-| [Ryan & Deci (2000), "Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being"](https://doi.org/10.1037/0003-066X.55.1.68) | [Session 3](session-3.md) (optional) |
-| [Scott Geller, "The psychology of self-motivation" (TEDxVirginiaTech, ≈15 min)](https://www.youtube.com/watch?v=7sxpKhIbr0E) | [Session 3](session-3.md) (optional) |
-| [Purdue Global Academic Success Center, "Teaching Students to Learn"](https://purdueglobalwriting.center/2016/08/10/teaching-students-to-learn/) | [Session 4](session-4.md) |
-| [Zimmerman (2002), "Becoming a Self-Regulated Learner: An Overview"](https://doi.org/10.1207/s15430421tip4102_2) | [Session 4](session-4.md) (optional) |
+??? info "Sources and optional reading"
+
+    | Source | Used in |
+    |--------|---------|
+    | [OpenStax *College Success*, Chapter 2 introduction](https://openstax.org/books/college-success/pages/2-introduction) | [Session 1](session-1.md) |
+    | [OpenStax *College Success*, section 2.1, "The Power to Learn"](https://openstax.org/books/college-success/pages/2-1-the-power-to-learn) | [Session 1](session-1.md) |
+    | [OpenStax *College Success*, section 2.4, "Learning Styles" (titled "Learning Preferences" in the current edition)](https://openstax.org/books/college-success/pages/2-4-learning-styles) | [Session 1](session-1.md) (optional) |
+    | [Carol Dweck, "The power of believing that you can improve" (TED, ≈10 min)](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve) | [Session 2](session-2.md) |
+    | [Carol Dweck, "Carol Dweck Revisits the 'Growth Mindset'" (*Education Week*, 2015)](https://www.edweek.org/ew/articles/2015/09/23/carol-dweck-revisits-the-growth-mindset.html) | [Session 2](session-2.md) |
+    | [KQED MindShift, "Carol Dweck Explains The 'False' Growth Mindset That Worries Her"](https://www.kqed.org/mindshift/47160/carol-dweck-explains-the-false-growth-mindset-that-worries-her) | [Session 2](session-2.md) (optional) |
+    | [OpenStax *College Success*, section 2.3, "It's All in the Mindset"](https://openstax.org/books/college-success/pages/2-3-its-all-in-the-mindset) | [Session 2](session-2.md) (optional) |
+    | [Center for Self-Determination Theory, "Theory" overview](https://selfdeterminationtheory.org/theory/) | [Session 3](session-3.md) |
+    | [Ryan & Deci (2000), "Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being"](https://doi.org/10.1037/0003-066X.55.1.68) | [Session 3](session-3.md) (optional) |
+    | [Scott Geller, "The psychology of self-motivation" (TEDxVirginiaTech, ≈15 min)](https://www.youtube.com/watch?v=7sxpKhIbr0E) | [Session 3](session-3.md) (optional) |
+    | [Purdue Global Academic Success Center, "Teaching Students to Learn"](https://purdueglobalwriting.center/2016/08/10/teaching-students-to-learn/) | [Session 4](session-4.md) |
+    | [Zimmerman (2002), "Becoming a Self-Regulated Learner: An Overview"](https://doi.org/10.1207/s15430421tip4102_2) | [Session 4](session-4.md) (optional) |

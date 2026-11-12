@@ -38,21 +38,25 @@ No one is grading your work, so the self-checks are how you'll know whether it's
 
 ## The four modules
 
-### [Module 1: Foundations & Mindset](module-1/index.md)
+<div class="grid cards" markdown>
 
-*"Who Am I as a Learner?"* Get to know how you learn, what you believe about your own ability, and why you're here.
+-   ### [Module 1: Foundations & Mindset](module-1/index.md)
 
-### [Module 2: Learning How to Learn](module-2/index.md)
+    *Who am I as a learner?* Explore how you learn, what you believe about your abilities, and what motivates you.
 
-*"Study in a Way That Sticks."* Swap low-yield habits like re-reading and highlighting for methods the research supports.
+-   ### [Module 2: Learning How to Learn](module-2/index.md)
 
-### [Module 3: Time, Procrastination & Systems](module-3/index.md)
+    *Study in a way that sticks.* Try evidence-supported study strategies and build a toolkit for your own needs.
 
-*"Make the Workload Manageable."* Turn good intentions into a weekly system, and plan for the days you don't follow it.
+-   ### [Module 3: Time, Procrastination & Systems](module-3/index.md)
 
-### [Module 4: Well-being, Resources & Sustainability](module-4/index.md)
+    *Make the workload manageable.* Build a realistic weekly system and make a plan for getting started when it is hard.
 
-*"Make It Last."* Build sleep, support, and persistence into a plan you'll keep.
+-   ### [Module 4: Well-being, Resources & Sustainability](module-4/index.md)
+
+    *Make it last.* Bring well-being, support, and persistence into a plan you can keep using.
+
+</div>
 
 ---
 

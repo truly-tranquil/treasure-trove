@@ -17,7 +17,7 @@ Handouts for Module 2. Each one has a version you can read here and a PDF you ca
 
 An autopsy looks at what already happened. List the study techniques you actually used in your last real study session (not the ones you wish you'd used), then decide whether each was passive or active and how the research rates it. This is a working document, not a test.
 
-**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-2-a-technique-autopsy.pdf)
+**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-2-a-technique-autopsy.pdf){ .md-button }
 
 ### What goes on it
 
@@ -53,7 +53,7 @@ Add rows if you used more techniques. A **passive** technique takes information 
 
 Take the same study time and spread it across days. Work backward from your exam or deadline date, and retrieve (don't re-read) each time.
 
-**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-2-b-spaced-practice-schedule.pdf)
+**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-2-b-spaced-practice-schedule.pdf){ .md-button }
 
 ### What goes on it
 
@@ -94,7 +94,7 @@ Take the same study time and spread it across days. Work backward from your exam
 
 Use this log while you run Survey–Question–Read–Recite–Review on a real passage of 3–5 pages.
 
-**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-2-c-reading-log.pdf)
+**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-2-c-reading-log.pdf){ .md-button }
 
 ### What goes on it
 
@@ -130,7 +130,7 @@ Use this log while you run Survey–Question–Read–Recite–Review on a real 
 
 This card is your personal toolkit for the rest of the course. Choose three strategies from this week, tie each one to a challenge you named in [Handout 1-A](../module-1/materials.md#handout-1a), and decide exactly when you'll use it. Specific beats ambitious: "after each lecture, for 10 minutes" is better than "I'll use retrieval practice."
 
-**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-2-d-strategy-toolkit-card.pdf)
+**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-2-d-strategy-toolkit-card.pdf){ .md-button }
 
 ### What goes on it
 

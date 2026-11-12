@@ -18,7 +18,7 @@ Handouts for Module 1. Each one has a version you can read here and a PDF you ca
 
 This is a working document, not a test. You’ll draft it in Session 1 and refine it in the end-of-week self-check. Sharing it with anyone is always optional.
 
-**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-1-a-about-me-as-a-learner.pdf)
+**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-1-a-about-me-as-a-learner.pdf){ .md-button }
 
 ### What goes on it
 
@@ -52,7 +52,7 @@ This is a working document, not a test. You’ll draft it in Session 1 and refin
 
 A fixed-mindset thought is a sentence that treats an ability as permanent (“I’m just not a ___ person”). This card turns it into a growth version in three small moves: add “yet,” name a next step, and connect a resource. Use a statement you actually say to yourself, not a made-up one.
 
-**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-1-b-the-reframe-card.pdf)
+**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-1-b-the-reframe-card.pdf){ .md-button }
 
 ### What goes on it
 
@@ -88,7 +88,7 @@ Keep your cards in your notebook or file system. You’ll reuse one in Session 4
 
 **Self-Determination Theory (SDT)** says motivation lasts when three needs are met: **autonomy** (you have some choice), **competence** (you can grow), and **relatedness** (you feel connected to others). This worksheet helps you see which need is running low, then write a short statement of why you’re here.
 
-**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-1-c-motivation-statement-worksheet.pdf)
+**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-1-c-motivation-statement-worksheet.pdf){ .md-button }
 
 ### Part 1 — Rate your three needs
 
@@ -139,7 +139,7 @@ Use these prompts as scaffolding, then integrate your answers into one paragraph
 
 There’s no “big enough” or “small enough.” The test is whether the goal is specific, measurable, and has a first step. Add rows if you want.
 
-**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-1-d-smart-goals-self-regulation-sheet.pdf)
+**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-1-d-smart-goals-self-regulation-sheet.pdf){ .md-button }
 
 ### How to use this sheet
 
@@ -192,7 +192,7 @@ Most goals you set this week will be in forethought, and that’s fine.
 
 Self-regulated learners move through a cycle of three phases, over and over. **Forethought** is what you do before you start (set the goal, make a plan, expect obstacles). **Performance** is what you do while you work (use a strategy, keep track of how it’s going). **Self-reflection** is what you do afterward (look back, then adjust). Each loop makes the next one better. The cycle is named for psychologist Barry Zimmerman.
 
-**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-1-e-zimmerman-cycle-sheet-one-goal.pdf)
+**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-1-e-zimmerman-cycle-sheet-one-goal.pdf){ .md-button }
 
 **Your goal:** pick the goal from [Handout 1-D](#handout-1d) that you most want to keep.
 

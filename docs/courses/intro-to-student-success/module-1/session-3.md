@@ -2,9 +2,21 @@
 
 *Optional extras add about 30 minutes: a 15-minute skim and a 15-minute talk.*
 
-**Focus:** intrinsic vs. extrinsic motivation; Self-Determination Theory (SDT); your motivation statement.
+<div class="grid cards" markdown>
 
-**You'll Make:** SDT ratings and motivation statement (one paragraph).
+-   **Focus**
+
+    ---
+
+    Intrinsic vs. extrinsic motivation, Self-Determination Theory (SDT), and your motivation statement.
+
+-   **You'll make**
+
+    ---
+
+    SDT ratings and a one-paragraph motivation statement.
+
+</div>
 
 ---
 

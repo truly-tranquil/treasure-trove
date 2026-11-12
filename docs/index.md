@@ -17,23 +17,27 @@ A community-run program for self-paced courses and a free learning library
 
 ## Where To Start?
 
-### Pick A Course
+<div class="grid cards" markdown>
 
-The first course is Student Success 101, a free 4-week, self-paced course. More are in the works, and you can vote on the next one on the [What's Next](whats-next.md) page.
+-   **Take a course**
 
-[Courses](courses/index.md)
+    ---
 
-### Learning Library
+    Start with [Student Success 101](courses/intro-to-student-success/index.md), a free, four-week self-paced course. See [all courses](courses/index.md) or [vote on what comes next](whats-next.md).
 
-Free and low-cost books, courses, and media.
+-   **Explore the Learning Library**
 
-[Learning Library](learning-library.md)
+    ---
 
-### Need Support?
+    Browse free and low-cost books, courses, tutoring, and other learning resources in the [Learning Library](learning-library.md).
 
-Crisis lines, ways to find a therapist, and free or low-cost wellness tools.
+-   **Find support**
 
-[Get Help](get-help.md)
+    ---
+
+    Find crisis lines, ways to locate a therapist, and free or low-cost wellness tools on [Get Help](get-help.md).
+
+</div>
 
 ---
 

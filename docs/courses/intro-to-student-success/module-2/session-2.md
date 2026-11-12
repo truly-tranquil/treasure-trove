@@ -2,9 +2,21 @@
 
 *Optional extras add about 25 minutes: a 20-minute reading and a 5-minute partner step, plus an optional podcast episode.*
 
-**Focus:** how to self-test, build a spaced schedule, and mix practice. **CLOs:** 4.
+<div class="grid cards" markdown>
 
-**You'll Make:** retrieval reflection and spaced-practice schedule ([Handout 2-B](materials.md#handout-2b)).
+-   **Focus · CLO 4**
+
+    ---
+
+    How to self-test, build a spaced schedule, and mix practice.
+
+-   **You'll make**
+
+    ---
+
+    A retrieval reflection and spaced-practice schedule ([Handout 2-B](materials.md#handout-2b)).
+
+</div>
 
 ---
 

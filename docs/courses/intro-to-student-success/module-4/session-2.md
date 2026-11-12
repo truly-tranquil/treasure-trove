@@ -2,9 +2,21 @@
 
 *Optional extras add about 5 minutes: a partner step.*
 
-**Focus:** evidence-based recovery strategies and self-compassion. **CLOs:** 8, 2.
+<div class="grid cards" markdown>
 
-**You'll Make:** two chosen recovery strategies and a rehearsed reframe ([Handout 4-B](materials.md#handout-4b)).
+-   **Focus · CLOs 8 and 2**
+
+    ---
+
+    Evidence-based recovery strategies and self-compassion.
+
+-   **You'll make**
+
+    ---
+
+    Two chosen recovery strategies and a rehearsed reframe ([Handout 4-B](materials.md#handout-4b)).
+
+</div>
 
 ---
 

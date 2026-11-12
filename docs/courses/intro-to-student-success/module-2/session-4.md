@@ -2,9 +2,21 @@
 
 *Optional extras add about 5 minutes: a partner step.*
 
-**Focus:** structured reading with SQ3R; margin questions; the "say it in your own words" check. **CLOs:** 6.
+<div class="grid cards" markdown>
 
-**You'll Make:** reading log ([Handout 2-C](materials.md#handout-2c)).
+-   **Focus · CLO 6**
+
+    ---
+
+    Structured reading with SQ3R, margin questions, and the "say it in your own words" check.
+
+-   **You'll make**
+
+    ---
+
+    A reading log ([Handout 2-C](materials.md#handout-2c)).
+
+</div>
 
 ---
 

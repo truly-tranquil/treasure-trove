@@ -48,12 +48,33 @@ Each session opens with a 5-minute warm-up from memory. Then come core ideas and
 
 ### Sessions
 
-| Session | Warm-up | Core ideas + learn | Do | Total | You'll make |
-|---------|---------|--------------------|----|-------|-------------|
-| [1 — The Body in the Room](session-1.md) | 5 min | 25 min | 35 min | ≈65 min | A sleep and stress log, and your early warning signs ([Handout 4-A](materials.md#handout-4a)) |
-| [2 — Regulation That Works](session-2.md) | 5 min | 25 min | 30 min | ≈60 min | Two recovery strategies and a rehearsed reframe ([Handout 4-B](materials.md#handout-4b)) |
-| [3 — You Don't Have to Do It Alone](session-3.md) | 5 min | 10 min | 45 min | ≈60 min | A resources map and setback plan ([Handout 4-C](materials.md#handout-4c)) |
-| [4 — Persistence & the Capstone](session-4.md) | 5 min | 15 min | 70 min | ≈90 min | A persistence note ([Handout 4-D](materials.md#handout-4d)) and your Personal Student Success Plan |
+<div class="grid cards" markdown>
+
+-   ### [Session 1 — The Body in the Room](session-1.md)
+
+    **Time:** ≈65 min · **Warm-up:** 5 min · **Learn:** 25 min · **Do:** 35 min
+
+    Start a sleep and stress log and identify early warning signs ([Handout 4-A](materials.md#handout-4a)).
+
+-   ### [Session 2 — Regulation That Works](session-2.md)
+
+    **Time:** ≈60 min · **Warm-up:** 5 min · **Learn:** 25 min · **Do:** 30 min
+
+    Choose two recovery strategies and rehearse a reframe ([Handout 4-B](materials.md#handout-4b)).
+
+-   ### [Session 3 — You Don't Have to Do It Alone](session-3.md)
+
+    **Time:** ≈60 min · **Warm-up:** 5 min · **Learn:** 10 min · **Do:** 45 min
+
+    Map your resources and make a setback plan ([Handout 4-C](materials.md#handout-4c)).
+
+-   ### [Session 4 — Persistence & the Capstone](session-4.md)
+
+    **Time:** ≈90 min · **Warm-up:** 5 min · **Learn:** 15 min · **Do:** 70 min
+
+    Write a persistence note ([Handout 4-D](materials.md#handout-4d)) and assemble your Personal Student Success Plan.
+
+</div>
 
 ### End-of-week self-check · 15 min
 
@@ -97,12 +118,14 @@ The course ends here, but the plan is meant to keep running. The capstone's [Aft
 
 ## Resources for Week 4
 
-| Source | Used in |
-|--------|---------|
-| [Cornell Health, "Sleep"](https://health.cornell.edu/resources/health-topics/sleep) | [Session 1](session-1.md) |
-| [Greater Good in Action, "Self-Compassion Break" (Kristin Neff)](https://ggia.berkeley.edu/practice/self_compassion_break) | [Session 2](session-2.md) |
-| [Greater Good Science Center, "Happiness Break: How to Be Your Own Best Friend" (≈9 min)](https://greatergood.berkeley.edu/podcasts/item/happiness_break_how_to_be_your_own_best_friend_encore) | [Session 2](session-2.md) |
-| [Get Help](../../../get-help.md) and the [Learning Library](../../../learning-library.md) | [Session 3](session-3.md) |
-| [Angela Duckworth, "Grit: The Power of Passion and Perseverance" (TED, 6 min)](https://youtu.be/H14bBuluwB8) | [Session 4](session-4.md) |
+??? info "Sources and optional reading"
+
+    | Source | Used in |
+    |--------|---------|
+    | [Cornell Health, "Sleep"](https://health.cornell.edu/resources/health-topics/sleep) | [Session 1](session-1.md) |
+    | [Greater Good in Action, "Self-Compassion Break" (Kristin Neff)](https://ggia.berkeley.edu/practice/self_compassion_break) | [Session 2](session-2.md) |
+    | [Greater Good Science Center, "Happiness Break: How to Be Your Own Best Friend" (≈9 min)](https://greatergood.berkeley.edu/podcasts/item/happiness_break_how_to_be_your_own_best_friend_encore) | [Session 2](session-2.md) |
+    | [Get Help](../../../get-help.md) and the [Learning Library](../../../learning-library.md) | [Session 3](session-3.md) |
+    | [Angela Duckworth, "Grit: The Power of Passion and Perseverance" (TED, 6 min)](https://youtu.be/H14bBuluwB8) | [Session 4](session-4.md) |
 
 Session 3 also uses your own school, library, or community resources rather than a fixed link.

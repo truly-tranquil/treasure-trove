@@ -9,9 +9,10 @@ theme:
   features:
     - navigation.footer
     - navigation.top
-    - navigation.tabs
     - navigation.sections
+    - navigation.expand
     - navigation.tracking
+    - toc.follow
     - search.suggest
     - search.highlight
     - search.share
@@ -142,3 +143,4 @@ nav:
           - Session 2: courses/intro-to-student-success/module-4/session-2.md
           - Session 3: courses/intro-to-student-success/module-4/session-3.md
           - Session 4: courses/intro-to-student-success/module-4/session-4.md
+      - Further Resources: courses/intro-to-student-success/further-reading.md

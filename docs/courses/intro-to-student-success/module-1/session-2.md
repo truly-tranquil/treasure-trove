@@ -2,9 +2,21 @@
 
 *Optional extras add about 25 minutes: two readings (5 and 15 minutes) and a 5-minute partner step.*
 
-**Focus:** Dweck's mindset research; reframing fixed-ability beliefs.
+<div class="grid cards" markdown>
 
-**You'll Make:** reframe card (one real setback, rewritten).
+-   **Focus**
+
+    ---
+
+    Dweck's mindset research and reframing fixed-ability beliefs.
+
+-   **You'll make**
+
+    ---
+
+    Rewrite one real setback on a reframe card.
+
+</div>
 
 ---
 

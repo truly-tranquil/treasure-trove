@@ -2,9 +2,21 @@
 
 *Optional extras add about 5 minutes: a partner step.*
 
-**Focus:** reviewing your time audit, and a backward-planned prep routine. **CLOs:** 5 (audit review), 7 (prep routine).
+<div class="grid cards" markdown>
 
-**You'll Make:** a completed time audit ([Handout 3-A](materials.md#handout-3a)) and an exam or assignment prep plan ([Handout 3-D](materials.md#handout-3d)).
+-   **Focus · CLOs 5 (audit review), 7 (prep routine)**
+
+    ---
+
+    Reviewing your time audit and building a backward-planned prep routine.
+
+-   **You'll make**
+
+    ---
+
+    A completed time audit ([Handout 3-A](materials.md#handout-3a)) and an exam or assignment prep plan ([Handout 3-D](materials.md#handout-3d)).
+
+</div>
 
 ---
 

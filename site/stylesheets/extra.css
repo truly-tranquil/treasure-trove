@@ -45,6 +45,11 @@
   --md-primary-bg-color: #ffffff;
   --md-accent-fg-color: var(--dg-accent);
   --md-accent-bg-color: #E8E4E0;
+  --md-footer-bg-color: var(--dg-surface);
+  --md-footer-fg-color: var(--dg-text);
+  --md-footer-fg-color--light: var(--dg-text);
+  --md-footer-fg-color--lighter: var(--dg-text);
+  --md-footer-bg-color--dark: var(--dg-bg);
 }
 
 [data-md-color-scheme="slate"] {
@@ -103,6 +108,71 @@ body, .md-typeset, .md-nav__title, .md-title, .md-header__title {
   line-height: 1.3;
 }
 
+/* Keep short pages at least a viewport tall and push the footer down. */
+.md-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.md-main {
+  flex: 1 0 auto;
+}
+
+.md-typeset .grid.cards > ul > li {
+  border-color: var(--dg-border);
+  background-color: var(--dg-surface);
+}
+
+.md-typeset .grid.cards > ul > li:hover {
+  border-color: var(--dg-ui-border);
+}
+
+.md-typeset details.note {
+  --tt-disclosure-accent: color-mix(in srgb, #448AFF 55%, #808080);
+  --tt-disclosure-bg: color-mix(in srgb, var(--tt-disclosure-accent) 10%, transparent);
+}
+
+.md-typeset details.info {
+  --tt-disclosure-accent: color-mix(in srgb, #00B8D4 55%, #808080);
+  --tt-disclosure-bg: color-mix(in srgb, var(--tt-disclosure-accent) 10%, transparent);
+}
+
+.md-typeset details.example {
+  --tt-disclosure-accent: color-mix(in srgb, #7C4DFF 30%, #808080);
+  --tt-disclosure-bg: color-mix(in srgb, var(--tt-disclosure-accent) 10%, transparent);
+}
+
+.md-typeset details.note,
+.md-typeset details.info,
+.md-typeset details.example {
+  border-color: var(--tt-disclosure-accent);
+}
+
+.md-typeset details.note:focus-within,
+.md-typeset details.info:focus-within,
+.md-typeset details.example:focus-within {
+  box-shadow: 0 0 0 0.2rem var(--tt-disclosure-bg);
+}
+
+.md-typeset details.note > summary,
+.md-typeset details.info > summary,
+.md-typeset details.example > summary {
+  background-color: var(--tt-disclosure-bg);
+}
+
+.md-typeset details.note > summary::before,
+.md-typeset details.info > summary::before,
+.md-typeset details.example > summary::before {
+  background-color: var(--tt-disclosure-accent);
+}
+
+.md-typeset details.note > summary::after,
+.md-typeset details.info > summary::after,
+.md-typeset details.example > summary::after {
+  color: var(--tt-disclosure-accent);
+}
+
 /* -----------------------------------------
    4. Shared button style
    ----------------------------------------- */
@@ -114,6 +184,13 @@ body, .md-typeset, .md-nav__title, .md-title, .md-header__title {
   font-weight: 600 !important;
   font-family: 'Newsreader', Georgia, serif !important;
   text-transform: none !important;
+}
+
+.md-typeset a.md-button[href$=".pdf"] {
+  border-width: 2px !important;
+  border-radius: 12px !important;
+  font-size: 0.9em;
+  padding: 0.3em 0.7em;
 }
 
 .md-button:hover, .md-button--primary:hover {
@@ -244,6 +321,10 @@ textarea:focus-visible {
   color: var(--md-default-fg-color--light);
 }
 
+.md-typeset h1 > .headerlink {
+  display: none;
+}
+
 .md-typeset .headerlink:hover,
 .md-typeset .headerlink:focus {
   color: var(--md-accent-fg-color);
@@ -264,6 +345,40 @@ textarea:focus-visible {
   outline: 2px solid var(--md-primary-bg-color);
   outline-offset: 2px;
   border-radius: 50%;
+}
+
+.tt-toc-toggle {
+  position: fixed;
+  top: 50%;
+  z-index: 20;
+  display: flex;
+  width: 2.2rem;
+  height: 3.5rem;
+  align-items: center;
+  justify-content: center;
+  transform: translateY(-50%);
+  padding: 0;
+  border: 2px solid var(--dg-ui-border);
+  border-right: 0;
+  border-radius: 0.6rem 0 0 0.6rem;
+  background: var(--dg-bg);
+  color: var(--dg-text);
+  font: inherit;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1;
+  cursor: pointer;
+  transition: right 0.3s cubic-bezier(0.4, 0, 0.2, 1), background 0.15s, border-color 0.15s;
+}
+
+.tt-toc-toggle:hover {
+  border-color: var(--dg-accent);
+  background: var(--dg-accent);
+  color: var(--dg-on-accent);
+}
+
+.tt-toc-toggle[hidden] {
+  display: none;
 }
 
 .md-content a:focus-visible,

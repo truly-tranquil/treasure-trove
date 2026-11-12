@@ -1,8 +1,20 @@
 # Session 3 — Notes That Work (≈65 min)
 
-**Focus:** active vs. passive note-taking; the Cornell method; the blank-page recall drill. **CLOs:** 4.
+<div class="grid cards" markdown>
 
-**You'll Make:** one page of active notes.
+-   **Focus · CLO 4**
+
+    ---
+
+    Active vs. passive note-taking, the Cornell method, and the blank-page recall drill.
+
+-   **You'll make**
+
+    ---
+
+    One page of active notes.
+
+</div>
 
 ---
 

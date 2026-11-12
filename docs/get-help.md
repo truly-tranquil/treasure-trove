@@ -11,7 +11,23 @@ As someone who lives in the US, many of these resources are aimed at the US spec
 
 ---
 
-## 1. Crisis Support
+<div class="grid cards" markdown>
+
+-   [Crisis support](#1-crisis-support)
+
+    Start with phone, text, and chat options, including the 988 Suicide & Crisis Lifeline in the US.
+
+-   [Therapy & counseling](#2-therapy-counseling)
+
+    Find directories and lower-cost care options.
+
+-   [Self-care & wellness](#3-self-care-wellness-tools)
+
+    Browse apps, guided practices, and educational tools.
+
+</div>
+
+## 1. Crisis Support { #1-crisis-support }
 
 *Phone numbers last checked November 8, 2026. Numbers can change, so if one doesn't connect, use the website.*
 
@@ -37,7 +53,7 @@ As someone who lives in the US, many of these resources are aimed at the US spec
 
 ---
 
-## 2. Therapy & Counseling
+## 2. Therapy & Counseling { #2-therapy-counseling }
 
 - [Mental Health Coalition Resources](https://www.thementalhealthcoalition.org/resources/) — Curated mental health education and support links.
 - [Psychology Today Therapy Finder](https://www.psychologytoday.com/us/therapists) — Search therapists by location, specialty, insurance, and cost.
@@ -50,7 +66,7 @@ As someone who lives in the US, many of these resources are aimed at the US spec
 
 ---
 
-## 3. Self-Care & Wellness Tools
+## 3. Self-Care & Wellness Tools { #3-self-care-wellness-tools }
 
 - [Headspace](https://www.headspace.com/) — Guided meditation, sleep, and stress tools. Paid subscription, but some libraries, universities, and businesses offer free subscriptions.
 - [Insight Timer](https://insighttimer.com/) — Large library of free guided meditations and talks.

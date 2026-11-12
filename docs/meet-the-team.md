@@ -9,40 +9,39 @@ This is the team page for the Treasure Trove program. All information here will 
 
 I hope you enjoy!
 
-## Program Manager
+<div class="grid cards" markdown>
 
-### About Me
+-   ### Program Manager
 
-Hi! I'm Killian, also known as Truly Tranquil online, and I created this program. I am currently the only team member. 0.o
+    Hi! I'm Killian, also known as Truly Tranquil online, and I created this program. I am currently the only team member. 0.o
 
-**Contact info:**
-[This is my linktree!](https://linktr.ee/truly.tranquil)
+    **Contact info:** [This is my linktree!](https://linktr.ee/truly.tranquil)
 
-**More details:**
+    **More details:**
 
-- He/Him
-- I love crafting and botany
-- I have two cats and a loving partner
+    - He/Him
+    - I love crafting and botany
+    - I have two cats and a loving partner
 
-### My Goals
+    **My Goals**
 
-I really hope to foster an inspiring community of learners. :)
+    I really hope to foster an inspiring community of learners. :)
 
-**Future plans:**
+    **Future plans**
 
-- Make a weekly newsletter?
-- Start hosting live groups?
-- A secret third thing?
+    - Make a weekly newsletter?
+    - Start hosting live groups?
+    - A secret third thing?
 
-## I'm Looking For Volunteers!
+-   ### Volunteer with us { #im-looking-for-volunteers }
 
-- Do you have a love of learning?
-- Do you care about accessibility standards?
-- Do you have 1-3 hours a week free?
-- Do you have any of the following?
-    - Graphic design knowledge
-    - Instructional design skills
-    - Education or tutoring experience
-    - A real can-do attitude and the willingness to try
+    Do you love learning, care about accessibility, and have 1–3 hours a week to contribute? We welcome volunteers with interests or experience in:
 
-If you answered yes to the above questions, please reach out. We'd love to hear from you!
+    - Graphic design
+    - Instructional design
+    - Education or tutoring
+    - Trying new things and helping a small program grow
+
+    If that sounds like you, [get in touch](https://linktr.ee/truly.tranquil).
+
+</div>

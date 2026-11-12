@@ -2,9 +2,21 @@
 
 *Optional extras add about 35 minutes: a 30-minute reading and a 5-minute partner step.*
 
-**Focus:** SMART goals; process vs. outcome goals; Zimmerman's self-regulation cycle; the weekly reflection prompt. **CLOs:** 3 (primary), 1 (applied).
+<div class="grid cards" markdown>
 
-**You'll Make:** SMART goals sheet (3+ goals) with Zimmerman placement, and a Zimmerman cycle sheet for one goal.
+-   **Focus · CLOs 3 (primary), 1 (applied)**
+
+    ---
+
+    SMART goals, process vs. outcome goals, Zimmerman's self-regulation cycle, and the weekly reflection prompt.
+
+-   **You'll make**
+
+    ---
+
+    A SMART goals sheet (3+ goals) with Zimmerman placement, and a Zimmerman cycle sheet for one goal.
+
+</div>
 
 ---
 

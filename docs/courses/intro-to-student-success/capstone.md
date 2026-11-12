@@ -4,7 +4,7 @@
 
 A one- to two-page plan that pulls the whole course together: why you're here, how you learn, how you study, how you run your week, how you stay well, and what you'll do when things go wrong. You build it across all four modules and finish it in [Module 4, Session 4](module-4/session-4.md).
 
-**Download:** [PDF](../../assets/intro%20to%20student%20success/capstone-personal-student-success-plan.pdf)
+**Download:** [PDF](../../assets/intro%20to%20student%20success/capstone-personal-student-success-plan.pdf){ .md-button }
 
 ---
 
@@ -67,7 +67,7 @@ If you ever feel unsafe or in crisis, the [Get Help](../../get-help.md) page lis
 
 | Checkpoint | Focus | Sample lines to adapt |
 |------------|-------|-----------------------|
-| **Day 30** | Make the routines stick | "Do the Sunday reset 4 weeks in a row. Complete one full Day 1 / 3 / 7 spaced cycle for [subject]. Keep the sleep log going." |
+| **Day 30** | Make the routines stick | "Do the Sunday reset 4 weeks in a row. Complete one full Day 1 / 3 / 7 spaced cycle for {subject}. Keep the sleep log going." |
 | **Day 60** | Test and adjust | "Run one exam or assignment prep plan from start to finish and do the after-action review. Cut one low-value habit. Check in with my accountability partner." |
 | **Day 90** | Audit and rewrite | "Repeat the time audit and compare it with my Week 3 results. Rewrite this plan, keeping what worked." |
 

@@ -2,9 +2,21 @@
 
 *Optional extras add about 5 minutes: a partner step.*
 
-**Focus:** sleep, stress, and performance; noticing your own early warning signs. **CLOs:** 8.
+<div class="grid cards" markdown>
 
-**You'll Make:** sleep and stress log, early warning signs ([Handout 4-A](materials.md#handout-4a)).
+-   **Focus · CLO 8**
+
+    ---
+
+    Sleep, stress, and performance; noticing your own early warning signs.
+
+-   **You'll make**
+
+    ---
+
+    A sleep and stress log, plus your early warning signs ([Handout 4-A](materials.md#handout-4a)).
+
+</div>
 
 ---
 

@@ -2,9 +2,21 @@
 
 *Optional extras add about 30 minutes: a 25-minute reading and a 5-minute partner step.*
 
-**Focus:** metacognitive self-assessment; identifying your learning profile.
+<div class="grid cards" markdown>
 
-**You'll Make:** “About Me as a Learner” profile (draft).
+-   **Focus**
+
+    ---
+
+    Metacognitive self-assessment and identifying your learning profile.
+
+-   **You'll make**
+
+    ---
+
+    Draft an “About Me as a Learner” profile.
+
+</div>
 
 ---
 

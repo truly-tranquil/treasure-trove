@@ -2,9 +2,21 @@
 
 *Optional extras add about 5 minutes for a partner step, plus two optional podcast episodes (about 55 and 66 minutes).*
 
-**Focus:** why we avoid, and how to start anyway. **CLOs:** 5.
+<div class="grid cards" markdown>
 
-**You'll Make:** chunked big task and if–then plan ([Handout 3-C](materials.md#handout-3c)).
+-   **Focus · CLO 5**
+
+    ---
+
+    Why we avoid tasks and how to start anyway.
+
+-   **You'll make**
+
+    ---
+
+    A chunked big task and if–then plan ([Handout 3-C](materials.md#handout-3c)).
+
+</div>
 
 ---
 

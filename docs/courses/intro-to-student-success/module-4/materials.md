@@ -19,7 +19,7 @@ This module touches on sleep, stress, and mental health. It is educational, not 
 
 You can't notice a change unless you know what "normal" looks like for you. This handout holds your baseline, a 7-day sleep and stress log, your early warning signs, and a sleep target. It is a working document, not a test.
 
-**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-4-a-well-being-check-in.pdf)
+**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-4-a-well-being-check-in.pdf){ .md-button }
 
 ### What goes on it
 
@@ -69,7 +69,7 @@ You can't notice a change unless you know what "normal" looks like for you. This
 
 Recovery is part of the system. This handout pairs two strategies (ideally one for the body and one for the mind) with the moment you'll use each, and gives you a stress reframe you've already rehearsed. Try each strategy once, notice what it does, and keep what helps.
 
-**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-4-b-my-recovery-plan.pdf)
+**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-4-b-my-recovery-plan.pdf){ .md-button }
 
 ### What goes on it
 
@@ -108,7 +108,7 @@ Recovery is part of the system. This handout pairs two strategies (ideally one f
 
 Using resources is a skill, and strong students use support early. This handout holds your top three real supports and a setback plan: the first three moves you'll make if a bad grade, a crisis, or a low week hits. Deciding in advance is easier than deciding in the middle of it.
 
-**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-4-c-resources-map-setback-plan.pdf)
+**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-4-c-resources-map-setback-plan.pdf){ .md-button }
 
 ### What goes on it
 
@@ -164,7 +164,7 @@ Find at least three real supports, with at least one from a different category t
 
 Persistence is built, not born. This handout turns one past setback into information using your three-move reframe, and gives you a one-sentence self-compassion script for next time. Pick a real setback, not a made-up one. Choose one you're comfortable thinking about.
 
-**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-4-d-persistence-note.pdf)
+**Download:** [PDF](../../../assets/intro%20to%20student%20success/handout-4-d-persistence-note.pdf){ .md-button }
 
 ### What goes on it
 

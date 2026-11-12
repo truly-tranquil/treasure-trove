@@ -33,12 +33,33 @@ Session 2's weekly plan is built from your prediction and the days you've logged
 
 ### Sessions
 
-| Session | Warm-up | Core ideas + learn | Do | Total | You'll make |
-|---------|---------|--------------------|----|-------|-------------|
-| [1 — The Time Audit](session-1.md) | 5 min | 25 min | 10 min, plus daily tracking | ≈40 min | A time log, set up and started ([Handout 3-A](materials.md#handout-3a)) |
-| [2 — The Weekly Operating System, Triage & Tools](session-2.md) | 5 min | 20 min | 45 min | ≈70 min | A weekly plan, triage note, and one-line tool decision ([Handout 3-B](materials.md#handout-3b)) |
-| [3 — Procrastination, Big Tasks & Small Steps](session-3.md) | 5 min | 40 min | 25 min | ≈70 min | A chunked big task with an if–then plan ([Handout 3-C](materials.md#handout-3c)) |
-| [4 — Exams & Assignments Without Cramming](session-4.md) | 5 min | 25 min | 55 min | ≈85 min | A completed time audit ([Handout 3-A](materials.md#handout-3a)) and a prep plan for one real deadline ([Handout 3-D](materials.md#handout-3d)) |
+<div class="grid cards" markdown>
+
+-   ### [Session 1 — The Time Audit](session-1.md)
+
+    **Time:** ≈40 min, plus daily tracking · **Warm-up:** 5 min · **Learn:** 25 min · **Do:** 10 min
+
+    Set up and start a time log ([Handout 3-A](materials.md#handout-3a)).
+
+-   ### [Session 2 — The Weekly Operating System, Triage & Tools](session-2.md)
+
+    **Time:** ≈70 min · **Warm-up:** 5 min · **Learn:** 20 min · **Do:** 45 min
+
+    Make a weekly plan, triage note, and one-line tool decision ([Handout 3-B](materials.md#handout-3b)).
+
+-   ### [Session 3 — Procrastination, Big Tasks & Small Steps](session-3.md)
+
+    **Time:** ≈70 min · **Warm-up:** 5 min · **Learn:** 40 min · **Do:** 25 min
+
+    Break down a big task and make an if–then plan ([Handout 3-C](materials.md#handout-3c)).
+
+-   ### [Session 4 — Exams & Assignments Without Cramming](session-4.md)
+
+    **Time:** ≈85 min · **Warm-up:** 5 min · **Learn:** 25 min · **Do:** 55 min
+
+    Finish the time audit and create a deadline prep plan ([Handouts 3-A](materials.md#handout-3a) and [3-D](materials.md#handout-3d)).
+
+</div>
 
 ### End-of-week self-check · 15 min
 
@@ -104,13 +125,15 @@ Copy this list into your notes or planner and check items off as you go. Every h
 
 ## Resources for Week 3
 
-| Source | Used in |
-|--------|---------|
-| [Iowa State University Academic Success Center, "Time Audit" worksheet (Word file)](https://asc.dso.iastate.edu/files/documents/2026-02/Time%20Audit.docx) | [Session 1](session-1.md) |
-| [LSU Health Sciences Center, "Time Management"](https://www.lsuhsc.edu/administration/academic/studentsuccess/time-management.aspx) | [Session 2](session-2.md) |
-| [University of Central Florida, Eisenhower Matrix (fillable PDF)](https://academicsuccess.ucf.edu/sarc/wp-content/uploads/sites/31/2020/12/Eisenhower-Matrix-Fillable.pdf) | [Session 2](session-2.md) |
-| [Sirois & Pychyl (2013), "Procrastination and the Priority of Short-Term Mood Regulation"](https://eprints.whiterose.ac.uk/91793/) | [Session 3](session-3.md) |
-| [Plain English with Derek Thompson, "The Science of Procrastination" with Tim Pychyl (≈55 min)](https://www.theringer.com/2023/06/20/uncategorized/science-procrastination-how-to-really-get-stuff-done) | [Session 3](session-3.md) (optional) |
-| [Why Do We Do That? #040, "Procrastination with Dr. Tim Pychyl" (66 min)](https://whydowedothat.podbean.com/e/040-procrastination-with-dr-tim-pychyl/) | [Session 3](session-3.md) (optional) |
-| [Cornell Learning Strategies Center, "Studying and Taking Exams"](https://lsc.cornell.edu/how-to-study/studying-for-and-taking-exams) | [Session 4](session-4.md) |
-| [Cornell Learning Strategies Center, "What To Do With Practice Exams"](https://lsc.cornell.edu/how-to-study/studying-for-and-taking-exams/what-to-do-with-practice-exams) | [Session 4](session-4.md) |
+??? info "Sources and optional reading"
+
+    | Source | Used in |
+    |--------|---------|
+    | [Iowa State University Academic Success Center, "Time Audit" worksheet (Word file)](https://asc.dso.iastate.edu/files/documents/2026-02/Time%20Audit.docx) | [Session 1](session-1.md) |
+    | [LSU Health Sciences Center, "Time Management"](https://www.lsuhsc.edu/administration/academic/studentsuccess/time-management.aspx) | [Session 2](session-2.md) |
+    | [University of Central Florida, Eisenhower Matrix (fillable PDF)](https://academicsuccess.ucf.edu/sarc/wp-content/uploads/sites/31/2020/12/Eisenhower-Matrix-Fillable.pdf) | [Session 2](session-2.md) |
+    | [Sirois & Pychyl (2013), "Procrastination and the Priority of Short-Term Mood Regulation"](https://eprints.whiterose.ac.uk/91793/) | [Session 3](session-3.md) |
+    | [Plain English with Derek Thompson, "The Science of Procrastination" with Tim Pychyl (≈55 min)](https://www.theringer.com/2023/06/20/uncategorized/science-procrastination-how-to-really-get-stuff-done) | [Session 3](session-3.md) (optional) |
+    | [Why Do We Do That? #040, "Procrastination with Dr. Tim Pychyl" (66 min)](https://whydowedothat.podbean.com/e/040-procrastination-with-dr-tim-pychyl/) | [Session 3](session-3.md) (optional) |
+    | [Cornell Learning Strategies Center, "Studying and Taking Exams"](https://lsc.cornell.edu/how-to-study/studying-for-and-taking-exams) | [Session 4](session-4.md) |
+    | [Cornell Learning Strategies Center, "What To Do With Practice Exams"](https://lsc.cornell.edu/how-to-study/studying-for-and-taking-exams/what-to-do-with-practice-exams) | [Session 4](session-4.md) |

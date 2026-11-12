@@ -29,8 +29,6 @@ jobs:
       - run: pip install -r requirements.txt
       - run: mkdocs build --strict
       - run: python -m unittest discover -s tests -v
-      - name: Include GitHub Pages marker
-        run: python -c "from pathlib import Path; Path('site/.nojekyll').touch()"
       - name: Prepare lychee root for GitHub Pages base path
         run: |
           mkdir -p "$RUNNER_TEMP/lychee-root"
@@ -38,7 +36,7 @@ jobs:
       - name: Check links
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --verbose --no-progress --offline --root-dir ${{ runner.temp }}/lychee-root site
+          args: --verbose --no-progress --root-dir ${{ runner.temp }}/lychee-root site
       - name: Audit accessibility
         uses: treosh/lighthouse-ci-action@v12
         with:
@@ -48,7 +46,6 @@ jobs:
         uses: actions/upload-pages-artifact@v4
         with:
           path: site
-          include-hidden-files: true
 
   deploy:
     if: github.event_name != 'pull_request'

@@ -8,6 +8,36 @@ Looking for crisis lines, therapy, or wellness tools? See [Get Help](get-help.md
 
 ---
 
+## Browse by topic
+
+<div class="grid cards" markdown>
+
+-   [Courses & study help](#1-course-specific)
+
+    Courses, tutoring, open courseware, and learning platforms.
+
+-   [Books & research](#6-open-textbooks-libraries-research)
+
+    Textbooks, ebooks, research papers, and journals.
+
+-   [Media & culture](#5-bite-sized-audio-learning)
+
+    Audio, video, archives, documentaries, and cultural collections.
+
+-   [Practical interests](#12-hobbies-crafts-home)
+
+    Hobbies, communities, careers, life skills, and educator resources.
+
+-   [Reading & interactive learning](#11-reading-newsletters-interactive-tools)
+
+    Essays, newsletters, and interactive explainers.
+
+-   [Lists of resources](#16-list-of-lists)
+
+    Roundups and directories to help you keep exploring.
+
+</div>
+
 ## 1. Course-Specific
 
 Resources for courses hosted through this program.

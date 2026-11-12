@@ -36,43 +36,43 @@ Each module is one week. It has a start-of-week check, four sessions, and an end
 
 ## Sessions
 
-Session times are on each module's overview page.
+Estimated session times are on each module's overview page.
 
-### Module 1 — Foundations & Mindset: "Who Am I as a Learner?"
+=== "Module 1"
 
-*CLOs 1–3.* [Module overview](module-1/index.md)
+    *"Who Am I as a Learner?" · CLOs 1–3.* [Module overview](module-1/index.md)
 
-- [Session 1 — The Learner Inventory](module-1/session-1.md)
-- [Session 2 — Mindset: Fixed vs. Growth](module-1/session-2.md)
-- [Session 3 — Motivation That Lasts](module-1/session-3.md)
-- [Session 4 — Goals & Self-Regulation](module-1/session-4.md)
+    - [Session 1 — The Learner Inventory](module-1/session-1.md)
+    - [Session 2 — Mindset: Fixed vs. Growth](module-1/session-2.md)
+    - [Session 3 — Motivation That Lasts](module-1/session-3.md)
+    - [Session 4 — Goals & Self-Regulation](module-1/session-4.md)
 
-### Module 2 — Learning How to Learn: "Study in a Way That Sticks"
+=== "Module 2"
 
-*CLOs 4 and 6.* [Module overview](module-2/index.md)
+    *"Study in a Way That Sticks" · CLOs 4 and 6.* [Module overview](module-2/index.md)
 
-- [Session 1 — The Evidence](module-2/session-1.md)
-- [Session 2 — Retrieval, Spacing & Interleaving in Practice](module-2/session-2.md)
-- [Session 3 — Notes That Work](module-2/session-3.md)
-- [Session 4 — Reading Academic Text](module-2/session-4.md)
+    - [Session 1 — The Evidence](module-2/session-1.md)
+    - [Session 2 — Retrieval, Spacing & Interleaving in Practice](module-2/session-2.md)
+    - [Session 3 — Notes That Work](module-2/session-3.md)
+    - [Session 4 — Reading Academic Text](module-2/session-4.md)
 
-### Module 3 — Time, Procrastination & Systems: "Make the Workload Manageable"
+=== "Module 3"
 
-*CLOs 5 and 7.* [Module overview](module-3/index.md)
+    *"Make the Workload Manageable" · CLOs 5 and 7.* [Module overview](module-3/index.md)
 
-- [Session 1 — The Time Audit](module-3/session-1.md) (tracking continues all week)
-- [Session 2 — The Weekly Operating System, Triage & Tools](module-3/session-2.md)
-- [Session 3 — Procrastination, Big Tasks & Small Steps](module-3/session-3.md)
-- [Session 4 — Exams & Assignments Without Cramming](module-3/session-4.md)
+    - [Session 1 — The Time Audit](module-3/session-1.md) (tracking continues all week)
+    - [Session 2 — The Weekly Operating System, Triage & Tools](module-3/session-2.md)
+    - [Session 3 — Procrastination, Big Tasks & Small Steps](module-3/session-3.md)
+    - [Session 4 — Exams & Assignments Without Cramming](module-3/session-4.md)
 
-### Module 4 — Well-being, Resources & Sustainability: "Make It Last"
+=== "Module 4"
 
-*CLO 8, and it integrates all of them.* [Module overview](module-4/index.md)
+    *"Make It Last" · CLO 8, integrating all of them.* [Module overview](module-4/index.md)
 
-- [Session 1 — The Body in the Room](module-4/session-1.md)
-- [Session 2 — Regulation That Works](module-4/session-2.md)
-- [Session 3 — You Don't Have to Do It Alone](module-4/session-3.md)
-- [Session 4 — Persistence & the Capstone](module-4/session-4.md) (the longest session, since you assemble your plan)
+    - [Session 1 — The Body in the Room](module-4/session-1.md)
+    - [Session 2 — Regulation That Works](module-4/session-2.md)
+    - [Session 3 — You Don't Have to Do It Alone](module-4/session-3.md)
+    - [Session 4 — Persistence & the Capstone](module-4/session-4.md) (the longest session, since you assemble your plan)
 
 ---
 

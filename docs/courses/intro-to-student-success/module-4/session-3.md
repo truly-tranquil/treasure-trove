@@ -2,9 +2,21 @@
 
 *Optional extras add about 5 minutes: a partner step.*
 
-**Focus:** finding and using real supports. **CLOs:** 8.
+<div class="grid cards" markdown>
 
-**You'll Make:** resources map and setback plan ([Handout 4-C](materials.md#handout-4c)).
+-   **Focus · CLO 8**
+
+    ---
+
+    Finding and using real supports.
+
+-   **You'll make**
+
+    ---
+
+    A resources map and setback plan ([Handout 4-C](materials.md#handout-4c)).
+
+</div>
 
 ---
 

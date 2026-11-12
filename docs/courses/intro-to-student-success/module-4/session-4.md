@@ -2,9 +2,21 @@
 
 *Optional extras add about 5 minutes: a partner step.*
 
-**Focus:** persistence as a learned behavior, and assembling your plan. **CLOs:** 8 (integrating 1–7).
+<div class="grid cards" markdown>
 
-**You'll Make:** persistence note ([Handout 4-D](materials.md#handout-4d)) and the [Personal Student Success Plan](../capstone.md).
+-   **Focus · CLO 8 (integrating 1–7)**
+
+    ---
+
+    Persistence as a learned behavior and assembling your plan.
+
+-   **You'll make**
+
+    ---
+
+    A persistence note ([Handout 4-D](materials.md#handout-4d)) and your [Personal Student Success Plan](../capstone.md).
+
+</div>
 
 ---
 

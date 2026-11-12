@@ -2,9 +2,21 @@
 
 *Optional extras add about 5 minutes: a partner step.*
 
-**Focus:** passive vs. active study; what the research says about common techniques. **CLOs:** 4.
+<div class="grid cards" markdown>
 
-**You'll Make:** technique autopsy ([Handout 2-A](materials.md#handout-2a)).
+-   **Focus · CLO 4**
+
+    ---
+
+    Passive vs. active study and what the research says about common techniques.
+
+-   **You'll make**
+
+    ---
+
+    A technique autopsy ([Handout 2-A](materials.md#handout-2a)).
+
+</div>
 
 ---
 

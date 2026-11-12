@@ -43,12 +43,33 @@ Each session opens with a 5-minute warm-up from memory. Then come core ideas and
 
 ### Sessions
 
-| Session | Warm-up | Core ideas + learn | Do | Total | You'll make |
-|---------|---------|--------------------|----|-------|-------------|
-| [1 — The Evidence](session-1.md) | 5 min | 50 min | 15 min | ≈70 min | A technique autopsy ([Handout 2-A](materials.md#handout-2a)) |
-| [2 — Retrieval, Spacing & Interleaving in Practice](session-2.md) | 5 min | 30 min | 30 min | ≈65 min | A retrieval reflection and spaced-practice schedule ([Handout 2-B](materials.md#handout-2b)) |
-| [3 — Notes That Work](session-3.md) | 5 min | 40 min | 20 min | ≈65 min | One page of active (Cornell-style) notes |
-| [4 — Reading Academic Text](session-4.md) | 5 min | 20 min | 35 min | ≈60 min | A reading log ([Handout 2-C](materials.md#handout-2c)) |
+<div class="grid cards" markdown>
+
+-   ### [Session 1 — The Evidence](session-1.md)
+
+    **Time:** ≈70 min · **Warm-up:** 5 min · **Learn:** 50 min · **Do:** 15 min
+
+    Complete a technique autopsy ([Handout 2-A](materials.md#handout-2a)).
+
+-   ### [Session 2 — Retrieval, Spacing & Interleaving](session-2.md)
+
+    **Time:** ≈65 min · **Warm-up:** 5 min · **Learn:** 30 min · **Do:** 30 min
+
+    Reflect on retrieval and make a spaced-practice schedule ([Handout 2-B](materials.md#handout-2b)).
+
+-   ### [Session 3 — Notes That Work](session-3.md)
+
+    **Time:** ≈65 min · **Warm-up:** 5 min · **Learn:** 40 min · **Do:** 20 min
+
+    Create one page of active, Cornell-style notes.
+
+-   ### [Session 4 — Reading Academic Text](session-4.md)
+
+    **Time:** ≈60 min · **Warm-up:** 5 min · **Learn:** 20 min · **Do:** 35 min
+
+    Complete a reading log ([Handout 2-C](materials.md#handout-2c)).
+
+</div>
 
 ### End-of-week wrap-up · 30 min { #wrap-up }
 
@@ -96,14 +117,16 @@ Copy this into your notes or planner and check items off as you go. All handouts
 
 ## Resources for Week 2
 
-| Source | Used in |
-|--------|---------|
-| [Dunlosky et al. (2013), "Improving Students' Learning With Effective Learning Techniques"](https://www.psychologicalscience.org/journals/pspi/1529100612453266/) | [Session 1](session-1.md) |
-| [APS Observer, "Test Enhanced Learning"](https://www.psychologicalscience.org/observer/test-enhanced-learning-2) | [Session 1](session-1.md) |
-| [The Learning Scientists: posters](https://www.learningscientists.org/posters) | [Session 2](session-2.md) |
-| [The Learning Scientists: bookmarks](https://www.learningscientists.org/bookmarks) | [Session 2](session-2.md) |
-| [The Learning Scientists Podcast, Episode 1](https://www.learningscientists.org/learning-scientists-podcast/2017/9/5/episode-1-welcome-to-the-learning-scientists-podcast) | [Session 2](session-2.md) (optional) |
-| [Weinstein, Madan & Sumeracki, "Teaching the science of learning"](https://nottingham-repository.worktribe.com/output/906972/teaching-the-science-of-learning) | [Session 2](session-2.md) (optional) |
-| [Cornell Learning Strategies Center, "The Cornell Note Taking System"](https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/) | [Session 3](session-3.md) |
-| [Stanford CTL, "Reading Efficacy: The SQ3R Method"](https://ctl.stanford.edu/students/reading-efficacy-sq3r-method) | [Session 4](session-4.md) |
-| [OpenStax *College Success*, section 6.2, "Studying"](https://openstax.org/books/college-success/pages/6-2-studying) (practice reading) | [Session 4](session-4.md) |
+??? info "Sources and optional reading"
+
+    | Source | Used in |
+    |--------|---------|
+    | [Dunlosky et al. (2013), "Improving Students' Learning With Effective Learning Techniques"](https://www.psychologicalscience.org/journals/pspi/1529100612453266/) | [Session 1](session-1.md) |
+    | [APS Observer, "Test Enhanced Learning"](https://www.psychologicalscience.org/observer/test-enhanced-learning-2) | [Session 1](session-1.md) |
+    | [The Learning Scientists: posters](https://www.learningscientists.org/posters) | [Session 2](session-2.md) |
+    | [The Learning Scientists: bookmarks](https://www.learningscientists.org/bookmarks) | [Session 2](session-2.md) |
+    | [The Learning Scientists Podcast, Episode 1](https://www.learningscientists.org/learning-scientists-podcast/2017/9/5/episode-1-welcome-to-the-learning-scientists-podcast) | [Session 2](session-2.md) (optional) |
+    | [Weinstein, Madan & Sumeracki, "Teaching the science of learning"](https://nottingham-repository.worktribe.com/output/906972/teaching-the-science-of-learning) | [Session 2](session-2.md) (optional) |
+    | [Cornell Learning Strategies Center, "The Cornell Note Taking System"](https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/) | [Session 3](session-3.md) |
+    | [Stanford CTL, "Reading Efficacy: The SQ3R Method"](https://ctl.stanford.edu/students/reading-efficacy-sq3r-method) | [Session 4](session-4.md) |
+    | [OpenStax *College Success*, section 6.2, "Studying"](https://openstax.org/books/college-success/pages/6-2-studying) (practice reading) | [Session 4](session-4.md) |
