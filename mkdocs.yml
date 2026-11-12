@@ -36,6 +36,12 @@ extra_javascript:
 markdown_extensions:
   - attr_list
   - admonition
+  - nl2br
+  - md_in_html
+  - footnotes
+  - def_list
+  - abbr
+  - pymdownx.saneheaders
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.tasklist:
