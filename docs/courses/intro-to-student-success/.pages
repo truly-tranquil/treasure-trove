@@ -1,0 +1,11 @@
+title: Student Success 101
+nav:
+  - index.md
+  - syllabus.md
+  - capstone.md
+  - facilitator-guide.md
+  - "Module 1: Foundations & Mindset": module-1
+  - "Module 2: Learning How to Learn": module-2
+  - "Module 3: Time, Procrastination & Systems": module-3
+  - "Module 4: Well-being, Resources & Sustainability": module-4
+  - "Further Resources": further-reading.md
