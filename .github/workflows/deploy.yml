@@ -30,17 +30,17 @@ jobs:
       - name: Build site from a clean directory
         run: |
           rm -rf site
-          mkdocs build --strict
+          python -m zensical build --strict --clean
       - run: python -m unittest discover -s tests -v
 
       # Guard against accidentally publishing output from a second generator
-      # (for example a leftover Zensical build) or an incomplete theme.
+      # (for example a leftover MkDocs build) or an incomplete theme.
       - name: Verify one generator produced the site
         run: |
           status=0
           while IFS= read -r page; do
-            if ! grep -q 'name="generator" content="mkdocs-' "$page"; then
-              echo "::error file=$page::Page is missing the MkDocs generator tag"
+            if ! grep -q 'name="generator" content="zensical-' "$page"; then
+              echo "::error file=$page::Page is missing the Zensical generator tag"
               status=1
             fi
             if ! grep -q 'class="md-header' "$page"; then
@@ -52,8 +52,8 @@ jobs:
               status=1
             fi
           done < <(find site -name index.html)
-          if grep -rl 'zensical' --include='*.html' site; then
-            echo "::error::Zensical output found in the build"
+          if grep -rl 'mkdocs' --include='*.html' site; then
+            echo "::error::MkDocs output found in the build"
             status=1
           fi
           exit "$status"

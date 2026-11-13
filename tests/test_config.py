@@ -1,4 +1,4 @@
-"""Validate the MkDocs configuration and navigation structure."""
+"""Validate the Zensical configuration and navigation structure."""
 
 import unittest
 from pathlib import Path
@@ -34,7 +34,7 @@ class TestMkDocsConfig(unittest.TestCase):
                 plugin_names.extend(entry.keys())
             else:
                 plugin_names.append(entry)
-        required = ["search", "minify", "git-revision-date-localized", "awesome-pages"]
+        required = ["search"]
         for plugin in required:
             self.assertIn(plugin, plugin_names, f"Missing plugin: {plugin}")
 

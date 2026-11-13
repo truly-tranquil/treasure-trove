@@ -1,23 +1,9 @@
-# Build tool: MkDocs + Material for MkDocs (pinned for reproducible deploys).
-# Zensical is intentionally not installed: the site is built with MkDocs only.
-mkdocs==1.6.1
-mkdocs-material==9.8.1
-
-# Plugins used by mkdocs.yml
-mkdocs-callouts==1.17.1
-mkdocs-redirects==1.2.3
-mkdocs-minify-plugin==0.8.0
-mkdocs-git-revision-date-localized-plugin==1.7.0
-mkdocs-awesome-pages-plugin==2.9.2
-mkdocs-glightbox==0.5.3
-mkdocs-mermaid2-plugin==1.2.3
-mkdocs-macros-plugin==1.5.0
-mkdocs-print-site-plugin==2.9
-mkdocs-gen-files==0.6.1
-mkdocs-htmlproofer-plugin==1.6.0
-mkdocs-video==1.5.0
+# Build tool: Zensical (pinned for reproducible deploys).
+zensical==0.1.1
 
 # Markdown/template dependencies
 pymdown-extensions==13.0
 PyYAML==6.0.3
 Pygments==2.21.0
+markdown==3.11.3
+
