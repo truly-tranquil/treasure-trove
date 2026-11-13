@@ -53,6 +53,6 @@ Hi! I'm Killian, but I also go by Tranquil in online spaces. Welcome in! I'm her
 
 ## Help Make This Better
 
-Have ideas for improvements, or want to report an issue? Join the [official Discord](https://discord.gg/yEWXHNW9gX) and let me know what you think. If you're here to take part in community life, check out the [community guidelines](community-guidelines.md) too.
+Have ideas for improvements, or want to report an issue? Join the [official Discord](https://discord.gg/yEWXHNW9gX) and let me know what you think.
 
 ---
