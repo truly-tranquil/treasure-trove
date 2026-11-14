@@ -357,10 +357,18 @@ textarea:focus-visible {
   text-decoration: underline;
 }
 
-.md-typeset .headerlink {
-  opacity: 1;
-  color: var(--md-default-fg-color--light);
+/* Add underlines to standard content links */
+.md-typeset a:not(.md-button):not(.headerlink) {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
 }
+
+.md-typeset a:not(.md-button):not(.headerlink):hover {
+  text-decoration-thickness: 2px;
+}
+
+
 
 .md-typeset h1 > .headerlink {
   display: none;
