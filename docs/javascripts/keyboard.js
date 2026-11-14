@@ -8,17 +8,15 @@ document.addEventListener("keydown", function (e) {
 });
 
 (function () {
-    function addTocToggle() {
+  function addTocToggle() {
     var sidebar = document.querySelector('.md-sidebar--secondary[data-md-type="toc"]');
     if (!sidebar || !sidebar.querySelector('[data-md-component="toc"] a')) return;
 
-    var isCollapsed = true;
+    var wide = window.matchMedia("(min-width: 60em)");
+    var isCollapsed = false;
     var storageKey = "treasure-trove-toc";
     try {
-      var saved = window.localStorage.getItem(storageKey);
-      if (saved !== null) {
-        isCollapsed = saved === "closed";
-      }
+      isCollapsed = window.localStorage.getItem(storageKey) === "closed";
     } catch (error) {
       console.warn("Could not read the table-of-contents preference.", error);
     }
@@ -27,31 +25,29 @@ document.addEventListener("keydown", function (e) {
     var arrow = document.createElement("span");
     button.className = "tt-toc-toggle";
     button.type = "button";
+    button.hidden = true;
     if (!sidebar.id) sidebar.id = "tt-toc-sidebar";
     button.setAttribute("aria-controls", sidebar.id);
     arrow.setAttribute("aria-hidden", "true");
     button.appendChild(arrow);
 
     function update() {
-      sidebar.hidden = isCollapsed;
-      button.hidden = false;
+      sidebar.hidden = wide.matches && isCollapsed;
+      button.hidden = !wide.matches;
       button.setAttribute("aria-expanded", String(!isCollapsed));
       button.setAttribute(
         "aria-label",
         isCollapsed ? "Expand the on-this-page table of contents" : "Collapse the on-this-page table of contents"
       );
       arrow.textContent = isCollapsed ? "‹" : "›";
-      
-      if (!isCollapsed) {
-        button.style.right = "0";
+      button.style.right = "0";
+      if (!isCollapsed && wide.matches) {
         window.setTimeout(function () {
-          if (!isCollapsed) {
+          if (!isCollapsed && wide.matches) {
             button.style.right =
               document.documentElement.clientWidth - sidebar.getBoundingClientRect().left + "px";
           }
         }, 0);
-      } else {
-        button.style.right = "0";
       }
     }
 
@@ -67,6 +63,8 @@ document.addEventListener("keydown", function (e) {
 
     document.body.appendChild(button);
     window.addEventListener("resize", update);
+    if (wide.addEventListener) wide.addEventListener("change", update);
+    else wide.addListener(update);
     update();
   }
 
